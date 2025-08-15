@@ -1,0 +1,501 @@
+genome_id,genome_name,CsgA,CsgB,AgfA,TasA,FapC,PSM,ChpD,AmyA,CtrA,CopA,CusA,CueO,CopZ,CueR,CusR,CopY,SodA,SodB,SodC,KatA
+100226.1,Streptomyces coelicolor A3(2),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1002809.3,Solibacillus silvestris StLB046,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1005048.3,Collimonas fungivorans Ter331,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+1005058.3,Gallibacterium anatis UMN179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1006551.4,Klebsiella oxytoca KCTC 1686,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1007096.3,Oscillibacter ruminantium GH1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1007105.3,Pusillimonas sp. T7-7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101510.15,Rhodococcus jostii RHA1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1026882.3,Methylophaga aminisulfidivorans MP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1028307.3,Enterobacter aerogenes KCTC 2190,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+103690.1,Nostoc sp. PCC 7120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1045004.4,Oenococcus kitaharae DSM 17330,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1048339.3,Sporichthya polymorpha DSM 43042,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1049789.4,Leptospira broomii str. 5399,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1051632.5,Sulfobacillus acidophilus TPY,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+106370.11,Frankia sp. Ccl3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1069080.3,Succinispira mobilis DSM 6222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1069534.5,Lactobacillus ruminis ATCC 27782,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1073972.4,Arthromitus sp. SFB-mouse-NYU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1078846.3,Methylovulum miyakonense HT12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1085623.3,Glaciecola nitratireducens FR1064,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+1088868.3,Commensalibacter intestini A911,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1112215.3,Salinibacterium sp. PAMC 21357,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1117647.4,Simiduia agarivorans SA1 = DSM 21679,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1120924.3,Acinetobacter baylyi DSM 14961 = CIP 107474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1120961.3,Ahrensia kielensis DSM 5890,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1121428.3,Desulfotomaculum hydrothermale Lam5 = DSM 18033,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1121451.3,Desulfovibrio hydrothermalis AM13 = DSM 14728,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1121862.3,Endozoicomonas elysicola DSM 22380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1121876.3,Fangia hongkongensis DSM 21703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1122132.3,Kaistia granuli DSM 23481,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1122135.3,Kiloniella laminariae DSM 19542,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1122137.3,Kordiimonas gwangyangensis DSM 19435,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1122228.3,Metascardovia criceti DSM 17774,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1123236.3,Salinimonas chungwhensis DSM 16280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1123502.3,Wohlfahrtiimonas chitiniclastica DSM 18708,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131462.4,Dehalobacter sp. CF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1132443.3,Methylosarcina fibrata AML-C10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1140.3,Synechococcus elongatus PCC 7942,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1146883.3,Blastococcus saxobsidens DD2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+1147128.3,Bifidobacterium asteroides PRL2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1148.1,Synechocystis sp. PCC 6803,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1156986.4,Diplorickettsia massiliensis 20B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115711.7,Chlamydophila pneumoniae AR39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1157951.4,Providencia stuartii MRSN 2154,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1162668.3,Leptospirillum ferrooxidans C2-3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1163389.3,Francisella noatunensis subsp. orientalis str. Toba 04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1166018.3,Fibrella aestuarina,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1
+1169145.3,Cryocola sp. 340MFSha3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1171373.8,Propionibacterium acidipropionici ATCC 4875,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+1171377.3,Bibersteinia trehalosi USDA-ARS-USMARC-192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1172188.3,Terracoccus sp. 273MFTsu3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1173022.3,Crinalium epipsammum PCC 9333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1173026.3,Gloeocapsa sp. PCC 7428,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1179773.3,Saccharothrix espanaensis DSM 44229,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+1184607.3,Austwickia chelonae NBRC 105200,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+1185876.3,Fibrisoma limi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1191523.3,Melioribacter roseus P3M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1193729.4,Endolissoclinum patella L2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1195246.3,Alishewanella agri BL06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1199245.3,secondary endosymbiont of Ctenarytaina eucalypti Thao2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1203568.3,Dermabacter sp. HFH0086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1203605.3,Propionibacterium sp. oral taxon 192 str. F0372,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1206109.5,Portiera aleyrodidarum BT-B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1208365.4,SAR86 cluster bacterium SAR86E,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1209989.3,Tepidanaerobacter acetatoxydans Re1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1215343.11,Liberibacter crescens BT-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1218108.3,Empedobacter brevis NBRC 14943 = ATCC 43319,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122587.1,Neisseria meningitidis Z2491,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1230341.3,Salimicrobium sp. MJ3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123214.3,Persephonella marina EX-H1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1234409.3,Catellicoccus marimammalium M35/04/3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1234679.3,Carnobacterium maltaromaticum LMA28,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1
+1235755.3,Salinicoccus carnicancri Crm,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1235794.3,Enterorhabdus caecimuris B7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1238674.3,Weissella ceti NC36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1248916.3,Sandarakinorhabdus sp. AAP62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1255043.3,Thioalkalivibrio nitratireducens DSM 14787,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1260251.3,Spiribacter salinus M19-40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1278308.3,Zimmermannella faecalis ATCC 13722,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1279017.3,Microbulbifer variabilis ATCC 700307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1279038.3,Novispirillum itersonii subsp. itersonii ATCC 12639,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1298593.3,Thalassolituus oleivorans MIL-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13035.3,Dactylococcopsis salina PCC 8305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1303518.3,Chthonomonas calidirosea T49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1316932.3,Mannheimia haemolytica M42548,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+134287.3,secondary endosymbiont of Heteropsylla cubana Thao2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134676.3,Actinoplanes sp. SE50/110,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0
+137722.3,Azospirillum sp. B510,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+138119.3,Desulfitobacterium sp. Y51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142586.28,Eubacterium sp. strain UBA10759,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1519439.626,Oscillibacter sp. ER4 XieH_2016__YSZC12003_36012__bin.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1538.8,Clostridium ljungdahlii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+155920.1,Xylella fastidiosa Ann-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156586.3,Flavobacteria sp. BBFL7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156889.7,Magnetococcus sp. MC-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158878.1,Staphylococcus aureus subsp. aureus Mu50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158879.1,Staphylococcus aureus subsp. aureus N315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+159087.4,Dechloromonas aromatica RCB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160488.1,Pseudomonas putida KT2440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160490.1,Streptococcus pyogenes M1 GAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160491.17,Streptococcus pyogenes str. Manfredo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160492.1,Xylella fastidiosa 9a5c,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1627894.4,Lascolabacillus massiliensis strain SIT8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163164.1,Wolbachia sp. endosymbiont of Drosophila melanogaster,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1637502.3,Odoribacter sp. N15.MGS-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164546.7,Cupriavidus taiwanensis,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0
+167555.5,Prochlorococcus marinus str. NATL1A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+167879.3,Colwellia psychrerythraea 34H,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169963.1,Listeria monocytogenes EGD-e,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+171101.1,Streptococcus pneumoniae R6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+172733.999,uncultured Clostridiales bacterium BritoIL_2016__M1.16.ST__bin.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176279.3,Staphylococcus epidermidis RP62A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176299.3,Agrobacterium tumefaciens str. C58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177437.4,Desulfobacterium autotrophicum HRM2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+177439.1,Desulfotalea psychrophila LSv54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+178306.1,Pyrobaculum aerophilum str. IM2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+180281.4,Cyanobium sp. PCC 7001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1806462.22,Mycoplasma sp. synthetic bacterium JCVI-Syn3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182217.3,Helicobacter cetorum MIT 00-7128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+186497.1,Pyrococcus furiosus DSM 3638,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187272.6,Alkalilimnicola ehrlichii MLHE-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187303.17,Methylocystis sp. SC2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+187420.1,Methanothermobacter thermautotrophicus str. Delta H,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+188937.1,Methanosarcina acetivorans C2A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190192.1,Methanopyrus kandleri AV19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190304.1,Fusobacterium nucleatum subsp. nucleatum ATCC 25586,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190485.1,Xanthomonas campestris pv. campestris ATCC 33913,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190486.1,Xanthomonas axonopodis pv. citri str. 306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190650.1,Caulobacter crescentus CB15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192952.1,Methanosarcina mazei Go1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+194439.1,Chlorobium tepidum TLS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195099.3,Campylobacter jejuni RM1221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195103.9,Clostridium perfringens ATCC 13124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196162.6,Nocardioides sp. JS614,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196164.1,Corynebacterium efficiens YS-314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196627.4,Corynebacterium glutamicum ATCC 13032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197221.1,Thermosynechococcus elongatus BP-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198094.1,Bacillus anthracis str. Ames,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198215.1,Shigella flexneri 2a str. 2457T,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203119.11,Clostridium thermocellum ATCC 27405,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203120.4,Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203122.12,Saccharophagus degradans 2-40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203123.5,Oenococcus oeni PSU-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203124.6,Trichodesmium erythraeum IMS101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203267.1,Tropheryma whipplei str. Twist,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203275.8,Tannerella forsythia ATCC 43037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+203907.1,Blochmannia floridanus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204536.4,Sulfurihydrogenibium azorense Az-Fu1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204669.6,Acidobacteria bacterium Ellin345,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204773.3,Herminiimonas arsenicoxydans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2049040.8,Roseburia sp. strain UBA10760,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205914.5,Haemophilus  somnus 129PT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205921.3,Streptococcus agalactiae A909,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205922.3,Pseudomonas fluorescens PfO-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207559.3,Desulfovibrio desulfuricans G20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207949.3,Bermanella marisrubri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208964.1,Pseudomonas aeruginosa PAO1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209261.1,Salmonella enterica subsp. enterica serovar Typhi Ty2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210007.1,Streptococcus mutans UA159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211586.9,Shewanella oneidensis MR-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212042.5,Anaplasma phagocytophilum HZ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212717.8,Clostridium tetani E88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2144189.15,Mycoplasma sp. synthetic bacterium JCVI-Syn3A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216432.7,Croceibacter atlanticus HTCC2559,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216596.11,Rhizobium leguminosarum bv. viciae 3841,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+217.1,Helicobacter mustelae 43772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218491.3,Erwinia carotovora subsp. atroseptica SCRI1043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218496.1,Tropheryma whipplei TW08/27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218497.4,Chlamydophila abortus S26/3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+219305.4,Micromonospora sp. ATCC 39149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221109.1,Oceanobacillus iheyensis HTE831,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221988.1,Mannheimia succiniciproducens MBEL55E,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222891.5,Neorickettsia sennetsu str. Miyayama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223926.6,Vibrio parahaemolyticus RIMD 2210633,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224308.1,Bacillus subtilis subsp. subtilis str. 168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224324.1,Aquifex aeolicus VF5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224325.1,Archaeoglobus fulgidus DSM 4304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224326.1,Borrelia burgdorferi B31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224911.1,Bradyrhizobium japonicum USDA 110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224914.1,Brucella melitensis 16M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226185.1,Enterococcus faecalis V583,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226186.1,Bacteroides thetaiotaomicron VPI-5482,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226900.1,Bacillus cereus ATCC 14579,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227882.1,Streptomyces avermitilis MA-4680,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228405.5,Hyphomonas neptunium ATCC 15444,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228410.1,Nitrosomonas europaea ATCC 19718,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228908.1,Nanoarchaeum equitans Kin4-M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229193.1,Yersinia pestis biovar Medievalis str. 91001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232721.5,Acidovorax sp. JS42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233412.1,Haemophilus ducreyi 35000HP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234267.9,Solibacter usitatus Ellin6076,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234826.3,Anaplasma marginale str. St. Maries,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235279.1,Helicobacter hepaticus ATCC 51449,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235909.3,Geobacillus kaustophilus HTA426,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237727.3,Erythrobacter sp. NAP1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240015.3,Acidobacterium capsulatum ATCC 51196,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0
+240016.6,Verrucomicrobium spinosum DSM 4136,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240292.3,Anabaena variabilis ATCC 29413,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243090.1,Pirellula sp. 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243090.15,Rhodopirellula baltica SH 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+243160.4,Burkholderia mallei ATCC 23344,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243161.4,Chlamydia muridarum Nigg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243164.3,Dehalococcoides ethenogenes 195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243230.1,Deinococcus radiodurans R1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243231.1,Geobacter sulfurreducens PCA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243232.1,Methanocaldococcus jannaschii DSM 2661,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243233.4,Methylococcus capsulatus str. Bath,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243265.1,Photorhabdus luminescens subsp. laumondii TTO1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243273.1,Mycoplasma genitalium G-37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243274.1,Thermotoga maritima MSB8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243275.1,Treponema denticola ATCC 35405,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243276.1,Treponema pallidum subsp. pallidum str. Nichols,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243277.1,Vibrio cholerae O1 biovar eltor str. N16961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243365.1,Chromobacterium violaceum ATCC 12472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244592.3,Labrenzia alexandrii DFL-11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+246194.3,Carboxydothermus hydrogenoformans Z-2901,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246195.3,Dichelobacter nodosus VCS1703A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246196.19,Mycobacterium smegmatis str. MC2 155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+246197.19,Myxococcus xanthus DK 1622,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246200.7,Ruegeria pomeroyi DSS-3,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0
+246201.1,Streptococcus mitis NCTC 12261,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247156.1,Nocardia farcinica IFM 10152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247639.3,marine gamma proteobacterium HTCC2080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+251221.1,Gloeobacter violaceus PCC 7421,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252305.5,Oceanicola batsensis HTCC2597,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+257309.1,Corynebacterium diphtheriae NCTC 13129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+257310.1,Bordetella bronchiseptica RB50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+257311.1,Bordetella parapertussis 12822,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+257313.1,Bordetella pertussis Tohama I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+257363.1,Rickettsia typhi str. Wilmington,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+258594.1,Rhodopseudomonas palustris CGA009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+259536.4,Psychrobacter sp. 273-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+259564.8,Methanococcoides burtonii DSM 6242,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+261594.1,Bacillus anthracis str. 'Ames Ancestor',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262543.4,Exiguobacterium sibiricum 255-15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262698.3,Brucella abortus biovar 1 str. 9-941,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262723.3,Mycoplasma synoviae 53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262724.1,Thermus thermophilus HB27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262768.1,Onion yellows phytoplasma OY-M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263358.5,Verrucosispora maris AB-18-032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263820.1,Picrophilus torridus DSM 9790,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264198.3,Ralstonia eutropha JMP134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264201.15,Candidatus Protochlamydia amoebophila UWE25,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+264203.3,Zymomonas mobilis subsp. mobilis ZM4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264462.1,Bdellovibrio bacteriovorus HD100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264730.3,Pseudomonas syringae pv. phaseolicola 1448A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264731.4,Prevotella ruminicola 23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+264732.9,Moorella thermoacetica ATCC 39073,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265072.7,Methylobacillus flagellatus KT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265311.3,Mesoplasma florum L1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266117.19,Rubrobacter xylanophilus DSM 9941,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266264.4,Cupriavidus metallidurans CH34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266265.5,Burkholderia xenovorans LB400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266779.9,Chelativorans sp. BNC1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266834.1,Sinorhizobium meliloti 1021,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266835.1,Mesorhizobium loti MAFF303099,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266940.25,Kineococcus radiotolerans SRS30216 = ATCC BAA-149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267377.1,Methanococcus maripaludis S2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267608.1,Ralstonia solanacearum GMI1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267671.1,Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267747.1,Propionibacterium acnes KPA171202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267748.1,Mycoplasma mobile 163K,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269483.3,Burkholderia cepacia R18194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269484.4,Ehrlichia canis str. Jake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269796.9,Rhodospirillum rubrum ATCC 11170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269797.3,Methanosarcina barkeri str. fusaro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269798.12,Cytophaga hutchinsonii ATCC 33406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269799.3,Geobacter metallireducens GS-15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269800.4,Thermobifida fusca YX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271065.3,Methylomicrobium alcaliphilum,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0
+272557.1,Aeropyrum pernix K1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272558.1,Bacillus halodurans C-125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272559.3,Bacteroides fragilis ATCC 25285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272561.1,Chlamydia trachomatis D/UW-3/CX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272562.1,Clostridium acetobutylicum ATCC 824,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272564.4,Desulfitobacterium hafniense DCB-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272568.11,Gluconacetobacter diazotrophicus PAl 5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272620.3,Klebsiella pneumoniae MGH 78578,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272621.3,Lactobacillus acidophilus NCFM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272623.1,Lactococcus lactis subsp. lactis Il1403,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272624.3,Legionella pneumophila subsp. pneumophila str. Philadelphia 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272626.1,Listeria innocua Clip11262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272631.1,Mycobacterium leprae TN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272633.1,Mycoplasma penetrans HF-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272634.1,Mycoplasma pneumoniae M129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272635.1,Mycoplasma pulmonis UAB CTIP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272843.1,Pasteurella multocida subsp. multocida str. Pm70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272844.1,Pyrococcus abyssi GE5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272942.6,Rhodobacter capsulatus SB1003,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+272943.3,Rhodobacter sphaeroides 2.4.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273057.1,Sulfolobus solfataricus P2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273063.1,Sulfolobus tokodaii str. 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273068.3,Thermoanaerobacter tengcongensis MB4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273075.1,Thermoplasma acidophilum DSM 1728,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273116.1,Thermoplasma volcanium GSS1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273119.1,Ureaplasma parvum serovar 3 ATCC 700970,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273121.1,Wolinella succinogenes DSM 1740,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273123.1,Yersinia pseudotuberculosis IP 32953,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279010.5,Bacillus licheniformis ATCC 14580,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279238.18,Novosphingobium aromaticivorans DSM 12444,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279714.3,Lutiella nitroferrum 2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279808.3,Staphylococcus haemolyticus JCSC1435,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+281309.3,Bacillus thuringiensis serovar konkukian str. 97-27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+281689.4,Desulfuromonas acetoxidans DSM 684,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282458.1,Staphylococcus aureus subsp. aureus MRSA252,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+283165.1,Bartonella quintana str. Toulouse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+283166.1,Bartonella henselae str. Houston-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+283942.3,Idiomarina loihiensis L2TR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+287752.3,Aurantimonas manganoxydans SI85-9A1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+288000.5,Bradyrhizobium sp. BTAi1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+288705.3,Renibacterium salmoninarum ATCC 33209,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+289376.4,Thermodesulfovibrio yellowstonii DSM 11347,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290315.4,Chlorobium limicola DSM 245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290318.4,Prosthecochloris vibrioformis DSM 265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290338.6,Citrobacter koseri ATCC BAA-895,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290339.8,Cronobacter sakazakii ATCC BAA-894,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+290397.13,Anaeromyxobacter dehalogenans 2CP-C,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290398.4,Chromohalobacter salexigens DSM 3043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290402.34,Clostridium beijerincki beijerinckii NCIMB 8052,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290434.1,Borrelia garinii PBi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290512.6,Prosthecochloris aestuarii DSM 271,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290633.1,Gluconobacter oxydans 621H,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292415.3,Thiobacillus denitrificans ATCC 25259,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292459.1,Symbiobacterium thermophilum IAM 14863,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292805.3,Wolbachia endosymbiont strain TRS of Brugia malayi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293653.3,Streptococcus pyogenes MGAS5005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293826.4,Alkaliphilus metalliredigens QYMF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+295358.3,Mycoplasma hyopneumoniae 232,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+296591.12,Polaromonas sp. JS666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+297245.3,Legionella pneumophila str. Lens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+297246.3,Legionella pneumophila str. Paris,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298386.1,Photobacterium profundum SS9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298653.4,Frankia sp. EAN1pec,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+299768.3,Streptococcus thermophilus CNRZ1066,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300267.13,Shigella dysenteriae Sd197,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,0
+300852.3,Thermus thermophilus HB8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302409.3,Ehrlichia ruminantium str. Gardel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+306264.1,Campylobacter upsaliensis RM3195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309798.3,Coprothermobacter proteolyticus DSM 5265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309799.3,Dictyoglomus thermophilum H-6-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309801.4,Thermomicrobium roseum DSM 5159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309807.19,Salinibacter ruber DSM 13855,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311403.8,Agrobacterium radiobacter K84,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0
+312153.3,Polynucleobacter sp. QLW-P1DMWA-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312284.4,marine actinobacterium PHSC20C1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312309.3,Vibrio fischeri ES114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313589.5,Janibacter sp. HTCC2649,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313590.6,Dokdonia donghaensis MED134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313594.4,Polaribacter irgensii 23-P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313595.4,Psychroflexus torquis ATCC 700755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313596.4,Robiginitalea biformata HTCC2501,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313598.3,Tenacibaculum sp. MED152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313603.4,Flavobacteriales bacterium HTCC2170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314225.8,Erythrobacter litoralis HTCC2594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314230.4,Blastopirellula marina DSM 3645,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314231.3,Fulvimarina pelagi HTCC2506,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314232.4,Loktanella vestfoldensis SKA53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314254.5,Oceanicaulis alexandrii HTCC2633,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314260.5,Parvularcula bermudensis HTCC2503,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314262.3,Roseobacter sp. MED193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314264.3,Roseovarius sp. 217,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314265.3,Roseovarius sp. HTCC2601,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314266.4,Sphingomonas sp. SKA58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314267.3,Sulfitobacter sp. NAS-14.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314275.6,Alteromonas macleodii 'Deep ecotype',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314281.6,Pseudoalteromonas tunicata strain D2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314283.5,Reinekea blandensis MED297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314285.4,Congregibacter litoralis KT71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314292.23,Photobacterium angustum S14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314345.3,Mariprofundus ferrooxydans PV-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314607.3,beta proteobacterium KB13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314723.3,Borrelia hermsii DAH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+316056.14,Rhodopseudomonas palustris BisB18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+316067.3,Geobacter sp. FRC-32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+316274.3,Herpetosiphon aurantiacus ATCC 23779,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+316275.9,Aliivibrio salmonicida LFI1238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+316279.3,Synechococcus sp. CC9902,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+316407.3,Escherichia coli W3110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+317025.3,Thiomicrospira crunogena XCL-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+317655.9,Sphingopyxis alaskensis RB2256,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+318161.14,Shewanella denitrificans OS217,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+318586.4,Paracoccus denitrificans PD1222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+319225.3,Pelodictyon luteolum DSM 273,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+319795.16,Deinococcus geothermalis DSM 11300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+321955.3,Brevibacterium linens BL2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+321967.8,Lactobacillus casei ATCC 334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+322710.5,Azotobacter vinelandii DJ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0
+323097.3,Nitrobacter hamburgensis X14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+323259.5,Methanospirillum hungatei JF-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+323261.3,Nitrosococcus oceani ATCC 19707,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+323848.3,Nitrosospira multiformis ATCC 25196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+324057.4,Paenibacillus sp. JDR-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+324602.4,Chloroflexus aurantiacus J-10-fl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+324925.4,Pelodictyon phaeoclathratiforme BU-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+325240.9,Shewanella baltica OS155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326297.7,Shewanella amazonensis SB2B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326298.3,Thiomicrospira denitrificans ATCC 33889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326424.13,Frankia alni ACN14a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326426.4,Bifidobacterium breve UCC2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326442.4,Pseudoalteromonas haloplanktis TAC125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+329726.14,Acaryochloris marina MBIC11017,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+330214.5,Candidatus Nitrospira defluvii,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+33043.1533,Coprococcus eutactus strain MGYG-HGUT-00231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+330779.3,Sulfolobus acidocaldarius DSM 639,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331104.5,Blattabacterium sp. (Blattella germanica) str. Bge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+334380.3,Orientia tsutsugamushi str. Ikeda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+334390.3,Lactobacillus fermentum IFO 3956,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+334413.6,Finegoldia magna ATCC 29328,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335283.5,Nitrosomonas eutropha C91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335284.3,Psychrobacter cryohalolentis K5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335541.4,Syntrophomonas wolfei subsp. wolfei str. Goettingen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335543.6,Syntrophobacter fumaroxidans MPOB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335992.3,Pelagibacter ubique HTCC1062,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336407.4,Rickettsia bellii RML369-C,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338187.4,Vibrio harveyi ATCC BAA-1116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338963.3,Pelobacter carbinolicus DSM 2380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338966.5,Pelobacter propionicus DSM 2379,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338969.3,Rhodoferax ferrireducens DSM 15236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+339671.5,Actinobacillus succinogenes 130Z,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+339860.6,Methanosphaera stadtmanae DSM 3091,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+340099.4,Thermoanaerobacter pseudethanolicus ATCC 33223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+340102.3,Pyrobaculum arsenaticum DSM 13514,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+340177.8,Chlorobium chlorochromatii CaD3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+342108.5,Magnetospirillum magneticum AMB-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+342610.6,Pseudoalteromonas atlantica T6c,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+347257.4,Mycoplasma agalactiae PG2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+348780.3,Natronomonas pharaonis DSM 2160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349101.4,Rhodobacter sphaeroides ATCC 17029,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349124.5,Halorhodospira halophila SL1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349161.4,Desulfotomaculum reducens MI-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349163.4,Acidiphilium cryptum JF-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349307.9,Methanosaeta thermophila PT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349521.5,Hahella chejuensis KCTC 2396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349741.3,Akkermansia muciniphila ATCC BAA-835,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349968.3,Yersinia bercovieri ATCC 43970,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350058.5,Mycobacterium vanbaaleni vanbaalenii PYR-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350688.3,Alkaliphilus oremlandi oremlandii OhILAs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351160.3,Uncultured methanogenic archaeon RC-I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351348.5,Marinobacter hydrocarbonoclasticus aquaeolei VT8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351605.4,Geobacter uraniireducens Rf4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351607.5,Acidothermus cellulolyticus 11B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351627.4,Caldicellulosiruptor saccharolyticus DSM 8903,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354242.8,Campylobacter jejuni subsp. jejuni 81-176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+355278.4,Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)',0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+357244.3,Orientia tsutsugamushi Boryong,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+357544.13,Helicobacter pylori HPAG1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+357804.5,Psychromonas ingrahami ingrahamii 37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+357808.3,Roseiflexus sp. RS-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+357809.4,Clostridium phytofermentans ISDg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+358681.3,Brevibacillus brevis NBRC 100599,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+360095.7,Bartonella bacilliformis KC583,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360106.5,Campylobacter fetus subsp. fetus 82-40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360107.5,Campylobacter hominis ATCC BAA-381,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+362242.7,Mycobacterium ulcerans Agy99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+363253.4,Lawsonia intracellularis PHE/MN1-00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+365046.3,Ramlibacter tataouinensis TTB310,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+367737.4,Arcobacter butzleri RM4018,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367928.5,Bifidobacterium adolescentis ATCC 15703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+368407.6,Methanoculleus marisnigri JR1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+368408.5,Thermofilum pendens Hrk 5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36870.1,Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369723.3,Salinispora tropica CNB-440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+370438.3,Pelotomaculum thermopropionicum SI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+372461.16,Buchnera aphidicola str. Cc (Cinara cedri),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373903.4,Halothermothrix orenii H 168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373994.3,Rivularia sp. PCC 7116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374463.4,Baumannia cicadellinicola str. Hc (Homalodisca coagulata),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374847.3,Korarchaeum cryptofilum OPF8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+375286.6,Janthinobacterium sp. Marseille,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+375451.6,Roseobacter denitrificans OCh 114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376686.6,Flavobacterium johnsonia johnsoniae UW101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37692.4,Candidatus Phytoplasma mali,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+377629.3,Teredinibacter turnerae T7901,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+378753.3,Kocuria rhizophila DC2201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+378806.8,Stigmatella aurantiaca DW4/3-1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+379066.3,Gemmatimonas aurantiaca T-27,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+379731.5,Pseudomonas stutzeri A1501,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+380394.3,Acidithiobacillus ferrooxidans ATCC 53993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380703.5,Aeromonas hydrophila subsp. hydrophila ATCC 7966,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380749.4,Hydrogenobaculum sp. Y04AAS1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+381764.6,Fervidobacterium nodosum Rt17-B1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+382464.3,Verrucomicrobiae bacterium DG1235,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+382638.8,Helicobacter acinonychis str. Sheeba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+383372.4,Roseiflexus castenholzi DSM 13941,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+384616.5,Pyrobaculum islandicum DSM 4184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+386415.6,Clostridium novyi NT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387092.5,Nitratiruptor sp. SB155-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387093.4,Sulfurovum sp. NBC37-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387344.13,Lactobacillus brevis ATCC 367,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388399.4,Sagittula stellata E-37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388413.5,Algoriphagus sp. PR1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388919.8,Streptococcus sanguinis SK36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+390236.5,Borrelia afzelii PKo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+390333.6,Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391008.3,Stenotrophomonas maltophilia R551-3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391009.4,Thermosipho melanesiensis BI429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391037.3,Salinispora arenicola CNS-205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391165.8,Granulibacter bethesdensis CGDNIH1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391296.7,Streptococcus suis 98HAH33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

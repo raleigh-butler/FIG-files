@@ -1,0 +1,4 @@
+search_term,genome_id,success,count,error,accession,patric_id,product,start,end,strand,feature_type,gene,locus_tag,protein_id,function,subsystem
+copA,NC,TRUE,1,,NC_006569,fig|100226.1.peg.123,Copper-translocating P-type ATPase,415635,418000,+,CDS,copA,XYZ_001,ABC123,Copper transport,Copper homeostasis
+copA,NC,TRUE,1,,NC_006569,fig|100226.1.peg.456,Copper efflux pump,420000,422500,-,CDS,copA,XYZ_002,DEF456,,
+sodA,NC,TRUE,1,,NC_007795,fig|200226.1.peg.789,Superoxide dismutase [Mn],125000,125600,+,CDS,sodA,ABC_003,,Superoxide detoxification,

@@ -1,0 +1,195 @@
+{
+  "search_results": {
+    "CsgA": [],
+    "CopA": [
+      {
+        "patric_id": "fig|1051632.5.peg.3521",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1051632.5",
+        "gene": "copA",
+        "start": 3354051,
+        "end": 3356477
+      },
+      {
+        "product": "copper-translocating P-type ATPase",
+        "genome_id": "1051632.5",
+        "gene": "copA",
+        "start": 3354051,
+        "end": 3356477
+      },
+      {
+        "product": "copper exporting ATPase",
+        "genome_id": "1028307.3",
+        "gene": "copA",
+        "start": 2794598,
+        "end": 2797099
+      },
+      {
+        "patric_id": "fig|1005048.3.peg.3063",
+        "product": "Multicopper oxidase",
+        "genome_id": "1005048.3",
+        "gene": "copA",
+        "start": 3503604,
+        "end": 3504974
+      },
+      {
+        "product": "putative oxidase copper oxidase",
+        "genome_id": "1005048.3",
+        "gene": "copA",
+        "start": 3503583,
+        "end": 3504974
+      },
+      {
+        "product": "copper exporting ATPase",
+        "genome_id": "1006551.4",
+        "gene": "copA",
+        "start": 2829777,
+        "end": 2832278
+      },
+      {
+        "patric_id": "fig|1028307.3.peg.2604",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1028307.3",
+        "gene": "copA",
+        "start": 2794598,
+        "end": 2797099
+      },
+      {
+        "patric_id": "fig|1006551.4.peg.2637",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1006551.4",
+        "gene": "copA",
+        "start": 2829777,
+        "end": 2832278
+      }
+    ],
+    "SodA": [
+      {
+        "patric_id": "fig|1051632.5.peg.2728",
+        "product": "Superoxide dismutase",
+        "genome_id": "1051632.5",
+        "gene": "sodA",
+        "start": 2599212,
+        "end": 2599811
+      },
+      {
+        "product": "Superoxide dismutase",
+        "genome_id": "1051632.5",
+        "gene": "sodA",
+        "start": 2599212,
+        "end": 2599763
+      }
+    ]
+  },
+  "genome_metadata": {
+    "100226.1": {
+      "genome_name": "Streptomyces coelicolor A3(2)",
+      "rep100": "100226.15",
+      "rep200": "100226.15"
+    },
+    "1002809.3": {
+      "genome_name": "Solibacillus silvestris StLB046",
+      "rep100": "1002809.3",
+      "rep200": "1002809.3"
+    },
+    "1005048.3": {
+      "genome_name": "Collimonas fungivorans Ter331",
+      "rep100": "1005048.3",
+      "rep200": "1005048.3"
+    },
+    "1005058.3": {
+      "genome_name": "Gallibacterium anatis UMN179",
+      "rep100": "71421.8",
+      "rep200": "1005058.3"
+    },
+    "1006551.4": {
+      "genome_name": "Klebsiella oxytoca KCTC 1686",
+      "rep100": "511145.12",
+      "rep200": "511145.12"
+    },
+    "1007096.3": {
+      "genome_name": "Oscillibacter ruminantium GH1",
+      "rep100": "1007096.3",
+      "rep200": "1007096.3"
+    },
+    "1007105.3": {
+      "genome_name": "Pusillimonas sp. T7-7",
+      "rep100": "568707.3",
+      "rep200": "1007105.3"
+    },
+    "101510.15": {
+      "genome_name": "Rhodococcus jostii RHA1",
+      "rep100": "1448389.3",
+      "rep200": "2806442.3"
+    },
+    "1026882.3": {
+      "genome_name": "Methylophaga aminisulfidivorans MP",
+      "rep100": "1026882.3",
+      "rep200": "1026882.3"
+    },
+    "1028307.3": {
+      "genome_name": "Enterobacter aerogenes KCTC 2190",
+      "rep100": "511145.12",
+      "rep200": "511145.12"
+    },
+    "103690.1": {
+      "genome_name": "Nostoc sp. PCC 7120",
+      "rep100": "1170562.3",
+      "rep200": "99598.3"
+    },
+    "1045004.4": {
+      "genome_name": "Oenococcus kitaharae DSM 17330",
+      "rep100": "203123.7",
+      "rep200": "1045004.4"
+    },
+    "1048339.3": {
+      "genome_name": "Sporichthya polymorpha DSM 43042",
+      "rep100": "1048339.7",
+      "rep200": "1048339.7"
+    },
+    "1049789.4": {
+      "genome_name": "Leptospira broomii str. 5399",
+      "rep100": "1049972.3",
+      "rep200": "1049789.4"
+    },
+    "1051632.5": {
+      "genome_name": "Sulfobacillus acidophilus TPY",
+      "rep100": "1051632.5",
+      "rep200": "1051632.5"
+    },
+    "106370.11": {
+      "genome_name": "Frankia sp. Ccl3",
+      "rep100": "106370.16",
+      "rep200": "106370.16"
+    },
+    "1069080.3": {
+      "genome_name": "Succinispira mobilis DSM 6222",
+      "rep100": "1069080.9",
+      "rep200": "1069080.9"
+    },
+    "1069534.5": {
+      "genome_name": "Lactobacillus ruminis ATCC 27782",
+      "rep100": "362948.14",
+      "rep200": "1623.264"
+    },
+    "1073972.4": {
+      "genome_name": "Arthromitus sp. SFB-mouse-NYU",
+      "rep100": "1041504.3",
+      "rep200": "1041809.3"
+    },
+    "1078846.3": {
+      "genome_name": "Methylovulum miyakonense HT12",
+      "rep100": "271065.3",
+      "rep200": "1078846.3"
+    }
+  },
+  "summary": {
+    "total_hits": 10,
+    "genomes_tested": 20,
+    "roles_tested": [
+      "CsgA",
+      "CopA",
+      "SodA"
+    ]
+  }
+}

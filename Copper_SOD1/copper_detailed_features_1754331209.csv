@@ -1,0 +1,269 @@
+genome_id,genome_name,role,gene,product,patric_id,start,end,track
+1255043.3,Thioalkalivibrio nitratireducens DSM 14787,CsgA,csgA [H],Short chain dehydrogenase,,1128712,1129407,AMYLOID
+1255043.3,Thioalkalivibrio nitratireducens DSM 14787,CsgA,csgA [H],Short-chain dehydrogenase,fig|1255043.3.peg.1197,1128712,1129407,AMYLOID
+134676.3,Actinoplanes sp. SE50/110,CsgA,csgA,short-chain dehydrogenase/reductase SDR,,4704943,4705704,AMYLOID
+134676.3,Actinoplanes sp. SE50/110,CsgA,csgA,Short-chain dehydrogenase/reductase SDR?,fig|134676.3.peg.4192,4705024,4705704,AMYLOID
+378806.8,Stigmatella aurantiaca DW4/3-1,CsgA,csgA,c-signal protein,,2390215,2390925,AMYLOID
+378806.8,Stigmatella aurantiaca DW4/3-1,CsgA,csgA,hypothetical protein,fig|378806.8.peg.1985,2390215,2390925,AMYLOID
+1069534.5,Lactobacillus ruminis ATCC 27782,AmyA,amyA,Alpha-amylase,,1573573,1575372,AMYLOID
+1069534.5,Lactobacillus ruminis ATCC 27782,AmyA,amyA,Neopullulanase (EC 3.2.1.135),fig|1069534.5.peg.1625,1573573,1575372,AMYLOID
+1069534.5,Lactobacillus ruminis ATCC 27782,AmyA,amyA,Alpha-amylase,,494753,496378,AMYLOID
+1069534.5,Lactobacillus ruminis ATCC 27782,AmyA,amyA,"Glucan 1,6-alpha-glucosidase (EC 3.2.1.70)",fig|1069534.5.peg.498,494753,496378,AMYLOID
+134676.3,Actinoplanes sp. SE50/110,AmyA,amyA,alpha amylase catalytic region,,4403165,4404493,AMYLOID
+1179773.3,Saccharothrix espanaensis DSM 44229,AmyA,amyA,alpha-amylase,,5161319,5162779,AMYLOID
+1179773.3,Saccharothrix espanaensis DSM 44229,AmyA,amyA,"alpha amylase, catalytic region",fig|1179773.3.peg.4704,5161319,5162779,AMYLOID
+134676.3,Actinoplanes sp. SE50/110,AmyA,amyA,"alpha amylase, catalytic region",fig|134676.3.peg.3907,4403165,4404493,AMYLOID
+271065.3,Methylomicrobium alcaliphilum,AmyA,amyA,"Alpha amylase, catalytic region",fig|271065.3.peg.3614,4031921,4033129,AMYLOID
+271065.3,Methylomicrobium alcaliphilum,AmyA,amyA,Alpha amylase family protein,,4031921,4033189,AMYLOID
+300267.13,Shigella dysenteriae Sd197,AmyA,amyA,cytoplasmic alpha-amylase,,1015751,1017238,AMYLOID
+300267.13,Shigella dysenteriae Sd197,AmyA,amyA,Cytoplasmic alpha-amylase (EC 3.2.1.1),fig|300267.13.peg.1278,1015751,1017238,AMYLOID
+246200.7,Ruegeria pomeroyi DSS-3,CtrA,ctrA,Cell cycle transcriptional regulator CtrA,fig|246200.7.peg.1706,1785341,1786057,COPPER
+246200.7,Ruegeria pomeroyi DSS-3,CtrA,ctrA,DNA-binding response regulator CtrA,,1785341,1786057,COPPER
+272942.6,Rhodobacter capsulatus SB1003,CtrA,ctrA,cell cycle transcriptional regulator CtrA,,1800841,1801554,COPPER
+272942.6,Rhodobacter capsulatus SB1003,CtrA,ctrA,Cell cycle transcriptional regulator CtrA,fig|272942.6.peg.1688,1800841,1801554,COPPER
+311403.8,Agrobacterium radiobacter K84,CtrA,ctrA,Cell cycle transcriptional regulator CtrA,fig|311403.8.peg.5232,2799942,2800589,COPPER
+311403.8,Agrobacterium radiobacter K84,CtrA,ctrA,two-component response regulator protein controls chromosomal replication initiation,,2799888,2800589,COPPER
+1121428.3,Desulfotomaculum hydrothermale Lam5 = DSM 18033,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|1121428.3.peg.315,59489,61915,COPPER
+1171373.8,Propionibacterium acidipropionici ATCC 4875,CopA,copA,Copper-exporting ATPase CopA,,254561,256570,COPPER
+1121428.3,Desulfotomaculum hydrothermale Lam5 = DSM 18033,CopA,copA,Copper-exporting P-type ATPase A,,59489,61915,COPPER
+1051632.5,Sulfobacillus acidophilus TPY,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|1051632.5.peg.3521,3354051,3356477,COPPER
+1157951.4,Providencia stuartii MRSN 2154,CopA,copA,copper exporting ATPase,,998895,1001840,COPPER
+1171373.8,Propionibacterium acidipropionici ATCC 4875,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|1171373.8.peg.237,254561,256570,COPPER
+1051632.5,Sulfobacillus acidophilus TPY,CopA,copA,copper-translocating P-type ATPase,,3354051,3356477,COPPER
+1146883.3,Blastococcus saxobsidens DD2,CopA,copA,copper-transporting P-type ATPase,,3228347,3230677,COPPER
+1157951.4,Providencia stuartii MRSN 2154,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|1157951.4.peg.962,998895,1001840,COPPER
+1028307.3,Enterobacter aerogenes KCTC 2190,CopA,copA,copper exporting ATPase,,2794598,2797099,COPPER
+1005048.3,Collimonas fungivorans Ter331,CopA,copA,Multicopper oxidase,fig|1005048.3.peg.3063,3503604,3504974,COPPER
+1146883.3,Blastococcus saxobsidens DD2,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|1146883.3.peg.3124,3228347,3230677,COPPER
+1005048.3,Collimonas fungivorans Ter331,CopA,copA,putative oxidase copper oxidase,,3503583,3504974,COPPER
+1006551.4,Klebsiella oxytoca KCTC 1686,CopA,copA,copper exporting ATPase,,2829777,2832278,COPPER
+1028307.3,Enterobacter aerogenes KCTC 2190,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|1028307.3.peg.2604,2794598,2797099,COPPER
+1006551.4,Klebsiella oxytoca KCTC 1686,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|1006551.4.peg.2637,2829777,2832278,COPPER
+1316932.3,Mannheimia haemolytica M42548,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|1316932.3.peg.2567,2436887,2439079,COPPER
+1316932.3,Mannheimia haemolytica M42548,CopA,copA,copper-exporting P-type ATPase CopA,,2436887,2439079,COPPER
+1255043.3,Thioalkalivibrio nitratireducens DSM 14787,CopA,copA [H],"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|1255043.3.peg.1581,1549070,1551589,COPPER
+1184607.3,Austwickia chelonae NBRC 105200,CopA,copA,copper-transporting ATPase CopA,,116458,118887,COPPER
+1234679.3,Carnobacterium maltaromaticum LMA28,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|1234679.3.peg.3176,3177212,3179428,COPPER
+1184607.3,Austwickia chelonae NBRC 105200,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|1184607.3.peg.3003,116458,118887,COPPER
+1234679.3,Carnobacterium maltaromaticum LMA28,CopA,copA,copper-translocating P-type ATPase,,3177212,3179428,COPPER
+1255043.3,Thioalkalivibrio nitratireducens DSM 14787,CopA,copA [H],Copper-translocating P-type ATPase,,1549070,1551589,COPPER
+137722.3,Azospirillum sp. B510,CopA,copA,Cu2+-exporting ATPase,,479063,481543,COPPER
+137722.3,Azospirillum sp. B510,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|137722.3.peg.3570,479192,481543,COPPER
+134676.3,Actinoplanes sp. SE50/110,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|134676.3.peg.3628,4125397,4127661,COPPER
+134676.3,Actinoplanes sp. SE50/110,CopA,copA,Cu2+-exporting ATPase,,4125397,4127661,COPPER
+164546.7,Cupriavidus taiwanensis,CopA,copA2,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|164546.7.peg.3091,3302467,3304926,COPPER
+177437.4,Desulfobacterium autotrophicum HRM2,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|177437.4.peg.4468,4840906,4843386,COPPER
+177437.4,Desulfobacterium autotrophicum HRM2,CopA,copA,CopA,,4840906,4843386,COPPER
+164546.7,Cupriavidus taiwanensis,CopA,copA2,copper transporting P-type ATPase,,3302467,3304995,COPPER
+164546.7,Cupriavidus taiwanensis,CopA,copA,"CopA Copper-resistance transmembrane precursor, Cupredoxin domains",,2134245,2136149,COPPER
+164546.7,Cupriavidus taiwanensis,CopA,copA,Multicopper oxidase,fig|164546.7.peg.5404,2134245,2136083,COPPER
+240015.3,Acidobacterium capsulatum ATCC 51196,CopA,copA2,copper resistance protein A,,1433826,1435802,COPPER
+240015.3,Acidobacterium capsulatum ATCC 51196,CopA,copA2,Multicopper oxidase,fig|240015.3.peg.1175,1433826,1435802,COPPER
+240015.3,Acidobacterium capsulatum ATCC 51196,CopA,copA1,copper resistance protein A,,763015,765048,COPPER
+240015.3,Acidobacterium capsulatum ATCC 51196,CopA,copA1,Multicopper oxidase,fig|240015.3.peg.650,763015,765048,COPPER
+216596.11,Rhizobium leguminosarum bv. viciae 3841,CopA,copA,hypothetical protein,,2565694,2565762,COPPER
+216596.11,Rhizobium leguminosarum bv. viciae 3841,CopA,copA,putative copper-containing oxidase subunit,,2564416,2565762,COPPER
+216596.11,Rhizobium leguminosarum bv. viciae 3841,CopA,copA,Multicopper oxidase,fig|216596.11.peg.3665,2564416,2565687,COPPER
+264201.15,Candidatus Protochlamydia amoebophila UWE25,CopA,copA,putative copper-transporting ATPase,,136133,138322,COPPER
+264201.15,Candidatus Protochlamydia amoebophila UWE25,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|264201.15.peg.84,136133,138322,COPPER
+246200.7,Ruegeria pomeroyi DSS-3,CopA,copA,copper resistance protein A,,413692,415635,COPPER
+246200.7,Ruegeria pomeroyi DSS-3,CopA,copA,Multicopper oxidase,fig|246200.7.peg.4368,413692,415539,COPPER
+272942.6,Rhodobacter capsulatus SB1003,CopA,copA2,Copper-translocating P-type ATPase (EC 3.6.3.4),fig|272942.6.peg.1203,1251083,1253503,COPPER
+272942.6,Rhodobacter capsulatus SB1003,CopA,copA2,copper-transporting P-type ATPase-2,,1251083,1253503,COPPER
+271065.3,Methylomicrobium alcaliphilum,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|271065.3.peg.180,190525,192960,COPPER
+271065.3,Methylomicrobium alcaliphilum,CopA,copA,Copper-exporting P-type ATPase A,,1886030,1888285,COPPER
+272942.6,Rhodobacter capsulatus SB1003,CopA,copA1,FUPA32 P-type ATPase,fig|272942.6.peg.1060,1120921,1123062,COPPER
+272942.6,Rhodobacter capsulatus SB1003,CopA,copA1,copper-transporting P-type ATPase-1,,1120921,1123062,COPPER
+271065.3,Methylomicrobium alcaliphilum,CopA,copA,Copper-exporting P-type ATPase A,,190510,192960,COPPER
+271065.3,Methylomicrobium alcaliphilum,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|271065.3.peg.1689,1886030,1888285,COPPER
+290339.8,Cronobacter sakazakii ATCC BAA-894,CopA,copA,copper exporting ATPase,,2724952,2727459,COPPER
+300267.13,Shigella dysenteriae Sd197,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|300267.13.peg.515,421002,423506,COPPER
+290339.8,Cronobacter sakazakii ATCC BAA-894,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|290339.8.peg.2474,2724952,2727459,COPPER
+300267.13,Shigella dysenteriae Sd197,CopA,copA,copper exporting ATPase,,421002,423506,COPPER
+330214.5,Candidatus Nitrospira defluvii,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|330214.5.peg.644,647245,650127,COPPER
+330214.5,Candidatus Nitrospira defluvii,CopA,copA,copper-exporting ATPase,,647245,650127,COPPER
+379731.5,Pseudomonas stutzeri A1501,CopA,copA,copper resistance protein A,,3656827,3658707,COPPER
+379731.5,Pseudomonas stutzeri A1501,CopA,copA,Multicopper oxidase,fig|379731.5.peg.3390,3656827,3658527,COPPER
+358681.3,Brevibacillus brevis NBRC 100599,CopA,copA,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",fig|358681.3.peg.370,380674,383094,COPPER
+358681.3,Brevibacillus brevis NBRC 100599,CopA,copA,copper-transporting P-type ATPase,,380674,383094,COPPER
+1085623.3,Glaciecola nitratireducens FR1064,CusA,cusA,cation efflux system protein CusA,,3908782,3911925,COPPER
+1085623.3,Glaciecola nitratireducens FR1064,CusA,cusA,"Copper/silver efflux RND transporter, transmembrane protein CusA",fig|1085623.3.peg.3406,3908782,3911925,COPPER
+1166018.3,Fibrella aestuarina,CusA,cusA1,"CzcABC family efflux RND transporter, transmembrane protein",fig|1166018.3.peg.5709,100936,102306,COPPER
+1166018.3,Fibrella aestuarina,CusA,cusA3,"CzcABC family efflux RND transporter, transmembrane protein",fig|1166018.3.peg.5710,102310,104253,COPPER
+1166018.3,Fibrella aestuarina,CusA,cusA1,Cation efflux system protein cusA,,100936,102306,COPPER
+1166018.3,Fibrella aestuarina,CusA,cusA3,Cation efflux system protein cusA,,102310,104253,COPPER
+137722.3,Azospirillum sp. B510,CusA,cusA,"CzcABC family efflux RND transporter, transmembrane protein",fig|137722.3.peg.4425,65762,68875,COPPER
+137722.3,Azospirillum sp. B510,CusA,cusA,copper efflux system membrane protein,,65762,68875,COPPER
+187303.17,Methylocystis sp. SC2,CusA,cusA,Cation efflux system protein CusA,,1873569,1876730,COPPER
+187303.17,Methylocystis sp. SC2,CusA,cusA,"Copper/silver efflux RND transporter, transmembrane protein CusA",fig|187303.17.peg.1966,1873569,1876730,COPPER
+164546.7,Cupriavidus taiwanensis,CusA,cusA,"CzcABC family efflux RND transporter, transmembrane protein",fig|164546.7.peg.5005,1673284,1676400,COPPER
+164546.7,Cupriavidus taiwanensis,CusA,cusA,outer membrane copper (silver) and drug transport protein (RND family),,1673284,1676400,COPPER
+240015.3,Acidobacterium capsulatum ATCC 51196,CusA,cusA2,heavy metal efflux RND transporter CusA,,4061256,4064402,COPPER
+240015.3,Acidobacterium capsulatum ATCC 51196,CusA,cusA1,"CzcABC family efflux RND transporter, transmembrane protein",fig|240015.3.peg.1163,1417384,1420551,COPPER
+240015.3,Acidobacterium capsulatum ATCC 51196,CusA,cusA1,heavy metal efflux RND transporter CusA,,1417384,1420551,COPPER
+240015.3,Acidobacterium capsulatum ATCC 51196,CusA,cusA2,"CzcABC family efflux RND transporter, transmembrane protein",fig|240015.3.peg.3352,4061256,4064402,COPPER
+271065.3,Methylomicrobium alcaliphilum,CusA,cusA,"Copper/silver efflux RND transporter, transmembrane protein CusA",fig|271065.3.peg.2679,2986954,2990118,COPPER
+271065.3,Methylomicrobium alcaliphilum,CusA,cusA,Cation efflux system protein CusA,,2986954,2990118,COPPER
+379066.3,Gemmatimonas aurantiaca T-27,CusA,cusA,"CzcABC family efflux RND transporter, transmembrane protein",fig|379066.3.peg.1352,1571246,1574488,COPPER
+379066.3,Gemmatimonas aurantiaca T-27,CusA,cusA,cation efflux system protein,,1571246,1574488,COPPER
+1121428.3,Desulfotomaculum hydrothermale Lam5 = DSM 18033,CopZ,copZ,Copper chaperone CopZ,,59246,59455,COPPER
+1121428.3,Desulfotomaculum hydrothermale Lam5 = DSM 18033,CopZ,copZ,Copper(I) chaperone CopZ,fig|1121428.3.peg.314,59246,59455,COPPER
+1146883.3,Blastococcus saxobsidens DD2,CopZ,copZ,copper chaperone CopZ,,1590199,1590408,COPPER
+1146883.3,Blastococcus saxobsidens DD2,CopZ,copZ,Copper(I) chaperone CopZ,fig|1146883.3.peg.1525,1590199,1590408,COPPER
+1146883.3,Blastococcus saxobsidens DD2,CopZ,copZ2,Copper(I) chaperone CopZ,fig|1146883.3.peg.3122,3227192,3227404,COPPER
+1146883.3,Blastococcus saxobsidens DD2,CopZ,copZ2,copper insertion chaperone and transporter component,,3227192,3227404,COPPER
+1002809.3,Solibacillus silvestris StLB046,CopZ,copZ,Copper(I) chaperone CopZ,fig|1002809.3.peg.2456,2492590,2492799,COPPER
+1002809.3,Solibacillus silvestris StLB046,CopZ,copZ,copper chaperone,,2492590,2492799,COPPER
+1234679.3,Carnobacterium maltaromaticum LMA28,CopZ,copZ,copper chaperone CopZ,,2013599,2013814,COPPER
+1234679.3,Carnobacterium maltaromaticum LMA28,CopZ,copZ,Copper(I) chaperone CopZ,fig|1234679.3.peg.1984,2013599,2013814,COPPER
+1234679.3,Carnobacterium maltaromaticum LMA28,CopZ,copZ,copper chaperone CopZ,,3179453,3179623,COPPER
+1234679.3,Carnobacterium maltaromaticum LMA28,CopZ,copZ,hypothetical protein,fig|1234679.3.peg.3177,3179453,3179623,COPPER
+134676.3,Actinoplanes sp. SE50/110,CopZ,copZ,Copper(I) chaperone CopZ,fig|134676.3.peg.601,702878,703090,COPPER
+134676.3,Actinoplanes sp. SE50/110,CopZ,copZ,Cation-transporting ATPase pacS,,702878,703090,COPPER
+355278.4,Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)',CopZ,copZ-1,copper chaperone,,2318563,2319240,COPPER
+355278.4,Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)',CopZ,copZ-2,hypothetical protein,fig|355278.4.peg.2240,2280856,2281485,COPPER
+355278.4,Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)',CopZ,copZ-2,Copper chaperone,,2280856,2281485,COPPER
+355278.4,Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)',CopZ,copZ,hypothetical protein,fig|355278.4.peg.2777,2840223,2840426,COPPER
+355278.4,Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)',CopZ,copZ-1,hypothetical protein,fig|355278.4.peg.2267,2318563,2319192,COPPER
+355278.4,Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)',CopZ,copZ,Copper chaperone,,2840223,2840426,COPPER
+358681.3,Brevibacillus brevis NBRC 100599,CopZ,copZ,Copper(I) chaperone CopZ,fig|358681.3.peg.371,383159,383359,COPPER
+358681.3,Brevibacillus brevis NBRC 100599,CopZ,copZ,copper chaperone,,383159,383359,COPPER
+1005048.3,Collimonas fungivorans Ter331,CueR,cueR,Cu(I)-responsive transcriptional regulator,fig|1005048.3.peg.3057,3501107,3501508,COPPER
+1005048.3,Collimonas fungivorans Ter331,CueR,cueR,MerR transcriptional regulator,,3501107,3501508,COPPER
+177437.4,Desulfobacterium autotrophicum HRM2,CueR,cueR,hypothetical protein,fig|177437.4.peg.2028,2183161,2183412,COPPER
+177437.4,Desulfobacterium autotrophicum HRM2,CueR,cueR,CueR,,2183161,2183412,COPPER
+246200.7,Ruegeria pomeroyi DSS-3,CueR,cueR,Heavy metal resistance transcriptional regulator HmrR,fig|246200.7.peg.802,826233,826622,COPPER
+246200.7,Ruegeria pomeroyi DSS-3,CueR,cueR,Cu(I)-responsive transcriptional regulator,,826233,826622,COPPER
+244592.3,Labrenzia alexandrii DFL-11,CueR,cueR,Heavy metal resistance transcriptional regulator HmrR,fig|244592.3.peg.2742,3364541,3364939,COPPER
+244592.3,Labrenzia alexandrii DFL-11,CueR,cueR,Cu(I)-responsive transcriptional regulator,,3364541,3364939,COPPER
+311403.8,Agrobacterium radiobacter K84,CueR,cueR,Heavy metal resistance transcriptional regulator HmrR,fig|311403.8.peg.6053,3649073,3649459,COPPER
+311403.8,Agrobacterium radiobacter K84,CueR,cueR,Cu(I)-responsive transcriptional regulator,,3649073,3649459,COPPER
+322710.5,Azotobacter vinelandii DJ,CueR,cueR,"Cu(I)-responsive transcriptional regulator, MerR family",,956336,956752,COPPER
+322710.5,Azotobacter vinelandii DJ,CueR,cueR,"Transcriptional regulator, MerR family",fig|322710.5.peg.940,956336,956752,COPPER
+1166018.3,Fibrella aestuarina,CusR,cusR,Transcriptional regulatory protein cusR,,139292,139975,COPPER
+1166018.3,Fibrella aestuarina,CusR,cusR,"Two-component transcriptional response regulator, OmpR family",fig|1166018.3.peg.5739,139292,139975,COPPER
+330214.5,Candidatus Nitrospira defluvii,CusR,cusR,transcriptional regulatory protein CusR,,1482927,1483610,COPPER
+330214.5,Candidatus Nitrospira defluvii,CusR,cusR,"Two-component transcriptional response regulator, OmpR family",fig|330214.5.peg.1478,1482927,1483610,COPPER
+1234679.3,Carnobacterium maltaromaticum LMA28,CopY,copY,conserved hypothetical protein,,2013842,2014297,COPPER
+1234679.3,Carnobacterium maltaromaticum LMA28,CopY,copY,Negative transcriptional regulator-copper transport operon,fig|1234679.3.peg.1985,2013842,2014297,COPPER
+1234679.3,Carnobacterium maltaromaticum LMA28,CopY,copY,Negative transcriptional regulator-copper transport operon,fig|1234679.3.peg.2332,2330521,2330907,COPPER
+1234679.3,Carnobacterium maltaromaticum LMA28,CopY,copY,conserved hypothetical protein,,2330521,2330907,COPPER
+134676.3,Actinoplanes sp. SE50/110,CopY,copY,"Transcriptional regulator, MecI family",fig|134676.3.peg.2951,3292765,3293115,COPPER
+134676.3,Actinoplanes sp. SE50/110,CopY,copY,putative transcriptional regulator,,3292765,3293115,COPPER
+1171373.8,Propionibacterium acidipropionici ATCC 4875,SodA,sodA,Superoxide dismutase,,2670958,2671578,SOD
+1085623.3,Glaciecola nitratireducens FR1064,SodA,sodA,Superoxide dismutase [Fe] (EC 1.15.1.1),fig|1085623.3.peg.2208,2511540,2512121,SOD
+1051632.5,Sulfobacillus acidophilus TPY,SodA,sodA,Superoxide dismutase,fig|1051632.5.peg.2728,2599212,2599811,SOD
+1085623.3,Glaciecola nitratireducens FR1064,SodA,sodA,superoxide dismutase,,2511540,2512121,SOD
+1171373.8,Propionibacterium acidipropionici ATCC 4875,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|1171373.8.peg.2490,2670958,2671578,SOD
+1051632.5,Sulfobacillus acidophilus TPY,SodA,sodA,Superoxide dismutase,,2599212,2599763,SOD
+1166018.3,Fibrella aestuarina,SodA,sodA,"superoxide dismutase, Fe-Mn family",,3531885,3532580,SOD
+1166018.3,Fibrella aestuarina,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|1166018.3.peg.4619,3531885,3532580,SOD
+1234679.3,Carnobacterium maltaromaticum LMA28,SodA,sodA,superoxide dismutase [Mn],,2075372,2075980,SOD
+1234679.3,Carnobacterium maltaromaticum LMA28,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|1234679.3.peg.2053,2075372,2075980,SOD
+1185876.3,Fibrisoma limi,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|1185876.3.peg.4412,397321,398022,SOD
+1185876.3,Fibrisoma limi,SodA,sodA,"superoxide dismutase, Fe-Mn family",,397321,398022,SOD
+1179773.3,Saccharothrix espanaensis DSM 44229,SodA,sodA,Superoxide dismutase [Mn/Fe] (EC 1.15.1.1),fig|1179773.3.peg.545,548416,549045,SOD
+1179773.3,Saccharothrix espanaensis DSM 44229,SodA,sodA,"Superoxide dismutase, Mn-dependent",,548416,549045,SOD
+240015.3,Acidobacterium capsulatum ATCC 51196,SodA,sodA,"superoxide dismutase, Mn",,2640339,2640950,SOD
+240015.3,Acidobacterium capsulatum ATCC 51196,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|240015.3.peg.2180,2640339,2640950,SOD
+243090.15,Rhodopirellula baltica SH 1,SodA,sodA,Mn family superoxide dismutase,,3555061,3555747,SOD
+243090.15,Rhodopirellula baltica SH 1,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|243090.15.peg.3243,3555124,3555747,SOD
+300267.13,Shigella dysenteriae Sd197,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|300267.13.peg.4533,3570781,3571407,SOD
+300267.13,Shigella dysenteriae Sd197,SodA,sodA,superoxide dismutase,,3570781,3571401,SOD
+322710.5,Azotobacter vinelandii DJ,SodA,sodA,CU-Zn Superoxide dismutase,,3156657,3157199,SOD
+322710.5,Azotobacter vinelandii DJ,SodA,sodA,Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1),fig|322710.5.peg.2878,3156657,3157199,SOD
+331104.5,Blattabacterium sp. (Blattella germanica) str. Bge,SodA,sodA,superoxide dismutase (Mn/Fe),,283323,283946,SOD
+331104.5,Blattabacterium sp. (Blattella germanica) str. Bge,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|331104.5.peg.281,283323,283946,SOD
+355278.4,Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)',SodA,sodA,Superoxide dismutase,,32026,32598,SOD
+355278.4,Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)',SodA,sodA,Superoxide dismutase [Fe] (EC 1.15.1.1),fig|355278.4.peg.31,32026,32598,SOD
+37692.4,Candidatus Phytoplasma mali,SodA,sodA,Superoxide dismutase,,37315,37929,SOD
+37692.4,Candidatus Phytoplasma mali,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|37692.4.peg.481,564015,564629,SOD
+37692.4,Candidatus Phytoplasma mali,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|37692.4.peg.32,37315,37929,SOD
+37692.4,Candidatus Phytoplasma mali,SodA,sodA,Superoxide dismutase,,564015,564629,SOD
+379066.3,Gemmatimonas aurantiaca T-27,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|379066.3.peg.2099,2391257,2391862,SOD
+379066.3,Gemmatimonas aurantiaca T-27,SodA,sodA,manganese superoxide dismutase,,2391257,2391862,SOD
+379066.3,Gemmatimonas aurantiaca T-27,SodA,sodA,manganese superoxide dismutase,,245004,245627,SOD
+379066.3,Gemmatimonas aurantiaca T-27,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|379066.3.peg.203,244935,245627,SOD
+362242.7,Mycobacterium ulcerans Agy99,SodA,sodA,superoxide dismutase [Fe] SodA,,5565918,5566541,SOD
+358681.3,Brevibacillus brevis NBRC 100599,SodA,sodA,superoxide dismutase [Mn],,3245944,3246558,SOD
+362242.7,Mycobacterium ulcerans Agy99,SodA,sodA,Superoxide dismutase [Mn/Fe] (EC 1.15.1.1),fig|362242.7.peg.5782,5565918,5566541,SOD
+358681.3,Brevibacillus brevis NBRC 100599,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|358681.3.peg.3045,3245944,3246558,SOD
+358681.3,Brevibacillus brevis NBRC 100599,SodA,sodA,superoxide dismutase [Mn],,1061928,1062536,SOD
+358681.3,Brevibacillus brevis NBRC 100599,SodA,sodA,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|358681.3.peg.1014,1061928,1062536,SOD
+1005048.3,Collimonas fungivorans Ter331,SodB,sodB,Superoxide dismutase Fe,,1425528,1426115,SOD
+1005048.3,Collimonas fungivorans Ter331,SodB,sodB,Superoxide dismutase [Fe] (EC 1.15.1.1),fig|1005048.3.peg.1247,1425528,1426115,SOD
+1193729.4,Endolissoclinum patella L2,SodB,sodB,superoxide dismutase (Mn),,1228061,1228669,SOD
+1193729.4,Endolissoclinum patella L2,SodB,sodB,Superoxide dismutase [Fe] (EC 1.15.1.1),fig|1193729.4.peg.706,1228061,1228669,SOD
+1255043.3,Thioalkalivibrio nitratireducens DSM 14787,SodB,sodB [H],Superoxide dismutase [Fe] (EC 1.15.1.1),fig|1255043.3.peg.1296,1230862,1231443,SOD
+1255043.3,Thioalkalivibrio nitratireducens DSM 14787,SodB,sodB [H],Superoxide dismutase (Fe),,1230862,1231443,SOD
+203275.8,Tannerella forsythia ATCC 43037,SodB,sodB,Superoxide dismutase [Fe] (EC 1.15.1.1),fig|203275.8.peg.1745,2052676,2053260,SOD
+203275.8,Tannerella forsythia ATCC 43037,SodB,sodB,superoxide dismutase (Fe),,2052676,2053260,SOD
+164546.7,Cupriavidus taiwanensis,SodB,sodB,Superoxide dismutase [Fe] (EC 1.15.1.1),fig|164546.7.peg.572,583701,584282,SOD
+164546.7,Cupriavidus taiwanensis,SodB,sodB,superoxide dismutase,,583701,584282,SOD
+216596.11,Rhizobium leguminosarum bv. viciae 3841,SodB,sodB,putative superoxide dismutase,,1403712,1404314,SOD
+216596.11,Rhizobium leguminosarum bv. viciae 3841,SodB,sodB,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|216596.11.peg.2526,1403712,1404314,SOD
+264731.4,Prevotella ruminicola 23,SodB,sodB,Superoxide dismutase [Mn/Fe] (EC 1.15.1.1),fig|264731.4.peg.1681,2083536,2084120,SOD
+264731.4,Prevotella ruminicola 23,SodB,sodB,superoxide dismutase,,2083536,2084120,SOD
+246200.7,Ruegeria pomeroyi DSS-3,SodB,sodB,"superoxide dismutase, Fe",,2480854,2481453,SOD
+246200.7,Ruegeria pomeroyi DSS-3,SodB,sodB,Superoxide dismutase [Mn/Fe] (EC 1.15.1.1),fig|246200.7.peg.2373,2480854,2481489,SOD
+272942.6,Rhodobacter capsulatus SB1003,SodB,sodB,Superoxide dismutase [Mn/Fe] (EC 1.15.1.1),fig|272942.6.peg.2352,2485482,2486084,SOD
+272942.6,Rhodobacter capsulatus SB1003,SodB,sodB,superoxide dismutase (Fe),,2485482,2486084,SOD
+271065.3,Methylomicrobium alcaliphilum,SodB,sodB,Superoxide dismutase [Fe],,3846503,3847084,SOD
+271065.3,Methylomicrobium alcaliphilum,SodB,sodB,Superoxide dismutase [Fe] (EC 1.15.1.1),fig|271065.3.peg.3424,3846503,3847084,SOD
+311403.8,Agrobacterium radiobacter K84,SodB,sodB,superoxide dismutase protein,,1139866,1140468,SOD
+300267.13,Shigella dysenteriae Sd197,SodB,sodB,superoxide dismutase,,1715680,1716261,SOD
+311403.8,Agrobacterium radiobacter K84,SodB,sodB,Superoxide dismutase [Mn] (EC 1.15.1.1),fig|311403.8.peg.3574,1139866,1140468,SOD
+300267.13,Shigella dysenteriae Sd197,SodB,sodB,Superoxide dismutase [Fe] (EC 1.15.1.1),fig|300267.13.peg.2264,1715680,1716261,SOD
+322710.5,Azotobacter vinelandii DJ,SodB,sodB,Superoxide dismutase [Fe] (EC 1.15.1.1),fig|322710.5.peg.3554,3824430,3825011,SOD
+322710.5,Azotobacter vinelandii DJ,SodB,sodB,Fe-Superoxide dismutase,,3824430,3825011,SOD
+365046.3,Ramlibacter tataouinensis TTB310,SodB,sodB,Superoxide dismutase [Fe] (EC 1.15.1.1),fig|365046.3.peg.2241,2313530,2314111,SOD
+379731.5,Pseudomonas stutzeri A1501,SodB,sodB,superoxide dismutase,,3370748,3371329,SOD
+379731.5,Pseudomonas stutzeri A1501,SodB,sodB,Superoxide dismutase [Fe] (EC 1.15.1.1),fig|379731.5.peg.3144,3370748,3371329,SOD
+365046.3,Ramlibacter tataouinensis TTB310,SodB,sodB,Candidate superoxide dismutase,,2313530,2314111,SOD
+378806.8,Stigmatella aurantiaca DW4/3-1,SodB,sodB,"superoxide dismutase, fe",,2290686,2291270,SOD
+378806.8,Stigmatella aurantiaca DW4/3-1,SodB,sodB,Superoxide dismutase [Fe] (EC 1.15.1.1),fig|378806.8.peg.1900,2290686,2291270,SOD
+1184607.3,Austwickia chelonae NBRC 105200,SodC,sodC,superoxide dismutase,,12602,13276,SOD
+1184607.3,Austwickia chelonae NBRC 105200,SodC,sodC,Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1),fig|1184607.3.peg.2843,12602,13276,SOD
+1538.8,Clostridium ljungdahlii,SodC,sodC,Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1),fig|1538.8.peg.3012,3286126,3286665,SOD
+1538.8,Clostridium ljungdahlii,SodC,sodC,Cu-Zn superoxide dismutase,,3286126,3286665,SOD
+164546.7,Cupriavidus taiwanensis,SodC,sodC,Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1),fig|164546.7.peg.4427,1000627,1001133,SOD
+164546.7,Cupriavidus taiwanensis,SodC,sodC,SUPEROXIDE DISMUTASE CU-ZN PRECURSOR PROTEIN,,1000627,1001133,SOD
+216596.11,Rhizobium leguminosarum bv. viciae 3841,SodC,sodC,Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1),fig|216596.11.peg.2725,1590023,1590538,SOD
+216596.11,Rhizobium leguminosarum bv. viciae 3841,SodC,sodC,hypothetical protein,,1590023,1590085,SOD
+216596.11,Rhizobium leguminosarum bv. viciae 3841,SodC,sodC,putative superoxide dismutase,,1590023,1590538,SOD
+264201.15,Candidatus Protochlamydia amoebophila UWE25,SodC,sodC,Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1),fig|264201.15.peg.1806,2102482,2103099,SOD
+264201.15,Candidatus Protochlamydia amoebophila UWE25,SodC,sodC,putative superoxide dismutase (Cu-Zn),,2102482,2103099,SOD
+246196.19,Mycobacterium smegmatis str. MC2 155,SodC,sodC,copper/zinc superoxide dismutase,,920583,921293,SOD
+246196.19,Mycobacterium smegmatis str. MC2 155,SodC,sodC,Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1),fig|246196.19.peg.828,920583,921293,SOD
+300267.13,Shigella dysenteriae Sd197,SodC,sodC,Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1),fig|300267.13.peg.2249,1703649,1704170,SOD
+300267.13,Shigella dysenteriae Sd197,SodC,sodC,superoxide dismutase,,1703649,1704170,SOD
+311403.8,Agrobacterium radiobacter K84,SodC,sodC,Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1),fig|311403.8.peg.3717,1281112,1281618,SOD
+311403.8,Agrobacterium radiobacter K84,SodC,sodC,superoxide dismutase protein,,1281112,1281618,SOD
+365046.3,Ramlibacter tataouinensis TTB310,SodC,sodC,"Candidate superoxide dismutase [Cu, Zn], precursor",,1168875,1169411,SOD
+365046.3,Ramlibacter tataouinensis TTB310,SodC,sodC,Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1),fig|365046.3.peg.1158,1168875,1169411,SOD
+379731.5,Pseudomonas stutzeri A1501,SodC,sodC,Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1),fig|379731.5.peg.2578,2797675,2798196,SOD
+379731.5,Pseudomonas stutzeri A1501,SodC,sodC,"superoxide dismutase, Cu-Zn",,2797675,2798196,SOD
+362242.7,Mycobacterium ulcerans Agy99,SodC,sodC,Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1),fig|362242.7.peg.1664,1483567,1484148,SOD
+362242.7,Mycobacterium ulcerans Agy99,SodC,sodC,periplasmic superoxide dismutase [Cu-Zn] SodC,,1483432,1484148,SOD
+1121451.3,Desulfovibrio hydrothermalis AM13 = DSM 14728,KatA,katA,Catalase KatE (EC 1.11.1.6),fig|1121451.3.peg.2696,2886967,2888496,SOD
+1121451.3,Desulfovibrio hydrothermalis AM13 = DSM 14728,KatA,katA,vegetative catalase 1,,2886967,2888418,SOD
+1146883.3,Blastococcus saxobsidens DD2,KatA,katA,Catalase KatE (EC 1.11.1.6),fig|1146883.3.peg.2863,2962576,2964234,SOD
+1146883.3,Blastococcus saxobsidens DD2,KatA,katA,catalase,,2962576,2964234,SOD
+1166018.3,Fibrella aestuarina,KatA,katA,Catalase KatE (EC 1.11.1.6),fig|1166018.3.peg.5618,2584,4068,SOD
+1166018.3,Fibrella aestuarina,KatA,katA,catalase,,2584,4083,SOD
+1184607.3,Austwickia chelonae NBRC 105200,KatA,katA,Catalase KatE (EC 1.11.1.6),fig|1184607.3.peg.2023,14372,15952,SOD
+1316932.3,Mannheimia haemolytica M42548,KatA,katA,catalase KatA,,229932,231440,SOD
+1184607.3,Austwickia chelonae NBRC 105200,KatA,katA,catalase KatA,,14372,15952,SOD
+1316932.3,Mannheimia haemolytica M42548,KatA,katA,Catalase KatE (EC 1.11.1.6),fig|1316932.3.peg.244,229932,231440,SOD
+1234679.3,Carnobacterium maltaromaticum LMA28,KatA,katA,vegetative catalase,,3201279,3202736,SOD
+1234679.3,Carnobacterium maltaromaticum LMA28,KatA,katA,Catalase KatE (EC 1.11.1.6),fig|1234679.3.peg.3201,3201279,3202736,SOD
+1179773.3,Saccharothrix espanaensis DSM 44229,KatA,katA,Catalase,,265146,266594,SOD
+1179773.3,Saccharothrix espanaensis DSM 44229,KatA,katA,Catalase KatE (EC 1.11.1.6),fig|1179773.3.peg.265,265146,266594,SOD
+246196.19,Mycobacterium smegmatis str. MC2 155,KatA,katA,Catalase KatE (EC 1.11.1.6),fig|246196.19.peg.3442,3550348,3551805,SOD
+246196.19,Mycobacterium smegmatis str. MC2 155,KatA,katA,catalase KatA,,3550348,3551805,SOD
+243090.15,Rhodopirellula baltica SH 1,KatA,katA,catalase,,2252262,2253743,SOD
+246196.19,Mycobacterium smegmatis str. MC2 155,KatA,katA,catalase KatA,,6295741,6297402,SOD
+246196.19,Mycobacterium smegmatis str. MC2 155,KatA,katA,Catalase KatE (EC 1.11.1.6),fig|246196.19.peg.6070,6295741,6297402,SOD
+243090.15,Rhodopirellula baltica SH 1,KatA,katA,Catalase KatE (EC 1.11.1.6),fig|243090.15.peg.2034,2252262,2253743,SOD
+379731.5,Pseudomonas stutzeri A1501,KatA,katA,Catalase KatE (EC 1.11.1.6),fig|379731.5.peg.799,906566,908023,SOD
+379731.5,Pseudomonas stutzeri A1501,KatA,katA,catalase,,906566,908023,SOD

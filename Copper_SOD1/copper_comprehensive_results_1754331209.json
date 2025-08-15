@@ -1,0 +1,4576 @@
+{
+  "search_results": {
+    "CsgA": [
+      {
+        "product": "Short chain dehydrogenase",
+        "genome_id": "1255043.3",
+        "gene": "csgA [H]",
+        "start": 1128712,
+        "end": 1129407
+      },
+      {
+        "patric_id": "fig|1255043.3.peg.1197",
+        "product": "Short-chain dehydrogenase",
+        "genome_id": "1255043.3",
+        "gene": "csgA [H]",
+        "start": 1128712,
+        "end": 1129407
+      },
+      {
+        "product": "short-chain dehydrogenase/reductase SDR",
+        "genome_id": "134676.3",
+        "gene": "csgA",
+        "start": 4704943,
+        "end": 4705704
+      },
+      {
+        "patric_id": "fig|134676.3.peg.4192",
+        "product": "Short-chain dehydrogenase/reductase SDR?",
+        "genome_id": "134676.3",
+        "gene": "csgA",
+        "start": 4705024,
+        "end": 4705704
+      },
+      {
+        "product": "c-signal protein",
+        "genome_id": "378806.8",
+        "gene": "csgA",
+        "start": 2390215,
+        "end": 2390925
+      },
+      {
+        "patric_id": "fig|378806.8.peg.1985",
+        "product": "hypothetical protein",
+        "genome_id": "378806.8",
+        "gene": "csgA",
+        "start": 2390215,
+        "end": 2390925
+      }
+    ],
+    "CsgB": [],
+    "AgfA": [],
+    "TasA": [],
+    "FapC": [],
+    "PSM": [],
+    "ChpD": [],
+    "AmyA": [
+      {
+        "product": "Alpha-amylase",
+        "genome_id": "1069534.5",
+        "gene": "amyA",
+        "start": 1573573,
+        "end": 1575372
+      },
+      {
+        "patric_id": "fig|1069534.5.peg.1625",
+        "product": "Neopullulanase (EC 3.2.1.135)",
+        "genome_id": "1069534.5",
+        "gene": "amyA",
+        "start": 1573573,
+        "end": 1575372
+      },
+      {
+        "product": "Alpha-amylase",
+        "genome_id": "1069534.5",
+        "gene": "amyA",
+        "start": 494753,
+        "end": 496378
+      },
+      {
+        "patric_id": "fig|1069534.5.peg.498",
+        "product": "Glucan 1,6-alpha-glucosidase (EC 3.2.1.70)",
+        "genome_id": "1069534.5",
+        "gene": "amyA",
+        "start": 494753,
+        "end": 496378
+      },
+      {
+        "product": "alpha amylase catalytic region",
+        "genome_id": "134676.3",
+        "gene": "amyA",
+        "start": 4403165,
+        "end": 4404493
+      },
+      {
+        "product": "alpha-amylase",
+        "genome_id": "1179773.3",
+        "gene": "amyA",
+        "start": 5161319,
+        "end": 5162779
+      },
+      {
+        "patric_id": "fig|1179773.3.peg.4704",
+        "product": "alpha amylase, catalytic region",
+        "genome_id": "1179773.3",
+        "gene": "amyA",
+        "start": 5161319,
+        "end": 5162779
+      },
+      {
+        "patric_id": "fig|134676.3.peg.3907",
+        "product": "alpha amylase, catalytic region",
+        "genome_id": "134676.3",
+        "gene": "amyA",
+        "start": 4403165,
+        "end": 4404493
+      },
+      {
+        "patric_id": "fig|271065.3.peg.3614",
+        "product": "Alpha amylase, catalytic region",
+        "genome_id": "271065.3",
+        "gene": "amyA",
+        "start": 4031921,
+        "end": 4033129
+      },
+      {
+        "product": "Alpha amylase family protein",
+        "genome_id": "271065.3",
+        "gene": "amyA",
+        "start": 4031921,
+        "end": 4033189
+      },
+      {
+        "product": "cytoplasmic alpha-amylase",
+        "genome_id": "300267.13",
+        "gene": "amyA",
+        "start": 1015751,
+        "end": 1017238
+      },
+      {
+        "patric_id": "fig|300267.13.peg.1278",
+        "product": "Cytoplasmic alpha-amylase (EC 3.2.1.1)",
+        "genome_id": "300267.13",
+        "gene": "amyA",
+        "start": 1015751,
+        "end": 1017238
+      }
+    ],
+    "CtrA": [
+      {
+        "patric_id": "fig|246200.7.peg.1706",
+        "product": "Cell cycle transcriptional regulator CtrA",
+        "genome_id": "246200.7",
+        "gene": "ctrA",
+        "start": 1785341,
+        "end": 1786057
+      },
+      {
+        "product": "DNA-binding response regulator CtrA",
+        "genome_id": "246200.7",
+        "gene": "ctrA",
+        "start": 1785341,
+        "end": 1786057
+      },
+      {
+        "product": "cell cycle transcriptional regulator CtrA",
+        "genome_id": "272942.6",
+        "gene": "ctrA",
+        "start": 1800841,
+        "end": 1801554
+      },
+      {
+        "patric_id": "fig|272942.6.peg.1688",
+        "product": "Cell cycle transcriptional regulator CtrA",
+        "genome_id": "272942.6",
+        "gene": "ctrA",
+        "start": 1800841,
+        "end": 1801554
+      },
+      {
+        "patric_id": "fig|311403.8.peg.5232",
+        "product": "Cell cycle transcriptional regulator CtrA",
+        "genome_id": "311403.8",
+        "gene": "ctrA",
+        "start": 2799942,
+        "end": 2800589
+      },
+      {
+        "product": "two-component response regulator protein controls chromosomal replication initiation",
+        "genome_id": "311403.8",
+        "gene": "ctrA",
+        "start": 2799888,
+        "end": 2800589
+      }
+    ],
+    "CopA": [
+      {
+        "patric_id": "fig|1121428.3.peg.315",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1121428.3",
+        "gene": "copA",
+        "start": 59489,
+        "end": 61915
+      },
+      {
+        "product": "Copper-exporting ATPase CopA",
+        "genome_id": "1171373.8",
+        "gene": "copA",
+        "start": 254561,
+        "end": 256570
+      },
+      {
+        "product": "Copper-exporting P-type ATPase A",
+        "genome_id": "1121428.3",
+        "gene": "copA",
+        "start": 59489,
+        "end": 61915
+      },
+      {
+        "patric_id": "fig|1051632.5.peg.3521",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1051632.5",
+        "gene": "copA",
+        "start": 3354051,
+        "end": 3356477
+      },
+      {
+        "product": "copper exporting ATPase",
+        "genome_id": "1157951.4",
+        "gene": "copA",
+        "start": 998895,
+        "end": 1001840
+      },
+      {
+        "patric_id": "fig|1171373.8.peg.237",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1171373.8",
+        "gene": "copA",
+        "start": 254561,
+        "end": 256570
+      },
+      {
+        "product": "copper-translocating P-type ATPase",
+        "genome_id": "1051632.5",
+        "gene": "copA",
+        "start": 3354051,
+        "end": 3356477
+      },
+      {
+        "product": "copper-transporting P-type ATPase",
+        "genome_id": "1146883.3",
+        "gene": "copA",
+        "start": 3228347,
+        "end": 3230677
+      },
+      {
+        "patric_id": "fig|1157951.4.peg.962",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1157951.4",
+        "gene": "copA",
+        "start": 998895,
+        "end": 1001840
+      },
+      {
+        "product": "copper exporting ATPase",
+        "genome_id": "1028307.3",
+        "gene": "copA",
+        "start": 2794598,
+        "end": 2797099
+      },
+      {
+        "patric_id": "fig|1005048.3.peg.3063",
+        "product": "Multicopper oxidase",
+        "genome_id": "1005048.3",
+        "gene": "copA",
+        "start": 3503604,
+        "end": 3504974
+      },
+      {
+        "patric_id": "fig|1146883.3.peg.3124",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1146883.3",
+        "gene": "copA",
+        "start": 3228347,
+        "end": 3230677
+      },
+      {
+        "product": "putative oxidase copper oxidase",
+        "genome_id": "1005048.3",
+        "gene": "copA",
+        "start": 3503583,
+        "end": 3504974
+      },
+      {
+        "product": "copper exporting ATPase",
+        "genome_id": "1006551.4",
+        "gene": "copA",
+        "start": 2829777,
+        "end": 2832278
+      },
+      {
+        "patric_id": "fig|1028307.3.peg.2604",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1028307.3",
+        "gene": "copA",
+        "start": 2794598,
+        "end": 2797099
+      },
+      {
+        "patric_id": "fig|1006551.4.peg.2637",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1006551.4",
+        "gene": "copA",
+        "start": 2829777,
+        "end": 2832278
+      },
+      {
+        "patric_id": "fig|1316932.3.peg.2567",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1316932.3",
+        "gene": "copA",
+        "start": 2436887,
+        "end": 2439079
+      },
+      {
+        "product": "copper-exporting P-type ATPase CopA",
+        "genome_id": "1316932.3",
+        "gene": "copA",
+        "start": 2436887,
+        "end": 2439079
+      },
+      {
+        "patric_id": "fig|1255043.3.peg.1581",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1255043.3",
+        "gene": "copA [H]",
+        "start": 1549070,
+        "end": 1551589
+      },
+      {
+        "product": "copper-transporting ATPase CopA",
+        "genome_id": "1184607.3",
+        "gene": "copA",
+        "start": 116458,
+        "end": 118887
+      },
+      {
+        "patric_id": "fig|1234679.3.peg.3176",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1234679.3",
+        "gene": "copA",
+        "start": 3177212,
+        "end": 3179428
+      },
+      {
+        "patric_id": "fig|1184607.3.peg.3003",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "1184607.3",
+        "gene": "copA",
+        "start": 116458,
+        "end": 118887
+      },
+      {
+        "product": "copper-translocating P-type ATPase",
+        "genome_id": "1234679.3",
+        "gene": "copA",
+        "start": 3177212,
+        "end": 3179428
+      },
+      {
+        "product": "Copper-translocating P-type ATPase",
+        "genome_id": "1255043.3",
+        "gene": "copA [H]",
+        "start": 1549070,
+        "end": 1551589
+      },
+      {
+        "product": "Cu2+-exporting ATPase",
+        "genome_id": "137722.3",
+        "gene": "copA",
+        "start": 479063,
+        "end": 481543
+      },
+      {
+        "patric_id": "fig|137722.3.peg.3570",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "137722.3",
+        "gene": "copA",
+        "start": 479192,
+        "end": 481543
+      },
+      {
+        "patric_id": "fig|134676.3.peg.3628",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "134676.3",
+        "gene": "copA",
+        "start": 4125397,
+        "end": 4127661
+      },
+      {
+        "product": "Cu2+-exporting ATPase",
+        "genome_id": "134676.3",
+        "gene": "copA",
+        "start": 4125397,
+        "end": 4127661
+      },
+      {
+        "patric_id": "fig|164546.7.peg.3091",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "164546.7",
+        "gene": "copA2",
+        "start": 3302467,
+        "end": 3304926
+      },
+      {
+        "patric_id": "fig|177437.4.peg.4468",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "177437.4",
+        "gene": "copA",
+        "start": 4840906,
+        "end": 4843386
+      },
+      {
+        "product": "CopA",
+        "genome_id": "177437.4",
+        "gene": "copA",
+        "start": 4840906,
+        "end": 4843386
+      },
+      {
+        "product": "copper transporting P-type ATPase",
+        "genome_id": "164546.7",
+        "gene": "copA2",
+        "start": 3302467,
+        "end": 3304995
+      },
+      {
+        "product": "CopA Copper-resistance transmembrane precursor, Cupredoxin domains",
+        "genome_id": "164546.7",
+        "gene": "copA",
+        "start": 2134245,
+        "end": 2136149
+      },
+      {
+        "patric_id": "fig|164546.7.peg.5404",
+        "product": "Multicopper oxidase",
+        "genome_id": "164546.7",
+        "gene": "copA",
+        "start": 2134245,
+        "end": 2136083
+      },
+      {
+        "product": "copper resistance protein A",
+        "genome_id": "240015.3",
+        "gene": "copA2",
+        "start": 1433826,
+        "end": 1435802
+      },
+      {
+        "patric_id": "fig|240015.3.peg.1175",
+        "product": "Multicopper oxidase",
+        "genome_id": "240015.3",
+        "gene": "copA2",
+        "start": 1433826,
+        "end": 1435802
+      },
+      {
+        "product": "copper resistance protein A",
+        "genome_id": "240015.3",
+        "gene": "copA1",
+        "start": 763015,
+        "end": 765048
+      },
+      {
+        "patric_id": "fig|240015.3.peg.650",
+        "product": "Multicopper oxidase",
+        "genome_id": "240015.3",
+        "gene": "copA1",
+        "start": 763015,
+        "end": 765048
+      },
+      {
+        "product": "hypothetical protein",
+        "genome_id": "216596.11",
+        "gene": "copA",
+        "start": 2565694,
+        "end": 2565762
+      },
+      {
+        "product": "putative copper-containing oxidase subunit",
+        "genome_id": "216596.11",
+        "gene": "copA",
+        "start": 2564416,
+        "end": 2565762
+      },
+      {
+        "patric_id": "fig|216596.11.peg.3665",
+        "product": "Multicopper oxidase",
+        "genome_id": "216596.11",
+        "gene": "copA",
+        "start": 2564416,
+        "end": 2565687
+      },
+      {
+        "product": "putative copper-transporting ATPase",
+        "genome_id": "264201.15",
+        "gene": "copA",
+        "start": 136133,
+        "end": 138322
+      },
+      {
+        "patric_id": "fig|264201.15.peg.84",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "264201.15",
+        "gene": "copA",
+        "start": 136133,
+        "end": 138322
+      },
+      {
+        "product": "copper resistance protein A",
+        "genome_id": "246200.7",
+        "gene": "copA",
+        "start": 413692,
+        "end": 415635
+      },
+      {
+        "patric_id": "fig|246200.7.peg.4368",
+        "product": "Multicopper oxidase",
+        "genome_id": "246200.7",
+        "gene": "copA",
+        "start": 413692,
+        "end": 415539
+      },
+      {
+        "patric_id": "fig|272942.6.peg.1203",
+        "product": "Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "272942.6",
+        "gene": "copA2",
+        "start": 1251083,
+        "end": 1253503
+      },
+      {
+        "product": "copper-transporting P-type ATPase-2",
+        "genome_id": "272942.6",
+        "gene": "copA2",
+        "start": 1251083,
+        "end": 1253503
+      },
+      {
+        "patric_id": "fig|271065.3.peg.180",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "271065.3",
+        "gene": "copA",
+        "start": 190525,
+        "end": 192960
+      },
+      {
+        "product": "Copper-exporting P-type ATPase A",
+        "genome_id": "271065.3",
+        "gene": "copA",
+        "start": 1886030,
+        "end": 1888285
+      },
+      {
+        "patric_id": "fig|272942.6.peg.1060",
+        "product": "FUPA32 P-type ATPase",
+        "genome_id": "272942.6",
+        "gene": "copA1",
+        "start": 1120921,
+        "end": 1123062
+      },
+      {
+        "product": "copper-transporting P-type ATPase-1",
+        "genome_id": "272942.6",
+        "gene": "copA1",
+        "start": 1120921,
+        "end": 1123062
+      },
+      {
+        "product": "Copper-exporting P-type ATPase A",
+        "genome_id": "271065.3",
+        "gene": "copA",
+        "start": 190510,
+        "end": 192960
+      },
+      {
+        "patric_id": "fig|271065.3.peg.1689",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "271065.3",
+        "gene": "copA",
+        "start": 1886030,
+        "end": 1888285
+      },
+      {
+        "product": "copper exporting ATPase",
+        "genome_id": "290339.8",
+        "gene": "copA",
+        "start": 2724952,
+        "end": 2727459
+      },
+      {
+        "patric_id": "fig|300267.13.peg.515",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "300267.13",
+        "gene": "copA",
+        "start": 421002,
+        "end": 423506
+      },
+      {
+        "patric_id": "fig|290339.8.peg.2474",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "290339.8",
+        "gene": "copA",
+        "start": 2724952,
+        "end": 2727459
+      },
+      {
+        "product": "copper exporting ATPase",
+        "genome_id": "300267.13",
+        "gene": "copA",
+        "start": 421002,
+        "end": 423506
+      },
+      {
+        "patric_id": "fig|330214.5.peg.644",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "330214.5",
+        "gene": "copA",
+        "start": 647245,
+        "end": 650127
+      },
+      {
+        "product": "copper-exporting ATPase",
+        "genome_id": "330214.5",
+        "gene": "copA",
+        "start": 647245,
+        "end": 650127
+      },
+      {
+        "product": "copper resistance protein A",
+        "genome_id": "379731.5",
+        "gene": "copA",
+        "start": 3656827,
+        "end": 3658707
+      },
+      {
+        "patric_id": "fig|379731.5.peg.3390",
+        "product": "Multicopper oxidase",
+        "genome_id": "379731.5",
+        "gene": "copA",
+        "start": 3656827,
+        "end": 3658527
+      },
+      {
+        "patric_id": "fig|358681.3.peg.370",
+        "product": "Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)",
+        "genome_id": "358681.3",
+        "gene": "copA",
+        "start": 380674,
+        "end": 383094
+      },
+      {
+        "product": "copper-transporting P-type ATPase",
+        "genome_id": "358681.3",
+        "gene": "copA",
+        "start": 380674,
+        "end": 383094
+      }
+    ],
+    "CusA": [
+      {
+        "product": "cation efflux system protein CusA",
+        "genome_id": "1085623.3",
+        "gene": "cusA",
+        "start": 3908782,
+        "end": 3911925
+      },
+      {
+        "patric_id": "fig|1085623.3.peg.3406",
+        "product": "Copper/silver efflux RND transporter, transmembrane protein CusA",
+        "genome_id": "1085623.3",
+        "gene": "cusA",
+        "start": 3908782,
+        "end": 3911925
+      },
+      {
+        "patric_id": "fig|1166018.3.peg.5709",
+        "product": "CzcABC family efflux RND transporter, transmembrane protein",
+        "genome_id": "1166018.3",
+        "gene": "cusA1",
+        "start": 100936,
+        "end": 102306
+      },
+      {
+        "patric_id": "fig|1166018.3.peg.5710",
+        "product": "CzcABC family efflux RND transporter, transmembrane protein",
+        "genome_id": "1166018.3",
+        "gene": "cusA3",
+        "start": 102310,
+        "end": 104253
+      },
+      {
+        "product": "Cation efflux system protein cusA",
+        "genome_id": "1166018.3",
+        "gene": "cusA1",
+        "start": 100936,
+        "end": 102306
+      },
+      {
+        "product": "Cation efflux system protein cusA",
+        "genome_id": "1166018.3",
+        "gene": "cusA3",
+        "start": 102310,
+        "end": 104253
+      },
+      {
+        "patric_id": "fig|137722.3.peg.4425",
+        "product": "CzcABC family efflux RND transporter, transmembrane protein",
+        "genome_id": "137722.3",
+        "gene": "cusA",
+        "start": 65762,
+        "end": 68875
+      },
+      {
+        "product": "copper efflux system membrane protein",
+        "genome_id": "137722.3",
+        "gene": "cusA",
+        "start": 65762,
+        "end": 68875
+      },
+      {
+        "product": "Cation efflux system protein CusA",
+        "genome_id": "187303.17",
+        "gene": "cusA",
+        "start": 1873569,
+        "end": 1876730
+      },
+      {
+        "patric_id": "fig|187303.17.peg.1966",
+        "product": "Copper/silver efflux RND transporter, transmembrane protein CusA",
+        "genome_id": "187303.17",
+        "gene": "cusA",
+        "start": 1873569,
+        "end": 1876730
+      },
+      {
+        "patric_id": "fig|164546.7.peg.5005",
+        "product": "CzcABC family efflux RND transporter, transmembrane protein",
+        "genome_id": "164546.7",
+        "gene": "cusA",
+        "start": 1673284,
+        "end": 1676400
+      },
+      {
+        "product": "outer membrane copper (silver) and drug transport protein (RND family)",
+        "genome_id": "164546.7",
+        "gene": "cusA",
+        "start": 1673284,
+        "end": 1676400
+      },
+      {
+        "product": "heavy metal efflux RND transporter CusA",
+        "genome_id": "240015.3",
+        "gene": "cusA2",
+        "start": 4061256,
+        "end": 4064402
+      },
+      {
+        "patric_id": "fig|240015.3.peg.1163",
+        "product": "CzcABC family efflux RND transporter, transmembrane protein",
+        "genome_id": "240015.3",
+        "gene": "cusA1",
+        "start": 1417384,
+        "end": 1420551
+      },
+      {
+        "product": "heavy metal efflux RND transporter CusA",
+        "genome_id": "240015.3",
+        "gene": "cusA1",
+        "start": 1417384,
+        "end": 1420551
+      },
+      {
+        "patric_id": "fig|240015.3.peg.3352",
+        "product": "CzcABC family efflux RND transporter, transmembrane protein",
+        "genome_id": "240015.3",
+        "gene": "cusA2",
+        "start": 4061256,
+        "end": 4064402
+      },
+      {
+        "patric_id": "fig|271065.3.peg.2679",
+        "product": "Copper/silver efflux RND transporter, transmembrane protein CusA",
+        "genome_id": "271065.3",
+        "gene": "cusA",
+        "start": 2986954,
+        "end": 2990118
+      },
+      {
+        "product": "Cation efflux system protein CusA",
+        "genome_id": "271065.3",
+        "gene": "cusA",
+        "start": 2986954,
+        "end": 2990118
+      },
+      {
+        "patric_id": "fig|379066.3.peg.1352",
+        "product": "CzcABC family efflux RND transporter, transmembrane protein",
+        "genome_id": "379066.3",
+        "gene": "cusA",
+        "start": 1571246,
+        "end": 1574488
+      },
+      {
+        "product": "cation efflux system protein",
+        "genome_id": "379066.3",
+        "gene": "cusA",
+        "start": 1571246,
+        "end": 1574488
+      }
+    ],
+    "CueO": [],
+    "CopZ": [
+      {
+        "product": "Copper chaperone CopZ",
+        "genome_id": "1121428.3",
+        "gene": "copZ",
+        "start": 59246,
+        "end": 59455
+      },
+      {
+        "patric_id": "fig|1121428.3.peg.314",
+        "product": "Copper(I) chaperone CopZ",
+        "genome_id": "1121428.3",
+        "gene": "copZ",
+        "start": 59246,
+        "end": 59455
+      },
+      {
+        "product": "copper chaperone CopZ",
+        "genome_id": "1146883.3",
+        "gene": "copZ",
+        "start": 1590199,
+        "end": 1590408
+      },
+      {
+        "patric_id": "fig|1146883.3.peg.1525",
+        "product": "Copper(I) chaperone CopZ",
+        "genome_id": "1146883.3",
+        "gene": "copZ",
+        "start": 1590199,
+        "end": 1590408
+      },
+      {
+        "patric_id": "fig|1146883.3.peg.3122",
+        "product": "Copper(I) chaperone CopZ",
+        "genome_id": "1146883.3",
+        "gene": "copZ2",
+        "start": 3227192,
+        "end": 3227404
+      },
+      {
+        "product": "copper insertion chaperone and transporter component",
+        "genome_id": "1146883.3",
+        "gene": "copZ2",
+        "start": 3227192,
+        "end": 3227404
+      },
+      {
+        "patric_id": "fig|1002809.3.peg.2456",
+        "product": "Copper(I) chaperone CopZ",
+        "genome_id": "1002809.3",
+        "gene": "copZ",
+        "start": 2492590,
+        "end": 2492799
+      },
+      {
+        "product": "copper chaperone",
+        "genome_id": "1002809.3",
+        "gene": "copZ",
+        "start": 2492590,
+        "end": 2492799
+      },
+      {
+        "product": "copper chaperone CopZ",
+        "genome_id": "1234679.3",
+        "gene": "copZ",
+        "start": 2013599,
+        "end": 2013814
+      },
+      {
+        "patric_id": "fig|1234679.3.peg.1984",
+        "product": "Copper(I) chaperone CopZ",
+        "genome_id": "1234679.3",
+        "gene": "copZ",
+        "start": 2013599,
+        "end": 2013814
+      },
+      {
+        "product": "copper chaperone CopZ",
+        "genome_id": "1234679.3",
+        "gene": "copZ",
+        "start": 3179453,
+        "end": 3179623
+      },
+      {
+        "patric_id": "fig|1234679.3.peg.3177",
+        "product": "hypothetical protein",
+        "genome_id": "1234679.3",
+        "gene": "copZ",
+        "start": 3179453,
+        "end": 3179623
+      },
+      {
+        "patric_id": "fig|134676.3.peg.601",
+        "product": "Copper(I) chaperone CopZ",
+        "genome_id": "134676.3",
+        "gene": "copZ",
+        "start": 702878,
+        "end": 703090
+      },
+      {
+        "product": "Cation-transporting ATPase pacS",
+        "genome_id": "134676.3",
+        "gene": "copZ",
+        "start": 702878,
+        "end": 703090
+      },
+      {
+        "product": "copper chaperone",
+        "genome_id": "355278.4",
+        "gene": "copZ-1",
+        "start": 2318563,
+        "end": 2319240
+      },
+      {
+        "patric_id": "fig|355278.4.peg.2240",
+        "product": "hypothetical protein",
+        "genome_id": "355278.4",
+        "gene": "copZ-2",
+        "start": 2280856,
+        "end": 2281485
+      },
+      {
+        "product": "Copper chaperone",
+        "genome_id": "355278.4",
+        "gene": "copZ-2",
+        "start": 2280856,
+        "end": 2281485
+      },
+      {
+        "patric_id": "fig|355278.4.peg.2777",
+        "product": "hypothetical protein",
+        "genome_id": "355278.4",
+        "gene": "copZ",
+        "start": 2840223,
+        "end": 2840426
+      },
+      {
+        "patric_id": "fig|355278.4.peg.2267",
+        "product": "hypothetical protein",
+        "genome_id": "355278.4",
+        "gene": "copZ-1",
+        "start": 2318563,
+        "end": 2319192
+      },
+      {
+        "product": "Copper chaperone",
+        "genome_id": "355278.4",
+        "gene": "copZ",
+        "start": 2840223,
+        "end": 2840426
+      },
+      {
+        "patric_id": "fig|358681.3.peg.371",
+        "product": "Copper(I) chaperone CopZ",
+        "genome_id": "358681.3",
+        "gene": "copZ",
+        "start": 383159,
+        "end": 383359
+      },
+      {
+        "product": "copper chaperone",
+        "genome_id": "358681.3",
+        "gene": "copZ",
+        "start": 383159,
+        "end": 383359
+      }
+    ],
+    "CueR": [
+      {
+        "patric_id": "fig|1005048.3.peg.3057",
+        "product": "Cu(I)-responsive transcriptional regulator",
+        "genome_id": "1005048.3",
+        "gene": "cueR",
+        "start": 3501107,
+        "end": 3501508
+      },
+      {
+        "product": "MerR transcriptional regulator",
+        "genome_id": "1005048.3",
+        "gene": "cueR",
+        "start": 3501107,
+        "end": 3501508
+      },
+      {
+        "patric_id": "fig|177437.4.peg.2028",
+        "product": "hypothetical protein",
+        "genome_id": "177437.4",
+        "gene": "cueR",
+        "start": 2183161,
+        "end": 2183412
+      },
+      {
+        "product": "CueR",
+        "genome_id": "177437.4",
+        "gene": "cueR",
+        "start": 2183161,
+        "end": 2183412
+      },
+      {
+        "patric_id": "fig|246200.7.peg.802",
+        "product": "Heavy metal resistance transcriptional regulator HmrR",
+        "genome_id": "246200.7",
+        "gene": "cueR",
+        "start": 826233,
+        "end": 826622
+      },
+      {
+        "product": "Cu(I)-responsive transcriptional regulator",
+        "genome_id": "246200.7",
+        "gene": "cueR",
+        "start": 826233,
+        "end": 826622
+      },
+      {
+        "patric_id": "fig|244592.3.peg.2742",
+        "product": "Heavy metal resistance transcriptional regulator HmrR",
+        "genome_id": "244592.3",
+        "gene": "cueR",
+        "start": 3364541,
+        "end": 3364939
+      },
+      {
+        "product": "Cu(I)-responsive transcriptional regulator",
+        "genome_id": "244592.3",
+        "gene": "cueR",
+        "start": 3364541,
+        "end": 3364939
+      },
+      {
+        "patric_id": "fig|311403.8.peg.6053",
+        "product": "Heavy metal resistance transcriptional regulator HmrR",
+        "genome_id": "311403.8",
+        "gene": "cueR",
+        "start": 3649073,
+        "end": 3649459
+      },
+      {
+        "product": "Cu(I)-responsive transcriptional regulator",
+        "genome_id": "311403.8",
+        "gene": "cueR",
+        "start": 3649073,
+        "end": 3649459
+      },
+      {
+        "product": "Cu(I)-responsive transcriptional regulator, MerR family",
+        "genome_id": "322710.5",
+        "gene": "cueR",
+        "start": 956336,
+        "end": 956752
+      },
+      {
+        "patric_id": "fig|322710.5.peg.940",
+        "product": "Transcriptional regulator, MerR family",
+        "genome_id": "322710.5",
+        "gene": "cueR",
+        "start": 956336,
+        "end": 956752
+      }
+    ],
+    "CusR": [
+      {
+        "product": "Transcriptional regulatory protein cusR",
+        "genome_id": "1166018.3",
+        "gene": "cusR",
+        "start": 139292,
+        "end": 139975
+      },
+      {
+        "patric_id": "fig|1166018.3.peg.5739",
+        "product": "Two-component transcriptional response regulator, OmpR family",
+        "genome_id": "1166018.3",
+        "gene": "cusR",
+        "start": 139292,
+        "end": 139975
+      },
+      {
+        "product": "transcriptional regulatory protein CusR",
+        "genome_id": "330214.5",
+        "gene": "cusR",
+        "start": 1482927,
+        "end": 1483610
+      },
+      {
+        "patric_id": "fig|330214.5.peg.1478",
+        "product": "Two-component transcriptional response regulator, OmpR family",
+        "genome_id": "330214.5",
+        "gene": "cusR",
+        "start": 1482927,
+        "end": 1483610
+      }
+    ],
+    "CopY": [
+      {
+        "product": "conserved hypothetical protein",
+        "genome_id": "1234679.3",
+        "gene": "copY",
+        "start": 2013842,
+        "end": 2014297
+      },
+      {
+        "patric_id": "fig|1234679.3.peg.1985",
+        "product": "Negative transcriptional regulator-copper transport operon",
+        "genome_id": "1234679.3",
+        "gene": "copY",
+        "start": 2013842,
+        "end": 2014297
+      },
+      {
+        "patric_id": "fig|1234679.3.peg.2332",
+        "product": "Negative transcriptional regulator-copper transport operon",
+        "genome_id": "1234679.3",
+        "gene": "copY",
+        "start": 2330521,
+        "end": 2330907
+      },
+      {
+        "product": "conserved hypothetical protein",
+        "genome_id": "1234679.3",
+        "gene": "copY",
+        "start": 2330521,
+        "end": 2330907
+      },
+      {
+        "patric_id": "fig|134676.3.peg.2951",
+        "product": "Transcriptional regulator, MecI family",
+        "genome_id": "134676.3",
+        "gene": "copY",
+        "start": 3292765,
+        "end": 3293115
+      },
+      {
+        "product": "putative transcriptional regulator",
+        "genome_id": "134676.3",
+        "gene": "copY",
+        "start": 3292765,
+        "end": 3293115
+      }
+    ],
+    "SodA": [
+      {
+        "product": "Superoxide dismutase",
+        "genome_id": "1171373.8",
+        "gene": "sodA",
+        "start": 2670958,
+        "end": 2671578
+      },
+      {
+        "patric_id": "fig|1085623.3.peg.2208",
+        "product": "Superoxide dismutase [Fe] (EC 1.15.1.1)",
+        "genome_id": "1085623.3",
+        "gene": "sodA",
+        "start": 2511540,
+        "end": 2512121
+      },
+      {
+        "patric_id": "fig|1051632.5.peg.2728",
+        "product": "Superoxide dismutase",
+        "genome_id": "1051632.5",
+        "gene": "sodA",
+        "start": 2599212,
+        "end": 2599811
+      },
+      {
+        "product": "superoxide dismutase",
+        "genome_id": "1085623.3",
+        "gene": "sodA",
+        "start": 2511540,
+        "end": 2512121
+      },
+      {
+        "patric_id": "fig|1171373.8.peg.2490",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "1171373.8",
+        "gene": "sodA",
+        "start": 2670958,
+        "end": 2671578
+      },
+      {
+        "product": "Superoxide dismutase",
+        "genome_id": "1051632.5",
+        "gene": "sodA",
+        "start": 2599212,
+        "end": 2599763
+      },
+      {
+        "product": "superoxide dismutase, Fe-Mn family",
+        "genome_id": "1166018.3",
+        "gene": "sodA",
+        "start": 3531885,
+        "end": 3532580
+      },
+      {
+        "patric_id": "fig|1166018.3.peg.4619",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "1166018.3",
+        "gene": "sodA",
+        "start": 3531885,
+        "end": 3532580
+      },
+      {
+        "product": "superoxide dismutase [Mn]",
+        "genome_id": "1234679.3",
+        "gene": "sodA",
+        "start": 2075372,
+        "end": 2075980
+      },
+      {
+        "patric_id": "fig|1234679.3.peg.2053",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "1234679.3",
+        "gene": "sodA",
+        "start": 2075372,
+        "end": 2075980
+      },
+      {
+        "patric_id": "fig|1185876.3.peg.4412",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "1185876.3",
+        "gene": "sodA",
+        "start": 397321,
+        "end": 398022
+      },
+      {
+        "product": "superoxide dismutase, Fe-Mn family",
+        "genome_id": "1185876.3",
+        "gene": "sodA",
+        "start": 397321,
+        "end": 398022
+      },
+      {
+        "patric_id": "fig|1179773.3.peg.545",
+        "product": "Superoxide dismutase [Mn/Fe] (EC 1.15.1.1)",
+        "genome_id": "1179773.3",
+        "gene": "sodA",
+        "start": 548416,
+        "end": 549045
+      },
+      {
+        "product": "Superoxide dismutase, Mn-dependent",
+        "genome_id": "1179773.3",
+        "gene": "sodA",
+        "start": 548416,
+        "end": 549045
+      },
+      {
+        "product": "superoxide dismutase, Mn",
+        "genome_id": "240015.3",
+        "gene": "sodA",
+        "start": 2640339,
+        "end": 2640950
+      },
+      {
+        "patric_id": "fig|240015.3.peg.2180",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "240015.3",
+        "gene": "sodA",
+        "start": 2640339,
+        "end": 2640950
+      },
+      {
+        "product": "Mn family superoxide dismutase",
+        "genome_id": "243090.15",
+        "gene": "sodA",
+        "start": 3555061,
+        "end": 3555747
+      },
+      {
+        "patric_id": "fig|243090.15.peg.3243",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "243090.15",
+        "gene": "sodA",
+        "start": 3555124,
+        "end": 3555747
+      },
+      {
+        "patric_id": "fig|300267.13.peg.4533",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "300267.13",
+        "gene": "sodA",
+        "start": 3570781,
+        "end": 3571407
+      },
+      {
+        "product": "superoxide dismutase",
+        "genome_id": "300267.13",
+        "gene": "sodA",
+        "start": 3570781,
+        "end": 3571401
+      },
+      {
+        "product": "CU-Zn Superoxide dismutase",
+        "genome_id": "322710.5",
+        "gene": "sodA",
+        "start": 3156657,
+        "end": 3157199
+      },
+      {
+        "patric_id": "fig|322710.5.peg.2878",
+        "product": "Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)",
+        "genome_id": "322710.5",
+        "gene": "sodA",
+        "start": 3156657,
+        "end": 3157199
+      },
+      {
+        "product": "superoxide dismutase (Mn/Fe)",
+        "genome_id": "331104.5",
+        "gene": "sodA",
+        "start": 283323,
+        "end": 283946
+      },
+      {
+        "patric_id": "fig|331104.5.peg.281",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "331104.5",
+        "gene": "sodA",
+        "start": 283323,
+        "end": 283946
+      },
+      {
+        "product": "Superoxide dismutase",
+        "genome_id": "355278.4",
+        "gene": "sodA",
+        "start": 32026,
+        "end": 32598
+      },
+      {
+        "patric_id": "fig|355278.4.peg.31",
+        "product": "Superoxide dismutase [Fe] (EC 1.15.1.1)",
+        "genome_id": "355278.4",
+        "gene": "sodA",
+        "start": 32026,
+        "end": 32598
+      },
+      {
+        "product": "Superoxide dismutase",
+        "genome_id": "37692.4",
+        "gene": "sodA",
+        "start": 37315,
+        "end": 37929
+      },
+      {
+        "patric_id": "fig|37692.4.peg.481",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "37692.4",
+        "gene": "sodA",
+        "start": 564015,
+        "end": 564629
+      },
+      {
+        "patric_id": "fig|37692.4.peg.32",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "37692.4",
+        "gene": "sodA",
+        "start": 37315,
+        "end": 37929
+      },
+      {
+        "product": "Superoxide dismutase",
+        "genome_id": "37692.4",
+        "gene": "sodA",
+        "start": 564015,
+        "end": 564629
+      },
+      {
+        "patric_id": "fig|379066.3.peg.2099",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "379066.3",
+        "gene": "sodA",
+        "start": 2391257,
+        "end": 2391862
+      },
+      {
+        "product": "manganese superoxide dismutase",
+        "genome_id": "379066.3",
+        "gene": "sodA",
+        "start": 2391257,
+        "end": 2391862
+      },
+      {
+        "product": "manganese superoxide dismutase",
+        "genome_id": "379066.3",
+        "gene": "sodA",
+        "start": 245004,
+        "end": 245627
+      },
+      {
+        "patric_id": "fig|379066.3.peg.203",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "379066.3",
+        "gene": "sodA",
+        "start": 244935,
+        "end": 245627
+      },
+      {
+        "product": "superoxide dismutase [Fe] SodA",
+        "genome_id": "362242.7",
+        "gene": "sodA",
+        "start": 5565918,
+        "end": 5566541
+      },
+      {
+        "product": "superoxide dismutase [Mn]",
+        "genome_id": "358681.3",
+        "gene": "sodA",
+        "start": 3245944,
+        "end": 3246558
+      },
+      {
+        "patric_id": "fig|362242.7.peg.5782",
+        "product": "Superoxide dismutase [Mn/Fe] (EC 1.15.1.1)",
+        "genome_id": "362242.7",
+        "gene": "sodA",
+        "start": 5565918,
+        "end": 5566541
+      },
+      {
+        "patric_id": "fig|358681.3.peg.3045",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "358681.3",
+        "gene": "sodA",
+        "start": 3245944,
+        "end": 3246558
+      },
+      {
+        "product": "superoxide dismutase [Mn]",
+        "genome_id": "358681.3",
+        "gene": "sodA",
+        "start": 1061928,
+        "end": 1062536
+      },
+      {
+        "patric_id": "fig|358681.3.peg.1014",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "358681.3",
+        "gene": "sodA",
+        "start": 1061928,
+        "end": 1062536
+      }
+    ],
+    "SodB": [
+      {
+        "product": "Superoxide dismutase Fe",
+        "genome_id": "1005048.3",
+        "gene": "sodB",
+        "start": 1425528,
+        "end": 1426115
+      },
+      {
+        "patric_id": "fig|1005048.3.peg.1247",
+        "product": "Superoxide dismutase [Fe] (EC 1.15.1.1)",
+        "genome_id": "1005048.3",
+        "gene": "sodB",
+        "start": 1425528,
+        "end": 1426115
+      },
+      {
+        "product": "superoxide dismutase (Mn)",
+        "genome_id": "1193729.4",
+        "gene": "sodB",
+        "start": 1228061,
+        "end": 1228669
+      },
+      {
+        "patric_id": "fig|1193729.4.peg.706",
+        "product": "Superoxide dismutase [Fe] (EC 1.15.1.1)",
+        "genome_id": "1193729.4",
+        "gene": "sodB",
+        "start": 1228061,
+        "end": 1228669
+      },
+      {
+        "patric_id": "fig|1255043.3.peg.1296",
+        "product": "Superoxide dismutase [Fe] (EC 1.15.1.1)",
+        "genome_id": "1255043.3",
+        "gene": "sodB [H]",
+        "start": 1230862,
+        "end": 1231443
+      },
+      {
+        "product": "Superoxide dismutase (Fe)",
+        "genome_id": "1255043.3",
+        "gene": "sodB [H]",
+        "start": 1230862,
+        "end": 1231443
+      },
+      {
+        "patric_id": "fig|203275.8.peg.1745",
+        "product": "Superoxide dismutase [Fe] (EC 1.15.1.1)",
+        "genome_id": "203275.8",
+        "gene": "sodB",
+        "start": 2052676,
+        "end": 2053260
+      },
+      {
+        "product": "superoxide dismutase (Fe)",
+        "genome_id": "203275.8",
+        "gene": "sodB",
+        "start": 2052676,
+        "end": 2053260
+      },
+      {
+        "patric_id": "fig|164546.7.peg.572",
+        "product": "Superoxide dismutase [Fe] (EC 1.15.1.1)",
+        "genome_id": "164546.7",
+        "gene": "sodB",
+        "start": 583701,
+        "end": 584282
+      },
+      {
+        "product": "superoxide dismutase",
+        "genome_id": "164546.7",
+        "gene": "sodB",
+        "start": 583701,
+        "end": 584282
+      },
+      {
+        "product": "putative superoxide dismutase",
+        "genome_id": "216596.11",
+        "gene": "sodB",
+        "start": 1403712,
+        "end": 1404314
+      },
+      {
+        "patric_id": "fig|216596.11.peg.2526",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "216596.11",
+        "gene": "sodB",
+        "start": 1403712,
+        "end": 1404314
+      },
+      {
+        "patric_id": "fig|264731.4.peg.1681",
+        "product": "Superoxide dismutase [Mn/Fe] (EC 1.15.1.1)",
+        "genome_id": "264731.4",
+        "gene": "sodB",
+        "start": 2083536,
+        "end": 2084120
+      },
+      {
+        "product": "superoxide dismutase",
+        "genome_id": "264731.4",
+        "gene": "sodB",
+        "start": 2083536,
+        "end": 2084120
+      },
+      {
+        "product": "superoxide dismutase, Fe",
+        "genome_id": "246200.7",
+        "gene": "sodB",
+        "start": 2480854,
+        "end": 2481453
+      },
+      {
+        "patric_id": "fig|246200.7.peg.2373",
+        "product": "Superoxide dismutase [Mn/Fe] (EC 1.15.1.1)",
+        "genome_id": "246200.7",
+        "gene": "sodB",
+        "start": 2480854,
+        "end": 2481489
+      },
+      {
+        "patric_id": "fig|272942.6.peg.2352",
+        "product": "Superoxide dismutase [Mn/Fe] (EC 1.15.1.1)",
+        "genome_id": "272942.6",
+        "gene": "sodB",
+        "start": 2485482,
+        "end": 2486084
+      },
+      {
+        "product": "superoxide dismutase (Fe)",
+        "genome_id": "272942.6",
+        "gene": "sodB",
+        "start": 2485482,
+        "end": 2486084
+      },
+      {
+        "product": "Superoxide dismutase [Fe]",
+        "genome_id": "271065.3",
+        "gene": "sodB",
+        "start": 3846503,
+        "end": 3847084
+      },
+      {
+        "patric_id": "fig|271065.3.peg.3424",
+        "product": "Superoxide dismutase [Fe] (EC 1.15.1.1)",
+        "genome_id": "271065.3",
+        "gene": "sodB",
+        "start": 3846503,
+        "end": 3847084
+      },
+      {
+        "product": "superoxide dismutase protein",
+        "genome_id": "311403.8",
+        "gene": "sodB",
+        "start": 1139866,
+        "end": 1140468
+      },
+      {
+        "product": "superoxide dismutase",
+        "genome_id": "300267.13",
+        "gene": "sodB",
+        "start": 1715680,
+        "end": 1716261
+      },
+      {
+        "patric_id": "fig|311403.8.peg.3574",
+        "product": "Superoxide dismutase [Mn] (EC 1.15.1.1)",
+        "genome_id": "311403.8",
+        "gene": "sodB",
+        "start": 1139866,
+        "end": 1140468
+      },
+      {
+        "patric_id": "fig|300267.13.peg.2264",
+        "product": "Superoxide dismutase [Fe] (EC 1.15.1.1)",
+        "genome_id": "300267.13",
+        "gene": "sodB",
+        "start": 1715680,
+        "end": 1716261
+      },
+      {
+        "patric_id": "fig|322710.5.peg.3554",
+        "product": "Superoxide dismutase [Fe] (EC 1.15.1.1)",
+        "genome_id": "322710.5",
+        "gene": "sodB",
+        "start": 3824430,
+        "end": 3825011
+      },
+      {
+        "product": "Fe-Superoxide dismutase",
+        "genome_id": "322710.5",
+        "gene": "sodB",
+        "start": 3824430,
+        "end": 3825011
+      },
+      {
+        "patric_id": "fig|365046.3.peg.2241",
+        "product": "Superoxide dismutase [Fe] (EC 1.15.1.1)",
+        "genome_id": "365046.3",
+        "gene": "sodB",
+        "start": 2313530,
+        "end": 2314111
+      },
+      {
+        "product": "superoxide dismutase",
+        "genome_id": "379731.5",
+        "gene": "sodB",
+        "start": 3370748,
+        "end": 3371329
+      },
+      {
+        "patric_id": "fig|379731.5.peg.3144",
+        "product": "Superoxide dismutase [Fe] (EC 1.15.1.1)",
+        "genome_id": "379731.5",
+        "gene": "sodB",
+        "start": 3370748,
+        "end": 3371329
+      },
+      {
+        "product": "Candidate superoxide dismutase",
+        "genome_id": "365046.3",
+        "gene": "sodB",
+        "start": 2313530,
+        "end": 2314111
+      },
+      {
+        "product": "superoxide dismutase, fe",
+        "genome_id": "378806.8",
+        "gene": "sodB",
+        "start": 2290686,
+        "end": 2291270
+      },
+      {
+        "patric_id": "fig|378806.8.peg.1900",
+        "product": "Superoxide dismutase [Fe] (EC 1.15.1.1)",
+        "genome_id": "378806.8",
+        "gene": "sodB",
+        "start": 2290686,
+        "end": 2291270
+      }
+    ],
+    "SodC": [
+      {
+        "product": "superoxide dismutase",
+        "genome_id": "1184607.3",
+        "gene": "sodC",
+        "start": 12602,
+        "end": 13276
+      },
+      {
+        "patric_id": "fig|1184607.3.peg.2843",
+        "product": "Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)",
+        "genome_id": "1184607.3",
+        "gene": "sodC",
+        "start": 12602,
+        "end": 13276
+      },
+      {
+        "patric_id": "fig|1538.8.peg.3012",
+        "product": "Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)",
+        "genome_id": "1538.8",
+        "gene": "sodC",
+        "start": 3286126,
+        "end": 3286665
+      },
+      {
+        "product": "Cu-Zn superoxide dismutase",
+        "genome_id": "1538.8",
+        "gene": "sodC",
+        "start": 3286126,
+        "end": 3286665
+      },
+      {
+        "patric_id": "fig|164546.7.peg.4427",
+        "product": "Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)",
+        "genome_id": "164546.7",
+        "gene": "sodC",
+        "start": 1000627,
+        "end": 1001133
+      },
+      {
+        "product": "SUPEROXIDE DISMUTASE CU-ZN PRECURSOR PROTEIN",
+        "genome_id": "164546.7",
+        "gene": "sodC",
+        "start": 1000627,
+        "end": 1001133
+      },
+      {
+        "patric_id": "fig|216596.11.peg.2725",
+        "product": "Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)",
+        "genome_id": "216596.11",
+        "gene": "sodC",
+        "start": 1590023,
+        "end": 1590538
+      },
+      {
+        "product": "hypothetical protein",
+        "genome_id": "216596.11",
+        "gene": "sodC",
+        "start": 1590023,
+        "end": 1590085
+      },
+      {
+        "product": "putative superoxide dismutase",
+        "genome_id": "216596.11",
+        "gene": "sodC",
+        "start": 1590023,
+        "end": 1590538
+      },
+      {
+        "patric_id": "fig|264201.15.peg.1806",
+        "product": "Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)",
+        "genome_id": "264201.15",
+        "gene": "sodC",
+        "start": 2102482,
+        "end": 2103099
+      },
+      {
+        "product": "putative superoxide dismutase (Cu-Zn)",
+        "genome_id": "264201.15",
+        "gene": "sodC",
+        "start": 2102482,
+        "end": 2103099
+      },
+      {
+        "product": "copper/zinc superoxide dismutase",
+        "genome_id": "246196.19",
+        "gene": "sodC",
+        "start": 920583,
+        "end": 921293
+      },
+      {
+        "patric_id": "fig|246196.19.peg.828",
+        "product": "Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)",
+        "genome_id": "246196.19",
+        "gene": "sodC",
+        "start": 920583,
+        "end": 921293
+      },
+      {
+        "patric_id": "fig|300267.13.peg.2249",
+        "product": "Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)",
+        "genome_id": "300267.13",
+        "gene": "sodC",
+        "start": 1703649,
+        "end": 1704170
+      },
+      {
+        "product": "superoxide dismutase",
+        "genome_id": "300267.13",
+        "gene": "sodC",
+        "start": 1703649,
+        "end": 1704170
+      },
+      {
+        "patric_id": "fig|311403.8.peg.3717",
+        "product": "Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)",
+        "genome_id": "311403.8",
+        "gene": "sodC",
+        "start": 1281112,
+        "end": 1281618
+      },
+      {
+        "product": "superoxide dismutase protein",
+        "genome_id": "311403.8",
+        "gene": "sodC",
+        "start": 1281112,
+        "end": 1281618
+      },
+      {
+        "product": "Candidate superoxide dismutase [Cu, Zn], precursor",
+        "genome_id": "365046.3",
+        "gene": "sodC",
+        "start": 1168875,
+        "end": 1169411
+      },
+      {
+        "patric_id": "fig|365046.3.peg.1158",
+        "product": "Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)",
+        "genome_id": "365046.3",
+        "gene": "sodC",
+        "start": 1168875,
+        "end": 1169411
+      },
+      {
+        "patric_id": "fig|379731.5.peg.2578",
+        "product": "Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)",
+        "genome_id": "379731.5",
+        "gene": "sodC",
+        "start": 2797675,
+        "end": 2798196
+      },
+      {
+        "product": "superoxide dismutase, Cu-Zn",
+        "genome_id": "379731.5",
+        "gene": "sodC",
+        "start": 2797675,
+        "end": 2798196
+      },
+      {
+        "patric_id": "fig|362242.7.peg.1664",
+        "product": "Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)",
+        "genome_id": "362242.7",
+        "gene": "sodC",
+        "start": 1483567,
+        "end": 1484148
+      },
+      {
+        "product": "periplasmic superoxide dismutase [Cu-Zn] SodC",
+        "genome_id": "362242.7",
+        "gene": "sodC",
+        "start": 1483432,
+        "end": 1484148
+      }
+    ],
+    "KatA": [
+      {
+        "patric_id": "fig|1121451.3.peg.2696",
+        "product": "Catalase KatE (EC 1.11.1.6)",
+        "genome_id": "1121451.3",
+        "gene": "katA",
+        "start": 2886967,
+        "end": 2888496
+      },
+      {
+        "product": "vegetative catalase 1",
+        "genome_id": "1121451.3",
+        "gene": "katA",
+        "start": 2886967,
+        "end": 2888418
+      },
+      {
+        "patric_id": "fig|1146883.3.peg.2863",
+        "product": "Catalase KatE (EC 1.11.1.6)",
+        "genome_id": "1146883.3",
+        "gene": "katA",
+        "start": 2962576,
+        "end": 2964234
+      },
+      {
+        "product": "catalase",
+        "genome_id": "1146883.3",
+        "gene": "katA",
+        "start": 2962576,
+        "end": 2964234
+      },
+      {
+        "patric_id": "fig|1166018.3.peg.5618",
+        "product": "Catalase KatE (EC 1.11.1.6)",
+        "genome_id": "1166018.3",
+        "gene": "katA",
+        "start": 2584,
+        "end": 4068
+      },
+      {
+        "product": "catalase",
+        "genome_id": "1166018.3",
+        "gene": "katA",
+        "start": 2584,
+        "end": 4083
+      },
+      {
+        "patric_id": "fig|1184607.3.peg.2023",
+        "product": "Catalase KatE (EC 1.11.1.6)",
+        "genome_id": "1184607.3",
+        "gene": "katA",
+        "start": 14372,
+        "end": 15952
+      },
+      {
+        "product": "catalase KatA",
+        "genome_id": "1316932.3",
+        "gene": "katA",
+        "start": 229932,
+        "end": 231440
+      },
+      {
+        "product": "catalase KatA",
+        "genome_id": "1184607.3",
+        "gene": "katA",
+        "start": 14372,
+        "end": 15952
+      },
+      {
+        "patric_id": "fig|1316932.3.peg.244",
+        "product": "Catalase KatE (EC 1.11.1.6)",
+        "genome_id": "1316932.3",
+        "gene": "katA",
+        "start": 229932,
+        "end": 231440
+      },
+      {
+        "product": "vegetative catalase",
+        "genome_id": "1234679.3",
+        "gene": "katA",
+        "start": 3201279,
+        "end": 3202736
+      },
+      {
+        "patric_id": "fig|1234679.3.peg.3201",
+        "product": "Catalase KatE (EC 1.11.1.6)",
+        "genome_id": "1234679.3",
+        "gene": "katA",
+        "start": 3201279,
+        "end": 3202736
+      },
+      {
+        "product": "Catalase",
+        "genome_id": "1179773.3",
+        "gene": "katA",
+        "start": 265146,
+        "end": 266594
+      },
+      {
+        "patric_id": "fig|1179773.3.peg.265",
+        "product": "Catalase KatE (EC 1.11.1.6)",
+        "genome_id": "1179773.3",
+        "gene": "katA",
+        "start": 265146,
+        "end": 266594
+      },
+      {
+        "patric_id": "fig|246196.19.peg.3442",
+        "product": "Catalase KatE (EC 1.11.1.6)",
+        "genome_id": "246196.19",
+        "gene": "katA",
+        "start": 3550348,
+        "end": 3551805
+      },
+      {
+        "product": "catalase KatA",
+        "genome_id": "246196.19",
+        "gene": "katA",
+        "start": 3550348,
+        "end": 3551805
+      },
+      {
+        "product": "catalase",
+        "genome_id": "243090.15",
+        "gene": "katA",
+        "start": 2252262,
+        "end": 2253743
+      },
+      {
+        "product": "catalase KatA",
+        "genome_id": "246196.19",
+        "gene": "katA",
+        "start": 6295741,
+        "end": 6297402
+      },
+      {
+        "patric_id": "fig|246196.19.peg.6070",
+        "product": "Catalase KatE (EC 1.11.1.6)",
+        "genome_id": "246196.19",
+        "gene": "katA",
+        "start": 6295741,
+        "end": 6297402
+      },
+      {
+        "patric_id": "fig|243090.15.peg.2034",
+        "product": "Catalase KatE (EC 1.11.1.6)",
+        "genome_id": "243090.15",
+        "gene": "katA",
+        "start": 2252262,
+        "end": 2253743
+      },
+      {
+        "patric_id": "fig|379731.5.peg.799",
+        "product": "Catalase KatE (EC 1.11.1.6)",
+        "genome_id": "379731.5",
+        "gene": "katA",
+        "start": 906566,
+        "end": 908023
+      },
+      {
+        "product": "catalase",
+        "genome_id": "379731.5",
+        "gene": "katA",
+        "start": 906566,
+        "end": 908023
+      }
+    ]
+  },
+  "genome_metadata": {
+    "100226.1": {
+      "genome_name": "Streptomyces coelicolor A3(2)",
+      "rep100": "100226.15",
+      "rep200": "100226.15"
+    },
+    "1002809.3": {
+      "genome_name": "Solibacillus silvestris StLB046",
+      "rep100": "1002809.3",
+      "rep200": "1002809.3"
+    },
+    "1005048.3": {
+      "genome_name": "Collimonas fungivorans Ter331",
+      "rep100": "1005048.3",
+      "rep200": "1005048.3"
+    },
+    "1005058.3": {
+      "genome_name": "Gallibacterium anatis UMN179",
+      "rep100": "71421.8",
+      "rep200": "1005058.3"
+    },
+    "1006551.4": {
+      "genome_name": "Klebsiella oxytoca KCTC 1686",
+      "rep100": "511145.12",
+      "rep200": "511145.12"
+    },
+    "1007096.3": {
+      "genome_name": "Oscillibacter ruminantium GH1",
+      "rep100": "1007096.3",
+      "rep200": "1007096.3"
+    },
+    "1007105.3": {
+      "genome_name": "Pusillimonas sp. T7-7",
+      "rep100": "568707.3",
+      "rep200": "1007105.3"
+    },
+    "101510.15": {
+      "genome_name": "Rhodococcus jostii RHA1",
+      "rep100": "1448389.3",
+      "rep200": "2806442.3"
+    },
+    "1026882.3": {
+      "genome_name": "Methylophaga aminisulfidivorans MP",
+      "rep100": "1026882.3",
+      "rep200": "1026882.3"
+    },
+    "1028307.3": {
+      "genome_name": "Enterobacter aerogenes KCTC 2190",
+      "rep100": "511145.12",
+      "rep200": "511145.12"
+    },
+    "103690.1": {
+      "genome_name": "Nostoc sp. PCC 7120",
+      "rep100": "1170562.3",
+      "rep200": "99598.3"
+    },
+    "1045004.4": {
+      "genome_name": "Oenococcus kitaharae DSM 17330",
+      "rep100": "203123.7",
+      "rep200": "1045004.4"
+    },
+    "1048339.3": {
+      "genome_name": "Sporichthya polymorpha DSM 43042",
+      "rep100": "1048339.7",
+      "rep200": "1048339.7"
+    },
+    "1049789.4": {
+      "genome_name": "Leptospira broomii str. 5399",
+      "rep100": "1049972.3",
+      "rep200": "1049789.4"
+    },
+    "1051632.5": {
+      "genome_name": "Sulfobacillus acidophilus TPY",
+      "rep100": "1051632.5",
+      "rep200": "1051632.5"
+    },
+    "106370.11": {
+      "genome_name": "Frankia sp. Ccl3",
+      "rep100": "106370.16",
+      "rep200": "106370.16"
+    },
+    "1069080.3": {
+      "genome_name": "Succinispira mobilis DSM 6222",
+      "rep100": "1069080.9",
+      "rep200": "1069080.9"
+    },
+    "1069534.5": {
+      "genome_name": "Lactobacillus ruminis ATCC 27782",
+      "rep100": "362948.14",
+      "rep200": "1623.264"
+    },
+    "1073972.4": {
+      "genome_name": "Arthromitus sp. SFB-mouse-NYU",
+      "rep100": "1041504.3",
+      "rep200": "1041809.3"
+    },
+    "1078846.3": {
+      "genome_name": "Methylovulum miyakonense HT12",
+      "rep100": "271065.3",
+      "rep200": "1078846.3"
+    },
+    "1085623.3": {
+      "genome_name": "Glaciecola nitratireducens FR1064",
+      "rep100": "283942.6",
+      "rep200": "1085623.3"
+    },
+    "1088868.3": {
+      "genome_name": "Commensalibacter intestini A911",
+      "rep100": "1088868.3",
+      "rep200": "1088868.3"
+    },
+    "1112215.3": {
+      "genome_name": "Salinibacterium sp. PAMC 21357",
+      "rep100": "312284.4",
+      "rep200": "312284.4"
+    },
+    "1117647.4": {
+      "genome_name": "Simiduia agarivorans SA1 = DSM 21679",
+      "rep100": "498211.5",
+      "rep200": "1117647.4"
+    },
+    "1120924.3": {
+      "genome_name": "Acinetobacter baylyi DSM 14961 = CIP 107474",
+      "rep100": "871585.3",
+      "rep200": "871585.3"
+    },
+    "1120961.3": {
+      "genome_name": "Ahrensia kielensis DSM 5890",
+      "rep100": "1120961.3",
+      "rep200": "1120961.3"
+    },
+    "1121428.3": {
+      "genome_name": "Desulfotomaculum hydrothermale Lam5 = DSM 18033",
+      "rep100": "696281.4",
+      "rep200": "1121428.3"
+    },
+    "1121451.3": {
+      "genome_name": "Desulfovibrio hydrothermalis AM13 = DSM 14728",
+      "rep100": "526222.3",
+      "rep200": "526222.3"
+    },
+    "1121862.3": {
+      "genome_name": "Endozoicomonas elysicola DSM 22380",
+      "rep100": "305900.3",
+      "rep200": "305900.3"
+    },
+    "1121876.3": {
+      "genome_name": "Fangia hongkongensis DSM 21703",
+      "rep100": "1121876.3",
+      "rep200": "1121876.3"
+    },
+    "1122132.3": {
+      "genome_name": "Kaistia granuli DSM 23481",
+      "rep100": "1122131.7",
+      "rep200": "1122132.6"
+    },
+    "1122135.3": {
+      "genome_name": "Kiloniella laminariae DSM 19542",
+      "rep100": "1936025.3",
+      "rep200": "1122135.3"
+    },
+    "1122137.3": {
+      "genome_name": "Kordiimonas gwangyangensis DSM 19435",
+      "rep100": "2872312.3",
+      "rep200": "1122137.3"
+    },
+    "1122228.3": {
+      "genome_name": "Metascardovia criceti DSM 17774",
+      "rep100": "1122228.3",
+      "rep200": "1122228.3"
+    },
+    "1123236.3": {
+      "genome_name": "Salinimonas chungwhensis DSM 16280",
+      "rep100": "2729140.3",
+      "rep200": "1858656.3"
+    },
+    "1123502.3": {
+      "genome_name": "Wohlfahrtiimonas chitiniclastica DSM 18708",
+      "rep100": "1261130.3",
+      "rep200": "1261130.3"
+    },
+    "1131462.4": {
+      "genome_name": "Dehalobacter sp. CF",
+      "rep100": "1131462.4",
+      "rep200": "1131462.4"
+    },
+    "1132443.3": {
+      "genome_name": "Methylosarcina fibrata AML-C10",
+      "rep100": "271065.3",
+      "rep200": "1132443.3"
+    },
+    "1140.3": {
+      "genome_name": "Synechococcus elongatus PCC 7942",
+      "rep100": "1140.7",
+      "rep200": "1140.7"
+    },
+    "1146883.3": {
+      "genome_name": "Blastococcus saxobsidens DD2",
+      "rep100": "526225.7",
+      "rep200": "1146883.3"
+    },
+    "1147128.3": {
+      "genome_name": "Bifidobacterium asteroides PRL2011",
+      "rep100": "1122228.3",
+      "rep200": "1687.3"
+    },
+    "1148.1": {
+      "genome_name": "Synechocystis sp. PCC 6803",
+      "rep100": "1148.35",
+      "rep200": "1148.35"
+    },
+    "1156986.4": {
+      "genome_name": "Diplorickettsia massiliensis 20B",
+      "rep100": "1156986.4",
+      "rep200": "1156986.4"
+    },
+    "115711.7": {
+      "genome_name": "Chlamydophila pneumoniae AR39",
+      "rep100": "115713.3",
+      "rep200": "115713.3"
+    },
+    "1157951.4": {
+      "genome_name": "Providencia stuartii MRSN 2154",
+      "rep100": "511145.12",
+      "rep200": "1157951.4"
+    },
+    "1162668.3": {
+      "genome_name": "Leptospirillum ferrooxidans C2-3",
+      "rep100": "1162668.3",
+      "rep200": "1162668.3"
+    },
+    "1163389.3": {
+      "genome_name": "Francisella noatunensis subsp. orientalis str. Toba 04",
+      "rep100": "177416.18",
+      "rep200": "573569.4"
+    },
+    "1166018.3": {
+      "genome_name": "Fibrella aestuarina",
+      "rep100": "2817060.3",
+      "rep200": "1166018.3"
+    },
+    "1169145.3": {
+      "genome_name": "Cryocola sp. 340MFSha3.1",
+      "rep100": "1150399.3",
+      "rep200": "1150399.3"
+    },
+    "1171373.8": {
+      "genome_name": "Propionibacterium acidipropionici ATCC 4875",
+      "rep100": "1749.18",
+      "rep200": "1171373.8"
+    },
+    "1171377.3": {
+      "genome_name": "Bibersteinia trehalosi USDA-ARS-USMARC-192",
+      "rep100": "71421.8",
+      "rep200": "1171377.3"
+    },
+    "1172188.3": {
+      "genome_name": "Terracoccus sp. 273MFTsu3.1",
+      "rep100": "1727.3",
+      "rep200": "1727.3"
+    },
+    "1173022.3": {
+      "genome_name": "Crinalium epipsammum PCC 9333",
+      "rep100": "2692873.3",
+      "rep200": "1173022.3"
+    },
+    "1173026.3": {
+      "genome_name": "Gloeocapsa sp. PCC 7428",
+      "rep100": "1173026.3",
+      "rep200": "1173026.3"
+    },
+    "1179773.3": {
+      "genome_name": "Saccharothrix espanaensis DSM 44229",
+      "rep100": "675635.11",
+      "rep200": "1179773.3"
+    },
+    "1184607.3": {
+      "genome_name": "Austwickia chelonae NBRC 105200",
+      "rep100": "1184607.3",
+      "rep200": "1184607.3"
+    },
+    "1185876.3": {
+      "genome_name": "Fibrisoma limi",
+      "rep100": "2745947.3",
+      "rep200": "1185876.3"
+    },
+    "1191523.3": {
+      "genome_name": "Melioribacter roseus P3M",
+      "rep100": "1191523.3",
+      "rep200": "1191523.3"
+    },
+    "1193729.4": {
+      "genome_name": "Endolissoclinum patella L2",
+      "rep100": "1401328.3",
+      "rep200": "1193729.4"
+    },
+    "1195246.3": {
+      "genome_name": "Alishewanella agri BL06",
+      "rep100": "211586.12",
+      "rep200": "1195246.3"
+    },
+    "1199245.3": {
+      "genome_name": "secondary endosymbiont of Ctenarytaina eucalypti Thao2000",
+      "rep100": "1199245.3",
+      "rep200": "1199245.3"
+    },
+    "1203568.3": {
+      "genome_name": "Dermabacter sp. HFH0086",
+      "rep100": "1203568.3",
+      "rep200": "1203568.3"
+    },
+    "1203605.3": {
+      "genome_name": "Propionibacterium sp. oral taxon 192 str. F0372",
+      "rep100": "1203605.3",
+      "rep200": "1203605.3"
+    },
+    "1206109.5": {
+      "genome_name": "Portiera aleyrodidarum BT-B",
+      "rep100": "1206109.5",
+      "rep200": "1206109.5"
+    },
+    "1208365.4": {
+      "genome_name": "SAR86 cluster bacterium SAR86E",
+      "rep100": "1208365.4",
+      "rep200": "1208365.4"
+    },
+    "1209989.3": {
+      "genome_name": "Tepidanaerobacter acetatoxydans Re1",
+      "rep100": "499229.3",
+      "rep200": "499229.3"
+    },
+    "1215343.11": {
+      "genome_name": "Liberibacter crescens BT-1",
+      "rep100": "1215343.11",
+      "rep200": "1215343.11"
+    },
+    "1218108.3": {
+      "genome_name": "Empedobacter brevis NBRC 14943 = ATCC 43319",
+      "rep100": "865938.3",
+      "rep200": "1946432.3"
+    },
+    "122587.1": {
+      "genome_name": "Neisseria meningitidis Z2491",
+      "rep100": "242231.10",
+      "rep200": "242231.10"
+    },
+    "1230341.3": {
+      "genome_name": "Salimicrobium sp. MJ3",
+      "rep100": "1230341.3",
+      "rep200": "1230341.3"
+    },
+    "123214.3": {
+      "genome_name": "Persephonella marina EX-H1",
+      "rep100": "123214.3",
+      "rep200": "123214.3"
+    },
+    "1234409.3": {
+      "genome_name": "Catellicoccus marimammalium M35/04/3",
+      "rep100": "1234409.3",
+      "rep200": "1234409.3"
+    },
+    "1234679.3": {
+      "genome_name": "Carnobacterium maltaromaticum LMA28",
+      "rep100": "1087479.3",
+      "rep200": "1087479.3"
+    },
+    "1235755.3": {
+      "genome_name": "Salinicoccus carnicancri Crm",
+      "rep100": "1235755.3",
+      "rep200": "1235755.3"
+    },
+    "1235794.3": {
+      "genome_name": "Enterorhabdus caecimuris B7",
+      "rep100": "1384484.3",
+      "rep200": "1384484.3"
+    },
+    "1238674.3": {
+      "genome_name": "Weissella ceti NC36",
+      "rep100": "1238674.3",
+      "rep200": "1238674.3"
+    },
+    "1248916.3": {
+      "genome_name": "Sandarakinorhabdus sp. AAP62",
+      "rep100": "1123240.4",
+      "rep200": "1123240.4"
+    },
+    "1255043.3": {
+      "genome_name": "Thioalkalivibrio nitratireducens DSM 14787",
+      "rep100": "1255043.3",
+      "rep200": "1255043.3"
+    },
+    "1260251.3": {
+      "genome_name": "Spiribacter salinus M19-40",
+      "rep100": "1260251.3",
+      "rep200": "1260251.3"
+    },
+    "1278308.3": {
+      "genome_name": "Zimmermannella faecalis ATCC 13722",
+      "rep100": "1278308.3",
+      "rep200": "1278308.3"
+    },
+    "1279017.3": {
+      "genome_name": "Microbulbifer variabilis ATCC 700307",
+      "rep100": "1042377.3",
+      "rep200": "1279017.3"
+    },
+    "1279038.3": {
+      "genome_name": "Novispirillum itersonii subsp. itersonii ATCC 12639",
+      "rep100": "189.8",
+      "rep200": "189.8"
+    },
+    "1298593.3": {
+      "genome_name": "Thalassolituus oleivorans MIL-1",
+      "rep100": "1298593.3",
+      "rep200": "1298593.3"
+    },
+    "13035.3": {
+      "genome_name": "Dactylococcopsis salina PCC 8305",
+      "rep100": "65093.3",
+      "rep200": "13035.3"
+    },
+    "1303518.3": {
+      "genome_name": "Chthonomonas calidirosea T49",
+      "rep100": "1303518.3",
+      "rep200": "1303518.3"
+    },
+    "1316932.3": {
+      "genome_name": "Mannheimia haemolytica M42548",
+      "rep100": "71421.8",
+      "rep200": "416269.6"
+    },
+    "134287.3": {
+      "genome_name": "secondary endosymbiont of Heteropsylla cubana Thao2000",
+      "rep100": "134287.3",
+      "rep200": "134287.3"
+    },
+    "134676.3": {
+      "genome_name": "Actinoplanes sp. SE50/110",
+      "rep100": "134676.3",
+      "rep200": "134676.3"
+    },
+    "137722.3": {
+      "genome_name": "Azospirillum sp. B510",
+      "rep100": "862719.3",
+      "rep200": "862719.3"
+    },
+    "138119.3": {
+      "genome_name": "Desulfitobacterium sp. Y51",
+      "rep100": "768710.3",
+      "rep200": "1121395.3"
+    },
+    "142586.28": {
+      "genome_name": "Eubacterium sp. strain UBA10759",
+      "rep100": "717961.3",
+      "rep200": "717961.3"
+    },
+    "1519439.626": {
+      "genome_name": "Oscillibacter sp. ER4 XieH_2016__YSZC12003_36012__bin.11",
+      "rep100": "707003.271",
+      "rep200": "707003.271"
+    },
+    "1538.8": {
+      "genome_name": "Clostridium ljungdahlii",
+      "rep100": "1121290.3",
+      "rep200": "1538.8"
+    },
+    "155920.1": {
+      "genome_name": "Xylella fastidiosa Ann-1",
+      "rep100": "190485.4",
+      "rep200": "160492.11"
+    },
+    "156586.3": {
+      "genome_name": "Flavobacteria sp. BBFL7",
+      "rep100": "592029.3",
+      "rep200": "906888.9"
+    },
+    "156889.7": {
+      "genome_name": "Magnetococcus sp. MC-1",
+      "rep100": "156889.10",
+      "rep200": "156889.10"
+    },
+    "158878.1": {
+      "genome_name": "Staphylococcus aureus subsp. aureus Mu50",
+      "rep100": "176280.10",
+      "rep200": "93061.5"
+    },
+    "158879.1": {
+      "genome_name": "Staphylococcus aureus subsp. aureus N315",
+      "rep100": "176280.10",
+      "rep200": "93061.5"
+    },
+    "159087.4": {
+      "genome_name": "Dechloromonas aromatica RCB",
+      "rep100": "640081.3",
+      "rep200": "159087.6"
+    },
+    "160488.1": {
+      "genome_name": "Pseudomonas putida KT2440",
+      "rep100": "208964.12",
+      "rep200": "160488.4"
+    },
+    "160490.1": {
+      "genome_name": "Streptococcus pyogenes M1 GAS",
+      "rep100": "160490.10",
+      "rep200": "160490.10"
+    },
+    "160491.17": {
+      "genome_name": "Streptococcus pyogenes str. Manfredo",
+      "rep100": "160490.10",
+      "rep200": "160490.10"
+    },
+    "160492.1": {
+      "genome_name": "Xylella fastidiosa 9a5c",
+      "rep100": "190485.4",
+      "rep200": "160492.11"
+    },
+    "1627894.4": {
+      "genome_name": "Lascolabacillus massiliensis strain SIT8",
+      "rep100": "1978337.3",
+      "rep200": "1627894.4"
+    },
+    "163164.1": {
+      "genome_name": "Wolbachia sp. endosymbiont of Drosophila melanogaster",
+      "rep100": "570417.4",
+      "rep200": "66084.3"
+    },
+    "1637502.3": {
+      "genome_name": "Odoribacter sp. N15.MGS-14",
+      "rep100": "709991.3",
+      "rep200": "709991.3"
+    },
+    "164546.7": {
+      "genome_name": "Cupriavidus taiwanensis",
+      "rep100": "267608.8",
+      "rep200": "266264.9"
+    },
+    "167555.5": {
+      "genome_name": "Prochlorococcus marinus str. NATL1A",
+      "rep100": "59920.5",
+      "rep200": "59920.5"
+    },
+    "167879.3": {
+      "genome_name": "Colwellia psychrerythraea 34H",
+      "rep100": "167879.5",
+      "rep200": "167879.5"
+    },
+    "169963.1": {
+      "genome_name": "Listeria monocytogenes EGD-e",
+      "rep100": "169963.11",
+      "rep200": "169963.11"
+    },
+    "171101.1": {
+      "genome_name": "Streptococcus pneumoniae R6",
+      "rep100": "764298.7",
+      "rep200": "171101.6"
+    },
+    "172733.999": {
+      "genome_name": "uncultured Clostridiales bacterium BritoIL_2016__M1.16.ST__bin.34",
+      "rep100": "172733.999",
+      "rep200": "2714353.3"
+    },
+    "176279.3": {
+      "genome_name": "Staphylococcus epidermidis RP62A",
+      "rep100": "176280.10",
+      "rep200": "176280.10"
+    },
+    "176299.3": {
+      "genome_name": "Agrobacterium tumefaciens str. C58",
+      "rep100": "176299.10",
+      "rep200": "176299.10"
+    },
+    "177437.4": {
+      "genome_name": "Desulfobacterium autotrophicum HRM2",
+      "rep100": "177437.4",
+      "rep200": "177437.4"
+    },
+    "177439.1": {
+      "genome_name": "Desulfotalea psychrophila LSv54",
+      "rep100": "177439.1",
+      "rep200": "177439.1"
+    },
+    "178306.1": {
+      "genome_name": "Pyrobaculum aerophilum str. IM2",
+      "rep100": "444157.8",
+      "rep200": "2004705.3"
+    },
+    "180281.4": {
+      "genome_name": "Cyanobium sp. PCC 7001",
+      "rep100": "180281.4",
+      "rep200": "180281.4"
+    },
+    "1806462.22": {
+      "genome_name": "Mycoplasma sp. synthetic bacterium JCVI-Syn3.0",
+      "rep100": "272632.4",
+      "rep200": "272632.4"
+    },
+    "182217.3": {
+      "genome_name": "Helicobacter cetorum MIT 00-7128",
+      "rep100": "85962.8",
+      "rep200": "1163745.3"
+    },
+    "186497.1": {
+      "genome_name": "Pyrococcus furiosus DSM 3638",
+      "rep100": "272844.11",
+      "rep200": "186497.12"
+    },
+    "187272.6": {
+      "genome_name": "Alkalilimnicola ehrlichii MLHE-1",
+      "rep100": "187272.10",
+      "rep200": "187272.10"
+    },
+    "187303.17": {
+      "genome_name": "Methylocystis sp. SC2",
+      "rep100": "187303.17",
+      "rep200": "187303.17"
+    },
+    "187420.1": {
+      "genome_name": "Methanothermobacter thermautotrophicus str. Delta H",
+      "rep100": "187420.15",
+      "rep200": "187420.15"
+    },
+    "188937.1": {
+      "genome_name": "Methanosarcina acetivorans C2A",
+      "rep100": "192952.21",
+      "rep200": "192952.21"
+    },
+    "190192.1": {
+      "genome_name": "Methanopyrus kandleri AV19",
+      "rep100": "190192.8",
+      "rep200": "190192.8"
+    },
+    "190304.1": {
+      "genome_name": "Fusobacterium nucleatum subsp. nucleatum ATCC 25586",
+      "rep100": "190304.8",
+      "rep200": "190304.8"
+    },
+    "190485.1": {
+      "genome_name": "Xanthomonas campestris pv. campestris ATCC 33913",
+      "rep100": "190485.4",
+      "rep200": "190485.4"
+    },
+    "190486.1": {
+      "genome_name": "Xanthomonas axonopodis pv. citri str. 306",
+      "rep100": "190485.4",
+      "rep200": "317013.84"
+    },
+    "190650.1": {
+      "genome_name": "Caulobacter crescentus CB15",
+      "rep100": "190650.5",
+      "rep200": "190650.5"
+    },
+    "192952.1": {
+      "genome_name": "Methanosarcina mazei Go1",
+      "rep100": "192952.21",
+      "rep200": "192952.21"
+    },
+    "194439.1": {
+      "genome_name": "Chlorobium tepidum TLS",
+      "rep100": "194439.7",
+      "rep200": "194439.7"
+    },
+    "195099.3": {
+      "genome_name": "Campylobacter jejuni RM1221",
+      "rep100": "192222.6",
+      "rep200": "192222.6"
+    },
+    "195103.9": {
+      "genome_name": "Clostridium perfringens ATCC 13124",
+      "rep100": "195103.10",
+      "rep200": "195103.10"
+    },
+    "196162.6": {
+      "genome_name": "Nocardioides sp. JS614",
+      "rep100": "1380392.3",
+      "rep200": "1380392.3"
+    },
+    "196164.1": {
+      "genome_name": "Corynebacterium efficiens YS-314",
+      "rep100": "196627.13",
+      "rep200": "196627.13"
+    },
+    "196627.4": {
+      "genome_name": "Corynebacterium glutamicum ATCC 13032",
+      "rep100": "196627.13",
+      "rep200": "196627.13"
+    },
+    "197221.1": {
+      "genome_name": "Thermosynechococcus elongatus BP-1",
+      "rep100": "197221.4",
+      "rep200": "197221.4"
+    },
+    "198094.1": {
+      "genome_name": "Bacillus anthracis str. Ames",
+      "rep100": "226900.8",
+      "rep200": "226900.8"
+    },
+    "198215.1": {
+      "genome_name": "Shigella flexneri 2a str. 2457T",
+      "rep100": "511145.12",
+      "rep200": "511145.12"
+    },
+    "203119.11": {
+      "genome_name": "Clostridium thermocellum ATCC 27405",
+      "rep100": "203119.11",
+      "rep200": "203119.11"
+    },
+    "203120.4": {
+      "genome_name": "Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293",
+      "rep100": "203120.7",
+      "rep200": "203120.7"
+    },
+    "203122.12": {
+      "genome_name": "Saccharophagus degradans 2-40",
+      "rep100": "203122.15",
+      "rep200": "203122.15"
+    },
+    "203123.5": {
+      "genome_name": "Oenococcus oeni PSU-1",
+      "rep100": "203123.7",
+      "rep200": "203123.7"
+    },
+    "203124.6": {
+      "genome_name": "Trichodesmium erythraeum IMS101",
+      "rep100": "313612.5",
+      "rep200": "203124.6"
+    },
+    "203267.1": {
+      "genome_name": "Tropheryma whipplei str. Twist",
+      "rep100": "203267.6",
+      "rep200": "203267.6"
+    },
+    "203275.8": {
+      "genome_name": "Tannerella forsythia ATCC 43037",
+      "rep100": "203275.8",
+      "rep200": "203275.8"
+    },
+    "203907.1": {
+      "genome_name": "Blochmannia floridanus",
+      "rep100": "203907.6",
+      "rep200": "203907.6"
+    },
+    "204536.4": {
+      "genome_name": "Sulfurihydrogenibium azorense Az-Fu1",
+      "rep100": "204536.4",
+      "rep200": "204536.4"
+    },
+    "204669.6": {
+      "genome_name": "Acidobacteria bacterium Ellin345",
+      "rep100": "204669.11",
+      "rep200": "204669.11"
+    },
+    "204773.3": {
+      "genome_name": "Herminiimonas arsenicoxydans",
+      "rep100": "204773.6",
+      "rep200": "204773.6"
+    },
+    "2049040.8": {
+      "genome_name": "Roseburia sp. strain UBA10760",
+      "rep100": "515619.6",
+      "rep200": "301301.604"
+    },
+    "205914.5": {
+      "genome_name": "Haemophilus  somnus 129PT",
+      "rep100": "71421.8",
+      "rep200": "205914.11"
+    },
+    "205921.3": {
+      "genome_name": "Streptococcus agalactiae A909",
+      "rep100": "160490.10",
+      "rep200": "1311.3031"
+    },
+    "205922.3": {
+      "genome_name": "Pseudomonas fluorescens PfO-1",
+      "rep100": "208964.12",
+      "rep200": "223283.9"
+    },
+    "207559.3": {
+      "genome_name": "Desulfovibrio desulfuricans G20",
+      "rep100": "882.5",
+      "rep200": "207559.7"
+    },
+    "207949.3": {
+      "genome_name": "Bermanella marisrubri",
+      "rep100": "207949.12",
+      "rep200": "207949.12"
+    },
+    "208964.1": {
+      "genome_name": "Pseudomonas aeruginosa PAO1",
+      "rep100": "208964.12",
+      "rep200": "208964.12"
+    },
+    "209261.1": {
+      "genome_name": "Salmonella enterica subsp. enterica serovar Typhi Ty2",
+      "rep100": "511145.12",
+      "rep200": "511145.12"
+    },
+    "210007.1": {
+      "genome_name": "Streptococcus mutans UA159",
+      "rep100": "160490.10",
+      "rep200": "210007.7"
+    },
+    "211586.9": {
+      "genome_name": "Shewanella oneidensis MR-1",
+      "rep100": "211586.12",
+      "rep200": "211586.12"
+    },
+    "212042.5": {
+      "genome_name": "Anaplasma phagocytophilum HZ",
+      "rep100": "212042.8",
+      "rep200": "212042.8"
+    },
+    "212717.8": {
+      "genome_name": "Clostridium tetani E88",
+      "rep100": "441771.6",
+      "rep200": "212717.8"
+    },
+    "2144189.15": {
+      "genome_name": "Mycoplasma sp. synthetic bacterium JCVI-Syn3A",
+      "rep100": "272632.4",
+      "rep200": "272632.4"
+    },
+    "216432.7": {
+      "genome_name": "Croceibacter atlanticus HTCC2559",
+      "rep100": "216432.7",
+      "rep200": "216432.7"
+    },
+    "216596.11": {
+      "genome_name": "Rhizobium leguminosarum bv. viciae 3841",
+      "rep100": "176299.10",
+      "rep200": "216596.11"
+    },
+    "217.1": {
+      "genome_name": "Helicobacter mustelae 43772",
+      "rep100": "679897.3",
+      "rep200": "679897.3"
+    },
+    "218491.3": {
+      "genome_name": "Erwinia carotovora subsp. atroseptica SCRI1043",
+      "rep100": "511145.12",
+      "rep200": "561229.3"
+    },
+    "218496.1": {
+      "genome_name": "Tropheryma whipplei TW08/27",
+      "rep100": "203267.6",
+      "rep200": "203267.6"
+    },
+    "218497.4": {
+      "genome_name": "Chlamydophila abortus S26/3",
+      "rep100": "331636.3",
+      "rep200": "331636.3"
+    },
+    "219305.4": {
+      "genome_name": "Micromonospora sp. ATCC 39149",
+      "rep100": "391037.6",
+      "rep200": "648999.4"
+    },
+    "221109.1": {
+      "genome_name": "Oceanobacillus iheyensis HTE831",
+      "rep100": "221109.4",
+      "rep200": "221109.4"
+    },
+    "221988.1": {
+      "genome_name": "Mannheimia succiniciproducens MBEL55E",
+      "rep100": "71421.8",
+      "rep200": "221988.4"
+    },
+    "222891.5": {
+      "genome_name": "Neorickettsia sennetsu str. Miyayama",
+      "rep100": "434131.3",
+      "rep200": "222891.8"
+    },
+    "223926.6": {
+      "genome_name": "Vibrio parahaemolyticus RIMD 2210633",
+      "rep100": "312309.11",
+      "rep200": "265668.17"
+    },
+    "224308.1": {
+      "genome_name": "Bacillus subtilis subsp. subtilis str. 168",
+      "rep100": "224308.43",
+      "rep200": "224308.43"
+    },
+    "224324.1": {
+      "genome_name": "Aquifex aeolicus VF5",
+      "rep100": "224324.8",
+      "rep200": "224324.8"
+    },
+    "224325.1": {
+      "genome_name": "Archaeoglobus fulgidus DSM 4304",
+      "rep100": "224325.10",
+      "rep200": "224325.10"
+    },
+    "224326.1": {
+      "genome_name": "Borrelia burgdorferi B31",
+      "rep100": "139.379",
+      "rep200": "139.379"
+    },
+    "224911.1": {
+      "genome_name": "Bradyrhizobium japonicum USDA 110",
+      "rep100": "224911.5",
+      "rep200": "224911.5"
+    },
+    "224914.1": {
+      "genome_name": "Brucella melitensis 16M",
+      "rep100": "520461.7",
+      "rep200": "520461.7"
+    },
+    "226185.1": {
+      "genome_name": "Enterococcus faecalis V583",
+      "rep100": "226185.9",
+      "rep200": "226185.9"
+    },
+    "226186.1": {
+      "genome_name": "Bacteroides thetaiotaomicron VPI-5482",
+      "rep100": "295405.11",
+      "rep200": "471870.8"
+    },
+    "226900.1": {
+      "genome_name": "Bacillus cereus ATCC 14579",
+      "rep100": "226900.8",
+      "rep200": "226900.8"
+    },
+    "227882.1": {
+      "genome_name": "Streptomyces avermitilis MA-4680",
+      "rep100": "100226.15",
+      "rep200": "227882.9"
+    },
+    "228405.5": {
+      "genome_name": "Hyphomonas neptunium ATCC 15444",
+      "rep100": "228405.9",
+      "rep200": "228405.9"
+    },
+    "228410.1": {
+      "genome_name": "Nitrosomonas europaea ATCC 19718",
+      "rep100": "228410.6",
+      "rep200": "228410.6"
+    },
+    "228908.1": {
+      "genome_name": "Nanoarchaeum equitans Kin4-M",
+      "rep100": "228908.8",
+      "rep200": "228908.8"
+    },
+    "229193.1": {
+      "genome_name": "Yersinia pestis biovar Medievalis str. 91001",
+      "rep100": "2029683.3",
+      "rep200": "393305.7"
+    },
+    "232721.5": {
+      "genome_name": "Acidovorax sp. JS42",
+      "rep100": "535289.3",
+      "rep200": "535289.3"
+    },
+    "233412.1": {
+      "genome_name": "Haemophilus ducreyi 35000HP",
+      "rep100": "71421.8",
+      "rep200": "233412.5"
+    },
+    "234267.9": {
+      "genome_name": "Solibacter usitatus Ellin6076",
+      "rep100": "234267.13",
+      "rep200": "234267.13"
+    },
+    "234826.3": {
+      "genome_name": "Anaplasma marginale str. St. Maries",
+      "rep100": "234826.6",
+      "rep200": "234826.6"
+    },
+    "235279.1": {
+      "genome_name": "Helicobacter hepaticus ATCC 51449",
+      "rep100": "235279.5",
+      "rep200": "235279.5"
+    },
+    "235909.3": {
+      "genome_name": "Geobacillus kaustophilus HTA426",
+      "rep100": "420246.7",
+      "rep200": "420246.7"
+    },
+    "237727.3": {
+      "genome_name": "Erythrobacter sp. NAP1",
+      "rep100": "237727.5",
+      "rep200": "237727.5"
+    },
+    "240015.3": {
+      "genome_name": "Acidobacterium capsulatum ATCC 51196",
+      "rep100": "240015.3",
+      "rep200": "240015.3"
+    },
+    "240016.6": {
+      "genome_name": "Verrucomicrobium spinosum DSM 4136",
+      "rep100": "240016.6",
+      "rep200": "240016.6"
+    },
+    "240292.3": {
+      "genome_name": "Anabaena variabilis ATCC 29413",
+      "rep100": "1170562.3",
+      "rep200": "99598.3"
+    },
+    "243090.1": {
+      "genome_name": "Pirellula sp. 1",
+      "rep100": "243090.15",
+      "rep200": "243090.15"
+    },
+    "243090.15": {
+      "genome_name": "Rhodopirellula baltica SH 1",
+      "rep100": "243090.15",
+      "rep200": "243090.15"
+    },
+    "243160.4": {
+      "genome_name": "Burkholderia mallei ATCC 23344",
+      "rep100": "243160.12",
+      "rep200": "243160.12"
+    },
+    "243161.4": {
+      "genome_name": "Chlamydia muridarum Nigg",
+      "rep100": "471472.4",
+      "rep200": "243161.6"
+    },
+    "243164.3": {
+      "genome_name": "Dehalococcoides ethenogenes 195",
+      "rep100": "216389.10",
+      "rep200": "216389.10"
+    },
+    "243230.1": {
+      "genome_name": "Deinococcus radiodurans R1",
+      "rep100": "243230.17",
+      "rep200": "243230.17"
+    },
+    "243231.1": {
+      "genome_name": "Geobacter sulfurreducens PCA",
+      "rep100": "243231.5",
+      "rep200": "243231.5"
+    },
+    "243232.1": {
+      "genome_name": "Methanocaldococcus jannaschii DSM 2661",
+      "rep100": "1301915.4",
+      "rep200": "1301915.4"
+    },
+    "243233.4": {
+      "genome_name": "Methylococcus capsulatus str. Bath",
+      "rep100": "243233.7",
+      "rep200": "243233.7"
+    },
+    "243265.1": {
+      "genome_name": "Photorhabdus luminescens subsp. laumondii TTO1",
+      "rep100": "2029683.3",
+      "rep200": "243265.5"
+    },
+    "243273.1": {
+      "genome_name": "Mycoplasma genitalium G-37",
+      "rep100": "243273.25",
+      "rep200": "243273.25"
+    },
+    "243274.1": {
+      "genome_name": "Thermotoga maritima MSB8",
+      "rep100": "243274.5",
+      "rep200": "243274.5"
+    },
+    "243275.1": {
+      "genome_name": "Treponema denticola ATCC 35405",
+      "rep100": "243275.1",
+      "rep200": "243275.1"
+    },
+    "243276.1": {
+      "genome_name": "Treponema pallidum subsp. pallidum str. Nichols",
+      "rep100": "243276.1",
+      "rep200": "243276.1"
+    },
+    "243277.1": {
+      "genome_name": "Vibrio cholerae O1 biovar eltor str. N16961",
+      "rep100": "312309.11",
+      "rep200": "243277.26"
+    },
+    "243365.1": {
+      "genome_name": "Chromobacterium violaceum ATCC 12472",
+      "rep100": "243365.4",
+      "rep200": "243365.4"
+    },
+    "244592.3": {
+      "genome_name": "Labrenzia alexandrii DFL-11",
+      "rep100": "991905.3",
+      "rep200": "1397530.3"
+    },
+    "246194.3": {
+      "genome_name": "Carboxydothermus hydrogenoformans Z-2901",
+      "rep100": "246194.6",
+      "rep200": "246194.6"
+    },
+    "246195.3": {
+      "genome_name": "Dichelobacter nodosus VCS1703A",
+      "rep100": "246195.4",
+      "rep200": "246195.4"
+    },
+    "246196.19": {
+      "genome_name": "Mycobacterium smegmatis str. MC2 155",
+      "rep100": "246196.19",
+      "rep200": "246196.19"
+    },
+    "246197.19": {
+      "genome_name": "Myxococcus xanthus DK 1622",
+      "rep100": "1192034.3",
+      "rep200": "1192034.3"
+    },
+    "246200.7": {
+      "genome_name": "Ruegeria pomeroyi DSS-3",
+      "rep100": "420998.4",
+      "rep200": "89184.13"
+    },
+    "246201.1": {
+      "genome_name": "Streptococcus mitis NCTC 12261",
+      "rep100": "764298.7",
+      "rep200": "171101.6"
+    },
+    "247156.1": {
+      "genome_name": "Nocardia farcinica IFM 10152",
+      "rep100": "1448389.3",
+      "rep200": "247156.8"
+    },
+    "247639.3": {
+      "genome_name": "marine gamma proteobacterium HTCC2080",
+      "rep100": "247639.3",
+      "rep200": "247639.3"
+    },
+    "251221.1": {
+      "genome_name": "Gloeobacter violaceus PCC 7421",
+      "rep100": "251221.4",
+      "rep200": "251221.4"
+    },
+    "252305.5": {
+      "genome_name": "Oceanicola batsensis HTCC2597",
+      "rep100": "252305.5",
+      "rep200": "252305.5"
+    },
+    "257309.1": {
+      "genome_name": "Corynebacterium diphtheriae NCTC 13129",
+      "rep100": "1224164.3",
+      "rep200": "698968.3"
+    },
+    "257310.1": {
+      "genome_name": "Bordetella bronchiseptica RB50",
+      "rep100": "568707.3",
+      "rep200": "568707.3"
+    },
+    "257311.1": {
+      "genome_name": "Bordetella parapertussis 12822",
+      "rep100": "568707.3",
+      "rep200": "568707.3"
+    },
+    "257313.1": {
+      "genome_name": "Bordetella pertussis Tohama I",
+      "rep100": "568707.3",
+      "rep200": "568707.3"
+    },
+    "257363.1": {
+      "genome_name": "Rickettsia typhi str. Wilmington",
+      "rep100": "272947.5",
+      "rep200": "272947.5"
+    },
+    "258594.1": {
+      "genome_name": "Rhodopseudomonas palustris CGA009",
+      "rep100": "224911.5",
+      "rep200": "258594.8"
+    },
+    "259536.4": {
+      "genome_name": "Psychrobacter sp. 273-4",
+      "rep100": "335284.6",
+      "rep200": "335284.6"
+    },
+    "259564.8": {
+      "genome_name": "Methanococcoides burtonii DSM 6242",
+      "rep100": "259564.15",
+      "rep200": "259564.15"
+    },
+    "261594.1": {
+      "genome_name": "Bacillus anthracis str. 'Ames Ancestor'",
+      "rep100": "226900.8",
+      "rep200": "226900.8"
+    },
+    "262543.4": {
+      "genome_name": "Exiguobacterium sibiricum 255-15",
+      "rep100": "262543.8",
+      "rep200": "262543.8"
+    },
+    "262698.3": {
+      "genome_name": "Brucella abortus biovar 1 str. 9-941",
+      "rep100": "520461.7",
+      "rep200": "520461.7"
+    },
+    "262723.3": {
+      "genome_name": "Mycoplasma synoviae 53",
+      "rep100": "262723.5",
+      "rep200": "262723.5"
+    },
+    "262724.1": {
+      "genome_name": "Thermus thermophilus HB27",
+      "rep100": "300852.9",
+      "rep200": "300852.9"
+    },
+    "262768.1": {
+      "genome_name": "Onion yellows phytoplasma OY-M",
+      "rep100": "321961.3",
+      "rep200": "321961.3"
+    },
+    "263358.5": {
+      "genome_name": "Verrucosispora maris AB-18-032",
+      "rep100": "391037.6",
+      "rep200": "263358.5"
+    },
+    "263820.1": {
+      "genome_name": "Picrophilus torridus DSM 9790",
+      "rep100": "263820.9",
+      "rep200": "263820.9"
+    },
+    "264198.3": {
+      "genome_name": "Ralstonia eutropha JMP134",
+      "rep100": "267608.8",
+      "rep200": "266264.9"
+    },
+    "264201.15": {
+      "genome_name": "Candidatus Protochlamydia amoebophila UWE25",
+      "rep100": "389348.3",
+      "rep200": "362787.3"
+    },
+    "264203.3": {
+      "genome_name": "Zymomonas mobilis subsp. mobilis ZM4",
+      "rep100": "264203.5",
+      "rep200": "264203.5"
+    },
+    "264462.1": {
+      "genome_name": "Bdellovibrio bacteriovorus HD100",
+      "rep100": "264462.9",
+      "rep200": "264462.9"
+    },
+    "264730.3": {
+      "genome_name": "Pseudomonas syringae pv. phaseolicola 1448A",
+      "rep100": "208964.12",
+      "rep200": "223283.9"
+    },
+    "264731.4": {
+      "genome_name": "Prevotella ruminicola 23",
+      "rep100": "264731.4",
+      "rep200": "264731.4"
+    },
+    "264732.9": {
+      "genome_name": "Moorella thermoacetica ATCC 39073",
+      "rep100": "264732.11",
+      "rep200": "264732.11"
+    },
+    "265072.7": {
+      "genome_name": "Methylobacillus flagellatus KT",
+      "rep100": "1825523.3",
+      "rep200": "265072.11"
+    },
+    "265311.3": {
+      "genome_name": "Mesoplasma florum L1",
+      "rep100": "265311.5",
+      "rep200": "265311.5"
+    },
+    "266117.19": {
+      "genome_name": "Rubrobacter xylanophilus DSM 9941",
+      "rep100": "266117.10",
+      "rep200": "266117.10"
+    },
+    "266264.4": {
+      "genome_name": "Cupriavidus metallidurans CH34",
+      "rep100": "267608.8",
+      "rep200": "266264.9"
+    },
+    "266265.5": {
+      "genome_name": "Burkholderia xenovorans LB400",
+      "rep100": "243160.12",
+      "rep200": "1218074.4"
+    },
+    "266779.9": {
+      "genome_name": "Chelativorans sp. BNC1",
+      "rep100": "520461.7",
+      "rep200": "266779.9"
+    },
+    "266834.1": {
+      "genome_name": "Sinorhizobium meliloti 1021",
+      "rep100": "176299.10",
+      "rep200": "266834.11"
+    },
+    "266835.1": {
+      "genome_name": "Mesorhizobium loti MAFF303099",
+      "rep100": "1320556.3",
+      "rep200": "765698.3"
+    },
+    "266940.25": {
+      "genome_name": "Kineococcus radiotolerans SRS30216 = ATCC BAA-149",
+      "rep100": "131568.6",
+      "rep200": "131568.6"
+    },
+    "267377.1": {
+      "genome_name": "Methanococcus maripaludis S2",
+      "rep100": "406327.12",
+      "rep200": "267377.15"
+    },
+    "267608.1": {
+      "genome_name": "Ralstonia solanacearum GMI1000",
+      "rep100": "267608.8",
+      "rep200": "105219.7"
+    },
+    "267671.1": {
+      "genome_name": "Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130",
+      "rep100": "189518.3",
+      "rep200": "189518.3"
+    },
+    "267747.1": {
+      "genome_name": "Propionibacterium acnes KPA171202",
+      "rep100": "267747.3",
+      "rep200": "267747.3"
+    },
+    "267748.1": {
+      "genome_name": "Mycoplasma mobile 163K",
+      "rep100": "267748.5",
+      "rep200": "267748.5"
+    },
+    "269483.3": {
+      "genome_name": "Burkholderia cepacia R18194",
+      "rep100": "243160.12",
+      "rep200": "243160.12"
+    },
+    "269484.4": {
+      "genome_name": "Ehrlichia canis str. Jake",
+      "rep100": "269484.6",
+      "rep200": "269484.6"
+    },
+    "269796.9": {
+      "genome_name": "Rhodospirillum rubrum ATCC 11170",
+      "rep100": "269796.9",
+      "rep200": "269796.9"
+    },
+    "269797.3": {
+      "genome_name": "Methanosarcina barkeri str. fusaro",
+      "rep100": "192952.21",
+      "rep200": "192952.21"
+    },
+    "269798.12": {
+      "genome_name": "Cytophaga hutchinsonii ATCC 33406",
+      "rep100": "269798.16",
+      "rep200": "269798.16"
+    },
+    "269799.3": {
+      "genome_name": "Geobacter metallireducens GS-15",
+      "rep100": "243231.5",
+      "rep200": "269799.8"
+    },
+    "269800.4": {
+      "genome_name": "Thermobifida fusca YX",
+      "rep100": "269800.6",
+      "rep200": "269800.6"
+    },
+    "271065.3": {
+      "genome_name": "Methylomicrobium alcaliphilum",
+      "rep100": "271065.3",
+      "rep200": "271065.3"
+    },
+    "272557.1": {
+      "genome_name": "Aeropyrum pernix K1",
+      "rep100": "1198449.6",
+      "rep200": "1198449.6"
+    },
+    "272558.1": {
+      "genome_name": "Bacillus halodurans C-125",
+      "rep100": "272558.8",
+      "rep200": "272558.8"
+    },
+    "272559.3": {
+      "genome_name": "Bacteroides fragilis ATCC 25285",
+      "rep100": "295405.11",
+      "rep200": "295405.11"
+    },
+    "272561.1": {
+      "genome_name": "Chlamydia trachomatis D/UW-3/CX",
+      "rep100": "471472.4",
+      "rep200": "471472.4"
+    },
+    "272562.1": {
+      "genome_name": "Clostridium acetobutylicum ATCC 824",
+      "rep100": "272562.8",
+      "rep200": "272562.8"
+    },
+    "272564.4": {
+      "genome_name": "Desulfitobacterium hafniense DCB-2",
+      "rep100": "768710.3",
+      "rep200": "1121395.3"
+    },
+    "272568.11": {
+      "genome_name": "Gluconacetobacter diazotrophicus PAl 5",
+      "rep100": "634177.7",
+      "rep200": "272568.11"
+    },
+    "272620.3": {
+      "genome_name": "Klebsiella pneumoniae MGH 78578",
+      "rep100": "511145.12",
+      "rep200": "511145.12"
+    },
+    "272621.3": {
+      "genome_name": "Lactobacillus acidophilus NCFM",
+      "rep100": "272621.13",
+      "rep200": "272621.13"
+    },
+    "272623.1": {
+      "genome_name": "Lactococcus lactis subsp. lactis Il1403",
+      "rep100": "272623.7",
+      "rep200": "272623.7"
+    },
+    "272624.3": {
+      "genome_name": "Legionella pneumophila subsp. pneumophila str. Philadelphia 1",
+      "rep100": "272624.6",
+      "rep200": "272624.6"
+    },
+    "272626.1": {
+      "genome_name": "Listeria innocua Clip11262",
+      "rep100": "169963.11",
+      "rep200": "169963.11"
+    },
+    "272631.1": {
+      "genome_name": "Mycobacterium leprae TN",
+      "rep100": "83332.12",
+      "rep200": "1008298.3"
+    },
+    "272633.1": {
+      "genome_name": "Mycoplasma penetrans HF-2",
+      "rep100": "272633.4",
+      "rep200": "272633.4"
+    },
+    "272634.1": {
+      "genome_name": "Mycoplasma pneumoniae M129",
+      "rep100": "272634.6",
+      "rep200": "272634.6"
+    },
+    "272635.1": {
+      "genome_name": "Mycoplasma pulmonis UAB CTIP",
+      "rep100": "272635.4",
+      "rep200": "272635.4"
+    },
+    "272843.1": {
+      "genome_name": "Pasteurella multocida subsp. multocida str. Pm70",
+      "rep100": "71421.8",
+      "rep200": "272843.6"
+    },
+    "272844.1": {
+      "genome_name": "Pyrococcus abyssi GE5",
+      "rep100": "272844.11",
+      "rep200": "272844.11"
+    },
+    "272942.6": {
+      "genome_name": "Rhodobacter capsulatus SB1003",
+      "rep100": "272943.9",
+      "rep200": "1061.25"
+    },
+    "272943.3": {
+      "genome_name": "Rhodobacter sphaeroides 2.4.1",
+      "rep100": "272943.9",
+      "rep200": "272943.9"
+    },
+    "273057.1": {
+      "genome_name": "Sulfolobus solfataricus P2",
+      "rep100": "427317.9",
+      "rep200": "427317.9"
+    },
+    "273063.1": {
+      "genome_name": "Sulfolobus tokodaii str. 7",
+      "rep100": "273063.9",
+      "rep200": "273063.9"
+    },
+    "273068.3": {
+      "genome_name": "Thermoanaerobacter tengcongensis MB4",
+      "rep100": "340099.6",
+      "rep200": "911092.6"
+    },
+    "273075.1": {
+      "genome_name": "Thermoplasma acidophilum DSM 1728",
+      "rep100": "273075.10",
+      "rep200": "273075.10"
+    },
+    "273116.1": {
+      "genome_name": "Thermoplasma volcanium GSS1",
+      "rep100": "273116.8",
+      "rep200": "273116.8"
+    },
+    "273119.1": {
+      "genome_name": "Ureaplasma parvum serovar 3 ATCC 700970",
+      "rep100": "505682.4",
+      "rep200": "505682.4"
+    },
+    "273121.1": {
+      "genome_name": "Wolinella succinogenes DSM 1740",
+      "rep100": "273121.8",
+      "rep200": "273121.8"
+    },
+    "273123.1": {
+      "genome_name": "Yersinia pseudotuberculosis IP 32953",
+      "rep100": "2029683.3",
+      "rep200": "393305.7"
+    },
+    "279010.5": {
+      "genome_name": "Bacillus licheniformis ATCC 14580",
+      "rep100": "224308.43",
+      "rep200": "279010.13"
+    },
+    "279238.18": {
+      "genome_name": "Novosphingobium aromaticivorans DSM 12444",
+      "rep100": "279238.18",
+      "rep200": "279238.18"
+    },
+    "279714.3": {
+      "genome_name": "Lutiella nitroferrum 2002",
+      "rep100": "557598.3",
+      "rep200": "279714.3"
+    },
+    "279808.3": {
+      "genome_name": "Staphylococcus haemolyticus JCSC1435",
+      "rep100": "176280.10",
+      "rep200": "28035.257"
+    },
+    "281309.3": {
+      "genome_name": "Bacillus thuringiensis serovar konkukian str. 97-27",
+      "rep100": "226900.8",
+      "rep200": "226900.8"
+    },
+    "281689.4": {
+      "genome_name": "Desulfuromonas acetoxidans DSM 684",
+      "rep100": "2919173.3",
+      "rep200": "281689.4"
+    },
+    "282458.1": {
+      "genome_name": "Staphylococcus aureus subsp. aureus MRSA252",
+      "rep100": "176280.10",
+      "rep200": "93061.5"
+    },
+    "283165.1": {
+      "genome_name": "Bartonella quintana str. Toulouse",
+      "rep100": "1293911.3",
+      "rep200": "283165.4"
+    },
+    "283166.1": {
+      "genome_name": "Bartonella henselae str. Houston-1",
+      "rep100": "1293911.3",
+      "rep200": "1134510.3"
+    },
+    "283942.3": {
+      "genome_name": "Idiomarina loihiensis L2TR",
+      "rep100": "283942.6",
+      "rep200": "283942.6"
+    },
+    "287752.3": {
+      "genome_name": "Aurantimonas manganoxydans SI85-9A1",
+      "rep100": "287752.3",
+      "rep200": "287752.3"
+    },
+    "288000.5": {
+      "genome_name": "Bradyrhizobium sp. BTAi1",
+      "rep100": "224911.5",
+      "rep200": "224911.5"
+    },
+    "288705.3": {
+      "genome_name": "Renibacterium salmoninarum ATCC 33209",
+      "rep100": "361575.7",
+      "rep200": "288705.4"
+    },
+    "289376.4": {
+      "genome_name": "Thermodesulfovibrio yellowstonii DSM 11347",
+      "rep100": "289376.4",
+      "rep200": "289376.4"
+    },
+    "290315.4": {
+      "genome_name": "Chlorobium limicola DSM 245",
+      "rep100": "290318.6",
+      "rep200": "290315.5"
+    },
+    "290318.4": {
+      "genome_name": "Prosthecochloris vibrioformis DSM 265",
+      "rep100": "290318.6",
+      "rep200": "290318.6"
+    },
+    "290338.6": {
+      "genome_name": "Citrobacter koseri ATCC BAA-895",
+      "rep100": "511145.12",
+      "rep200": "511145.12"
+    },
+    "290339.8": {
+      "genome_name": "Cronobacter sakazakii ATCC BAA-894",
+      "rep100": "511145.12",
+      "rep200": "511145.12"
+    },
+    "290397.13": {
+      "genome_name": "Anaeromyxobacter dehalogenans 2CP-C",
+      "rep100": "290397.18",
+      "rep200": "290397.18"
+    },
+    "290398.4": {
+      "genome_name": "Chromohalobacter salexigens DSM 3043",
+      "rep100": "290398.11",
+      "rep200": "290398.11"
+    },
+    "290402.34": {
+      "genome_name": "Clostridium beijerincki beijerinckii NCIMB 8052",
+      "rep100": "290402.41",
+      "rep200": "290402.41"
+    },
+    "290434.1": {
+      "genome_name": "Borrelia garinii PBi",
+      "rep100": "139.379",
+      "rep200": "139.379"
+    },
+    "290512.6": {
+      "genome_name": "Prosthecochloris aestuarii DSM 271",
+      "rep100": "2743976.3",
+      "rep200": "2283143.3"
+    },
+    "290633.1": {
+      "genome_name": "Gluconobacter oxydans 621H",
+      "rep100": "290633.11",
+      "rep200": "290633.11"
+    },
+    "292415.3": {
+      "genome_name": "Thiobacillus denitrificans ATCC 25259",
+      "rep100": "292415.6",
+      "rep200": "292415.6"
+    },
+    "292459.1": {
+      "genome_name": "Symbiobacterium thermophilum IAM 14863",
+      "rep100": "292459.5",
+      "rep200": "292459.5"
+    },
+    "292805.3": {
+      "genome_name": "Wolbachia endosymbiont strain TRS of Brugia malayi",
+      "rep100": "570417.4",
+      "rep200": "292805.6"
+    },
+    "293653.3": {
+      "genome_name": "Streptococcus pyogenes MGAS5005",
+      "rep100": "160490.10",
+      "rep200": "160490.10"
+    },
+    "293826.4": {
+      "genome_name": "Alkaliphilus metalliredigens QYMF",
+      "rep100": "293826.6",
+      "rep200": "293826.6"
+    },
+    "295358.3": {
+      "genome_name": "Mycoplasma hyopneumoniae 232",
+      "rep100": "262719.5",
+      "rep200": "262719.5"
+    },
+    "296591.12": {
+      "genome_name": "Polaromonas sp. JS666",
+      "rep100": "535289.3",
+      "rep200": "296591.12"
+    },
+    "297245.3": {
+      "genome_name": "Legionella pneumophila str. Lens",
+      "rep100": "272624.6",
+      "rep200": "272624.6"
+    },
+    "297246.3": {
+      "genome_name": "Legionella pneumophila str. Paris",
+      "rep100": "272624.6",
+      "rep200": "272624.6"
+    },
+    "298386.1": {
+      "genome_name": "Photobacterium profundum SS9",
+      "rep100": "312309.11",
+      "rep200": "312309.11"
+    },
+    "298653.4": {
+      "genome_name": "Frankia sp. EAN1pec",
+      "rep100": "106370.16",
+      "rep200": "298653.7"
+    },
+    "299768.3": {
+      "genome_name": "Streptococcus thermophilus CNRZ1066",
+      "rep100": "160490.10",
+      "rep200": "264199.4"
+    },
+    "300267.13": {
+      "genome_name": "Shigella dysenteriae Sd197",
+      "rep100": "511145.12",
+      "rep200": "511145.12"
+    },
+    "300852.3": {
+      "genome_name": "Thermus thermophilus HB8",
+      "rep100": "300852.9",
+      "rep200": "300852.9"
+    },
+    "302409.3": {
+      "genome_name": "Ehrlichia ruminantium str. Gardel",
+      "rep100": "254945.26",
+      "rep200": "254945.26"
+    },
+    "306264.1": {
+      "genome_name": "Campylobacter upsaliensis RM3195",
+      "rep100": "192222.6",
+      "rep200": "888826.3"
+    },
+    "309798.3": {
+      "genome_name": "Coprothermobacter proteolyticus DSM 5265",
+      "rep100": "309798.4",
+      "rep200": "309798.4"
+    },
+    "309799.3": {
+      "genome_name": "Dictyoglomus thermophilum H-6-12",
+      "rep100": "515635.4",
+      "rep200": "515635.4"
+    },
+    "309801.4": {
+      "genome_name": "Thermomicrobium roseum DSM 5159",
+      "rep100": "309801.4",
+      "rep200": "309801.4"
+    },
+    "309807.19": {
+      "genome_name": "Salinibacter ruber DSM 13855",
+      "rep100": "309807.25",
+      "rep200": "309807.25"
+    },
+    "311403.8": {
+      "genome_name": "Agrobacterium radiobacter K84",
+      "rep100": "176299.10",
+      "rep200": "311403.8"
+    },
+    "312153.3": {
+      "genome_name": "Polynucleobacter sp. QLW-P1DMWA-1",
+      "rep100": "312153.5",
+      "rep200": "312153.5"
+    },
+    "312284.4": {
+      "genome_name": "marine actinobacterium PHSC20C1",
+      "rep100": "312284.4",
+      "rep200": "312284.4"
+    },
+    "312309.3": {
+      "genome_name": "Vibrio fischeri ES114",
+      "rep100": "312309.11",
+      "rep200": "312309.11"
+    },
+    "313589.5": {
+      "genome_name": "Janibacter sp. HTCC2649",
+      "rep100": "313589.5",
+      "rep200": "313589.5"
+    },
+    "313590.6": {
+      "genome_name": "Dokdonia donghaensis MED134",
+      "rep100": "216432.7",
+      "rep200": "313590.6"
+    },
+    "313594.4": {
+      "genome_name": "Polaribacter irgensii 23-P",
+      "rep100": "313594.4",
+      "rep200": "313598.6"
+    },
+    "313595.4": {
+      "genome_name": "Psychroflexus torquis ATCC 700755",
+      "rep100": "313594.4",
+      "rep200": "1189619.4"
+    },
+    "313596.4": {
+      "genome_name": "Robiginitalea biformata HTCC2501",
+      "rep100": "216432.7",
+      "rep200": "313596.4"
+    },
+    "313598.3": {
+      "genome_name": "Tenacibaculum sp. MED152",
+      "rep100": "313594.4",
+      "rep200": "313598.6"
+    },
+    "313603.4": {
+      "genome_name": "Flavobacteriales bacterium HTCC2170",
+      "rep100": "867900.3",
+      "rep200": "313603.6"
+    },
+    "314225.8": {
+      "genome_name": "Erythrobacter litoralis HTCC2594",
+      "rep100": "237727.5",
+      "rep200": "314225.8"
+    },
+    "314230.4": {
+      "genome_name": "Blastopirellula marina DSM 3645",
+      "rep100": "2527970.3",
+      "rep200": "2527970.3"
+    },
+    "314231.3": {
+      "genome_name": "Fulvimarina pelagi HTCC2506",
+      "rep100": "370622.4",
+      "rep200": "314231.3"
+    },
+    "314232.4": {
+      "genome_name": "Loktanella vestfoldensis SKA53",
+      "rep100": "759362.5",
+      "rep200": "314232.4"
+    },
+    "314254.5": {
+      "genome_name": "Oceanicaulis alexandrii HTCC2633",
+      "rep100": "1122613.3",
+      "rep200": "1122613.3"
+    },
+    "314260.5": {
+      "genome_name": "Parvularcula bermudensis HTCC2503",
+      "rep100": "314260.8",
+      "rep200": "314260.8"
+    },
+    "314262.3": {
+      "genome_name": "Roseobacter sp. MED193",
+      "rep100": "420998.4",
+      "rep200": "439496.3"
+    },
+    "314264.3": {
+      "genome_name": "Roseovarius sp. 217",
+      "rep100": "314270.3",
+      "rep200": "314264.4"
+    },
+    "314265.3": {
+      "genome_name": "Roseovarius sp. HTCC2601",
+      "rep100": "314270.3",
+      "rep200": "314265.3"
+    },
+    "314266.4": {
+      "genome_name": "Sphingomonas sp. SKA58",
+      "rep100": "1129547.3",
+      "rep200": "690566.3"
+    },
+    "314267.3": {
+      "genome_name": "Sulfitobacter sp. NAS-14.1",
+      "rep100": "314270.3",
+      "rep200": "1406866.3"
+    },
+    "314275.6": {
+      "genome_name": "Alteromonas macleodii 'Deep ecotype'",
+      "rep100": "2729140.3",
+      "rep200": "589873.3"
+    },
+    "314281.6": {
+      "genome_name": "Pseudoalteromonas tunicata strain D2",
+      "rep100": "2796132.3",
+      "rep200": "314281.6"
+    },
+    "314283.5": {
+      "genome_name": "Reinekea blandensis MED297",
+      "rep100": "314283.5",
+      "rep200": "314283.5"
+    },
+    "314285.4": {
+      "genome_name": "Congregibacter litoralis KT71",
+      "rep100": "314285.4",
+      "rep200": "314285.4"
+    },
+    "314292.23": {
+      "genome_name": "Photobacterium angustum S14",
+      "rep100": "312309.11",
+      "rep200": "675817.3"
+    },
+    "314345.3": {
+      "genome_name": "Mariprofundus ferrooxydans PV-1",
+      "rep100": "314344.7",
+      "rep200": "314344.7"
+    },
+    "314607.3": {
+      "genome_name": "beta proteobacterium KB13",
+      "rep100": "314607.3",
+      "rep200": "314607.3"
+    },
+    "314723.3": {
+      "genome_name": "Borrelia hermsii DAH",
+      "rep100": "314723.3",
+      "rep200": "314723.3"
+    },
+    "316056.14": {
+      "genome_name": "Rhodopseudomonas palustris BisB18",
+      "rep100": "224911.5",
+      "rep200": "316056.16"
+    },
+    "316067.3": {
+      "genome_name": "Geobacter sp. FRC-32",
+      "rep100": "404380.4",
+      "rep200": "316067.3"
+    },
+    "316274.3": {
+      "genome_name": "Herpetosiphon aurantiacus ATCC 23779",
+      "rep100": "316274.7",
+      "rep200": "316274.7"
+    },
+    "316275.9": {
+      "genome_name": "Aliivibrio salmonicida LFI1238",
+      "rep100": "312309.11",
+      "rep200": "312309.11"
+    },
+    "316279.3": {
+      "genome_name": "Synechococcus sp. CC9902",
+      "rep100": "180281.4",
+      "rep200": "316279.6"
+    },
+    "316407.3": {
+      "genome_name": "Escherichia coli W3110",
+      "rep100": "511145.12",
+      "rep200": "511145.12"
+    },
+    "317025.3": {
+      "genome_name": "Thiomicrospira crunogena XCL-2",
+      "rep100": "317025.9",
+      "rep200": "317025.9"
+    },
+    "317655.9": {
+      "genome_name": "Sphingopyxis alaskensis RB2256",
+      "rep100": "317655.17",
+      "rep200": "317655.17"
+    },
+    "318161.14": {
+      "genome_name": "Shewanella denitrificans OS217",
+      "rep100": "211586.12",
+      "rep200": "318167.14"
+    },
+    "318586.4": {
+      "genome_name": "Paracoccus denitrificans PD1222",
+      "rep100": "272943.9",
+      "rep200": "318586.5"
+    },
+    "319225.3": {
+      "genome_name": "Pelodictyon luteolum DSM 273",
+      "rep100": "290318.6",
+      "rep200": "319225.5"
+    },
+    "319795.16": {
+      "genome_name": "Deinococcus geothermalis DSM 11300",
+      "rep100": "243230.17",
+      "rep200": "319795.16"
+    },
+    "321955.3": {
+      "genome_name": "Brevibacterium linens BL2",
+      "rep100": "321955.4",
+      "rep200": "321955.4"
+    },
+    "321967.8": {
+      "genome_name": "Lactobacillus casei ATCC 334",
+      "rep100": "321967.11",
+      "rep200": "321967.11"
+    },
+    "322710.5": {
+      "genome_name": "Azotobacter vinelandii DJ",
+      "rep100": "208964.12",
+      "rep200": "322710.5"
+    },
+    "323097.3": {
+      "genome_name": "Nitrobacter hamburgensis X14",
+      "rep100": "224911.5",
+      "rep200": "323098.6"
+    },
+    "323259.5": {
+      "genome_name": "Methanospirillum hungatei JF-1",
+      "rep100": "323259.15",
+      "rep200": "323259.15"
+    },
+    "323261.3": {
+      "genome_name": "Nitrosococcus oceani ATCC 19707",
+      "rep100": "323261.6",
+      "rep200": "323261.6"
+    },
+    "323848.3": {
+      "genome_name": "Nitrosospira multiformis ATCC 25196",
+      "rep100": "323848.4",
+      "rep200": "323848.4"
+    },
+    "324057.4": {
+      "genome_name": "Paenibacillus sp. JDR-2",
+      "rep100": "324057.4",
+      "rep200": "324057.4"
+    },
+    "324602.4": {
+      "genome_name": "Chloroflexus aurantiacus J-10-fl",
+      "rep100": "324602.8",
+      "rep200": "324602.8"
+    },
+    "324925.4": {
+      "genome_name": "Pelodictyon phaeoclathratiforme BU-1",
+      "rep100": "290318.6",
+      "rep200": "324925.4"
+    },
+    "325240.9": {
+      "genome_name": "Shewanella baltica OS155",
+      "rep100": "211586.12",
+      "rep200": "211586.12"
+    },
+    "326297.7": {
+      "genome_name": "Shewanella amazonensis SB2B",
+      "rep100": "211586.12",
+      "rep200": "326297.10"
+    },
+    "326298.3": {
+      "genome_name": "Thiomicrospira denitrificans ATCC 33889",
+      "rep100": "326298.7",
+      "rep200": "326298.7"
+    },
+    "326424.13": {
+      "genome_name": "Frankia alni ACN14a",
+      "rep100": "106370.16",
+      "rep200": "326424.15"
+    },
+    "326426.4": {
+      "genome_name": "Bifidobacterium breve UCC2003",
+      "rep100": "206672.9",
+      "rep200": "206672.9"
+    },
+    "326442.4": {
+      "genome_name": "Pseudoalteromonas haloplanktis TAC125",
+      "rep100": "2796132.3",
+      "rep200": "326442.8"
+    },
+    "329726.14": {
+      "genome_name": "Acaryochloris marina MBIC11017",
+      "rep100": "395961.9",
+      "rep200": "2762553.3"
+    },
+    "330214.5": {
+      "genome_name": "Candidatus Nitrospira defluvii",
+      "rep100": "330214.5",
+      "rep200": "330214.5"
+    },
+    "33043.1533": {
+      "genome_name": "Coprococcus eutactus strain MGYG-HGUT-00231",
+      "rep100": "33043.1533",
+      "rep200": "411474.92"
+    },
+    "330779.3": {
+      "genome_name": "Sulfolobus acidocaldarius DSM 639",
+      "rep100": "330779.12",
+      "rep200": "330779.12"
+    },
+    "331104.5": {
+      "genome_name": "Blattabacterium sp. (Blattella germanica) str. Bge",
+      "rep100": "331104.5",
+      "rep200": "331104.5"
+    },
+    "334380.3": {
+      "genome_name": "Orientia tsutsugamushi str. Ikeda",
+      "rep100": "357244.4",
+      "rep200": "357244.4"
+    },
+    "334390.3": {
+      "genome_name": "Lactobacillus fermentum IFO 3956",
+      "rep100": "575594.3",
+      "rep200": "334390.5"
+    },
+    "334413.6": {
+      "genome_name": "Finegoldia magna ATCC 29328",
+      "rep100": "334413.6",
+      "rep200": "334413.6"
+    },
+    "335283.5": {
+      "genome_name": "Nitrosomonas eutropha C91",
+      "rep100": "228410.6",
+      "rep200": "1658667.3"
+    },
+    "335284.3": {
+      "genome_name": "Psychrobacter cryohalolentis K5",
+      "rep100": "335284.6",
+      "rep200": "335284.6"
+    },
+    "335541.4": {
+      "genome_name": "Syntrophomonas wolfei subsp. wolfei str. Goettingen",
+      "rep100": "335541.7",
+      "rep200": "335541.7"
+    },
+    "335543.6": {
+      "genome_name": "Syntrophobacter fumaroxidans MPOB",
+      "rep100": "335543.9",
+      "rep200": "335543.9"
+    },
+    "335992.3": {
+      "genome_name": "Pelagibacter ubique HTCC1062",
+      "rep100": "335992.9",
+      "rep200": "335992.9"
+    },
+    "336407.4": {
+      "genome_name": "Rickettsia bellii RML369-C",
+      "rep100": "272947.5",
+      "rep200": "336407.7"
+    },
+    "338187.4": {
+      "genome_name": "Vibrio harveyi ATCC BAA-1116",
+      "rep100": "312309.11",
+      "rep200": "265668.17"
+    },
+    "338963.3": {
+      "genome_name": "Pelobacter carbinolicus DSM 2380",
+      "rep100": "338963.6",
+      "rep200": "338963.6"
+    },
+    "338966.5": {
+      "genome_name": "Pelobacter propionicus DSM 2379",
+      "rep100": "398767.5",
+      "rep200": "338966.9"
+    },
+    "338969.3": {
+      "genome_name": "Rhodoferax ferrireducens DSM 15236",
+      "rep100": "535289.3",
+      "rep200": "338969.11"
+    },
+    "339671.5": {
+      "genome_name": "Actinobacillus succinogenes 130Z",
+      "rep100": "71421.8",
+      "rep200": "123820.3"
+    },
+    "339860.6": {
+      "genome_name": "Methanosphaera stadtmanae DSM 3091",
+      "rep100": "339860.19",
+      "rep200": "339860.19"
+    },
+    "340099.4": {
+      "genome_name": "Thermoanaerobacter pseudethanolicus ATCC 33223",
+      "rep100": "340099.6",
+      "rep200": "340099.6"
+    },
+    "340102.3": {
+      "genome_name": "Pyrobaculum arsenaticum DSM 13514",
+      "rep100": "444157.8",
+      "rep200": "698757.19"
+    },
+    "340177.8": {
+      "genome_name": "Chlorobium chlorochromatii CaD3",
+      "rep100": "194439.7",
+      "rep200": "340177.11"
+    },
+    "342108.5": {
+      "genome_name": "Magnetospirillum magneticum AMB-1",
+      "rep100": "1430440.4",
+      "rep200": "1244869.3"
+    },
+    "342610.6": {
+      "genome_name": "Pseudoalteromonas atlantica T6c",
+      "rep100": "283942.6",
+      "rep200": "342610.6"
+    },
+    "347257.4": {
+      "genome_name": "Mycoplasma agalactiae PG2",
+      "rep100": "347257.7",
+      "rep200": "347257.7"
+    },
+    "348780.3": {
+      "genome_name": "Natronomonas pharaonis DSM 2160",
+      "rep100": "2212850.3",
+      "rep200": "348780.14"
+    },
+    "349101.4": {
+      "genome_name": "Rhodobacter sphaeroides ATCC 17029",
+      "rep100": "272943.9",
+      "rep200": "272943.9"
+    },
+    "349124.5": {
+      "genome_name": "Halorhodospira halophila SL1",
+      "rep100": "349124.8",
+      "rep200": "349124.8"
+    },
+    "349161.4": {
+      "genome_name": "Desulfotomaculum reducens MI-1",
+      "rep100": "696281.4",
+      "rep200": "349161.4"
+    },
+    "349163.4": {
+      "genome_name": "Acidiphilium cryptum JF-5",
+      "rep100": "349163.14",
+      "rep200": "349163.14"
+    },
+    "349307.9": {
+      "genome_name": "Methanosaeta thermophila PT",
+      "rep100": "349307.15",
+      "rep200": "349307.15"
+    },
+    "349521.5": {
+      "genome_name": "Hahella chejuensis KCTC 2396",
+      "rep100": "349521.8",
+      "rep200": "349521.8"
+    },
+    "349741.3": {
+      "genome_name": "Akkermansia muciniphila ATCC BAA-835",
+      "rep100": "349741.6",
+      "rep200": "349741.6"
+    },
+    "349968.3": {
+      "genome_name": "Yersinia bercovieri ATCC 43970",
+      "rep100": "2029683.3",
+      "rep200": "393305.7"
+    },
+    "350058.5": {
+      "genome_name": "Mycobacterium vanbaaleni vanbaalenii PYR-1",
+      "rep100": "246196.19",
+      "rep200": "350058.8"
+    },
+    "350688.3": {
+      "genome_name": "Alkaliphilus oremlandi oremlandii OhILAs",
+      "rep100": "350688.5",
+      "rep200": "350688.5"
+    },
+    "351160.3": {
+      "genome_name": "Uncultured methanogenic archaeon RC-I",
+      "rep100": "351160.9",
+      "rep200": "351160.9"
+    },
+    "351348.5": {
+      "genome_name": "Marinobacter hydrocarbonoclasticus aquaeolei VT8",
+      "rep100": "2743.3",
+      "rep200": "2743.3"
+    },
+    "351605.4": {
+      "genome_name": "Geobacter uraniireducens Rf4",
+      "rep100": "404380.4",
+      "rep200": "351605.6"
+    },
+    "351607.5": {
+      "genome_name": "Acidothermus cellulolyticus 11B",
+      "rep100": "351607.8",
+      "rep200": "351607.8"
+    },
+    "351627.4": {
+      "genome_name": "Caldicellulosiruptor saccharolyticus DSM 8903",
+      "rep100": "521460.8",
+      "rep200": "351627.8"
+    },
+    "354242.8": {
+      "genome_name": "Campylobacter jejuni subsp. jejuni 81-176",
+      "rep100": "192222.6",
+      "rep200": "192222.6"
+    },
+    "355278.4": {
+      "genome_name": "Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)'",
+      "rep100": "456481.4",
+      "rep200": "456481.4"
+    },
+    "357244.3": {
+      "genome_name": "Orientia tsutsugamushi Boryong",
+      "rep100": "357244.4",
+      "rep200": "357244.4"
+    },
+    "357544.13": {
+      "genome_name": "Helicobacter pylori HPAG1",
+      "rep100": "85962.8",
+      "rep200": "85962.8"
+    },
+    "357804.5": {
+      "genome_name": "Psychromonas ingrahami ingrahamii 37",
+      "rep100": "357804.7",
+      "rep200": "357804.7"
+    },
+    "357808.3": {
+      "genome_name": "Roseiflexus sp. RS-1",
+      "rep100": "357808.5",
+      "rep200": "357808.5"
+    },
+    "357809.4": {
+      "genome_name": "Clostridium phytofermentans ISDg",
+      "rep100": "357809.8",
+      "rep200": "357809.8"
+    },
+    "358681.3": {
+      "genome_name": "Brevibacillus brevis NBRC 100599",
+      "rep100": "358681.3",
+      "rep200": "358681.3"
+    },
+    "360095.7": {
+      "genome_name": "Bartonella bacilliformis KC583",
+      "rep100": "1293911.3",
+      "rep200": "1293911.3"
+    },
+    "360106.5": {
+      "genome_name": "Campylobacter fetus subsp. fetus 82-40",
+      "rep100": "1244528.3",
+      "rep200": "32020.28"
+    },
+    "360107.5": {
+      "genome_name": "Campylobacter hominis ATCC BAA-381",
+      "rep100": "360107.7",
+      "rep200": "360107.7"
+    },
+    "362242.7": {
+      "genome_name": "Mycobacterium ulcerans Agy99",
+      "rep100": "83332.12",
+      "rep200": "216594.6"
+    },
+    "363253.4": {
+      "genome_name": "Lawsonia intracellularis PHE/MN1-00",
+      "rep100": "363253.5",
+      "rep200": "363253.5"
+    },
+    "365046.3": {
+      "genome_name": "Ramlibacter tataouinensis TTB310",
+      "rep100": "365046.3",
+      "rep200": "365046.3"
+    },
+    "367737.4": {
+      "genome_name": "Arcobacter butzleri RM4018",
+      "rep100": "367737.6",
+      "rep200": "367737.6"
+    },
+    "367928.5": {
+      "genome_name": "Bifidobacterium adolescentis ATCC 15703",
+      "rep100": "206672.9",
+      "rep200": "401473.3"
+    },
+    "368407.6": {
+      "genome_name": "Methanoculleus marisnigri JR1",
+      "rep100": "368407.15",
+      "rep200": "368407.15"
+    },
+    "368408.5": {
+      "genome_name": "Thermofilum pendens Hrk 5",
+      "rep100": "368408.14",
+      "rep200": "368408.14"
+    },
+    "36870.1": {
+      "genome_name": "Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis",
+      "rep100": "36870.6",
+      "rep200": "36870.6"
+    },
+    "369723.3": {
+      "genome_name": "Salinispora tropica CNB-440",
+      "rep100": "391037.6",
+      "rep200": "391037.6"
+    },
+    "370438.3": {
+      "genome_name": "Pelotomaculum thermopropionicum SI",
+      "rep100": "370438.4",
+      "rep200": "370438.4"
+    },
+    "372461.16": {
+      "genome_name": "Buchnera aphidicola str. Cc (Cinara cedri)",
+      "rep100": "372461.17",
+      "rep200": "372461.17"
+    },
+    "373903.4": {
+      "genome_name": "Halothermothrix orenii H 168",
+      "rep100": "373903.5",
+      "rep200": "373903.5"
+    },
+    "373994.3": {
+      "genome_name": "Rivularia sp. PCC 7116",
+      "rep100": "373994.3",
+      "rep200": "373994.3"
+    },
+    "374463.4": {
+      "genome_name": "Baumannia cicadellinicola str. Hc (Homalodisca coagulata)",
+      "rep100": "374463.5",
+      "rep200": "374463.5"
+    },
+    "374847.3": {
+      "genome_name": "Korarchaeum cryptofilum OPF8",
+      "rep100": "374847.13",
+      "rep200": "374847.13"
+    },
+    "375286.6": {
+      "genome_name": "Janthinobacterium sp. Marseille",
+      "rep100": "204773.6",
+      "rep200": "204773.6"
+    },
+    "375451.6": {
+      "genome_name": "Roseobacter denitrificans OCh 114",
+      "rep100": "420998.4",
+      "rep200": "375451.14"
+    },
+    "376686.6": {
+      "genome_name": "Flavobacterium johnsonia johnsoniae UW101",
+      "rep100": "402612.5",
+      "rep200": "376686.10"
+    },
+    "37692.4": {
+      "genome_name": "Candidatus Phytoplasma mali",
+      "rep100": "37692.4",
+      "rep200": "37692.4"
+    },
+    "377629.3": {
+      "genome_name": "Teredinibacter turnerae T7901",
+      "rep100": "1056817.3",
+      "rep200": "1056817.3"
+    },
+    "378753.3": {
+      "genome_name": "Kocuria rhizophila DC2201",
+      "rep100": "378753.5",
+      "rep200": "378753.5"
+    },
+    "378806.8": {
+      "genome_name": "Stigmatella aurantiaca DW4/3-1",
+      "rep100": "1192034.3",
+      "rep200": "378806.8"
+    },
+    "379066.3": {
+      "genome_name": "Gemmatimonas aurantiaca T-27",
+      "rep100": "379066.3",
+      "rep200": "379066.3"
+    },
+    "379731.5": {
+      "genome_name": "Pseudomonas stutzeri A1501",
+      "rep100": "208964.12",
+      "rep200": "1123519.7"
+    },
+    "380394.3": {
+      "genome_name": "Acidithiobacillus ferrooxidans ATCC 53993",
+      "rep100": "380394.4",
+      "rep200": "380394.4"
+    },
+    "380703.5": {
+      "genome_name": "Aeromonas hydrophila subsp. hydrophila ATCC 7966",
+      "rep100": "218936.3",
+      "rep200": "380703.7"
+    },
+    "380749.4": {
+      "genome_name": "Hydrogenobaculum sp. Y04AAS1",
+      "rep100": "380749.5",
+      "rep200": "380749.5"
+    },
+    "381764.6": {
+      "genome_name": "Fervidobacterium nodosum Rt17-B1",
+      "rep100": "381764.8",
+      "rep200": "381764.8"
+    },
+    "382464.3": {
+      "genome_name": "Verrucomicrobiae bacterium DG1235",
+      "rep100": "382464.3",
+      "rep200": "382464.3"
+    },
+    "382638.8": {
+      "genome_name": "Helicobacter acinonychis str. Sheeba",
+      "rep100": "85962.8",
+      "rep200": "85962.8"
+    },
+    "383372.4": {
+      "genome_name": "Roseiflexus castenholzi DSM 13941",
+      "rep100": "357808.5",
+      "rep200": "357808.5"
+    },
+    "384616.5": {
+      "genome_name": "Pyrobaculum islandicum DSM 4184",
+      "rep100": "444157.8",
+      "rep200": "384616.10"
+    },
+    "386415.6": {
+      "genome_name": "Clostridium novyi NT",
+      "rep100": "929506.3",
+      "rep200": "386415.7"
+    },
+    "387092.5": {
+      "genome_name": "Nitratiruptor sp. SB155-2",
+      "rep100": "387092.6",
+      "rep200": "387092.6"
+    },
+    "387093.4": {
+      "genome_name": "Sulfurovum sp. NBC37-1",
+      "rep100": "387093.6",
+      "rep200": "387093.6"
+    },
+    "387344.13": {
+      "genome_name": "Lactobacillus brevis ATCC 367",
+      "rep100": "387344.15",
+      "rep200": "387344.15"
+    },
+    "388399.4": {
+      "genome_name": "Sagittula stellata E-37",
+      "rep100": "252305.5",
+      "rep200": "388399.4"
+    },
+    "388413.5": {
+      "genome_name": "Algoriphagus sp. PR1",
+      "rep100": "388413.5",
+      "rep200": "388413.5"
+    },
+    "388919.8": {
+      "genome_name": "Streptococcus sanguinis SK36",
+      "rep100": "764298.7",
+      "rep200": "388919.9"
+    },
+    "390236.5": {
+      "genome_name": "Borrelia afzelii PKo",
+      "rep100": "139.379",
+      "rep200": "139.379"
+    },
+    "390333.6": {
+      "genome_name": "Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842",
+      "rep100": "390333.7",
+      "rep200": "390333.7"
+    },
+    "391008.3": {
+      "genome_name": "Stenotrophomonas maltophilia R551-3",
+      "rep100": "190485.4",
+      "rep200": "1429851.3"
+    },
+    "391009.4": {
+      "genome_name": "Thermosipho melanesiensis BI429",
+      "rep100": "484019.4",
+      "rep200": "391009.9"
+    },
+    "391037.3": {
+      "genome_name": "Salinispora arenicola CNS-205",
+      "rep100": "391037.6",
+      "rep200": "391037.6"
+    },
+    "391165.8": {
+      "genome_name": "Granulibacter bethesdensis CGDNIH1",
+      "rep100": "391165.9",
+      "rep200": "391165.9"
+    },
+    "391296.7": {
+      "genome_name": "Streptococcus suis 98HAH33",
+      "rep100": "160490.10",
+      "rep200": "568814.3"
+    }
+  },
+  "summary": {
+    "total_hits": 268,
+    "genomes_tested": 500,
+    "genomes_with_hits": 51,
+    "roles_tested": [
+      "CsgA",
+      "CsgB",
+      "AgfA",
+      "TasA",
+      "FapC",
+      "PSM",
+      "ChpD",
+      "AmyA",
+      "CtrA",
+      "CopA",
+      "CusA",
+      "CueO",
+      "CopZ",
+      "CueR",
+      "CusR",
+      "CopY",
+      "SodA",
+      "SodB",
+      "SodC",
+      "KatA"
+    ],
+    "timestamp": 1754331209
+  }
+}

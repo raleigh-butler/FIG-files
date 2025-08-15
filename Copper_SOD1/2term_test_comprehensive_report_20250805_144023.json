@@ -1,0 +1,686 @@
+{
+  "test_info": {
+    "timestamp": "20250805_144023",
+    "test_type": "2_term_parallel_progress_test",
+    "execution_time": 65.60289597511292,
+    "genomes_tested": 992
+  },
+  "timing_analysis": {
+    "total_seconds": 65.60289597511292,
+    "total_minutes": 1.0933815995852152,
+    "avg_seconds_per_term": 32.80144798755646,
+    "fastest_term": {
+      "term": "copA",
+      "duration": 32.63541793823242,
+      "features": 127,
+      "start_time": "14:39:17",
+      "end_time": "14:39:50"
+    },
+    "slowest_term": {
+      "term": "sodA",
+      "duration": 32.9671049118042,
+      "features": 122,
+      "start_time": "14:39:50",
+      "end_time": "14:40:23"
+    },
+    "most_productive": {
+      "term": "copA",
+      "duration": 32.63541793823242,
+      "features": 127,
+      "start_time": "14:39:17",
+      "end_time": "14:39:50"
+    },
+    "time_variation": 0.33168697357177734,
+    "detailed_timings": [
+      {
+        "term": "copA",
+        "duration": 32.63541793823242,
+        "features": 127,
+        "start_time": "14:39:17",
+        "end_time": "14:39:50"
+      },
+      {
+        "term": "sodA",
+        "duration": 32.9671049118042,
+        "features": 122,
+        "start_time": "14:39:50",
+        "end_time": "14:40:23"
+      }
+    ]
+  },
+  "results_summary": {
+    "successful_terms": 47,
+    "total_features": 249,
+    "avg_features_per_term": 124.5,
+    "terms_tested": [
+      "copA",
+      "sodA"
+    ]
+  },
+  "api_statistics": {
+    "total_calls": 1984,
+    "successful_calls": 1984,
+    "timeout_errors": 0,
+    "http_errors": 0,
+    "retry_attempts": 0
+  },
+  "resilience_stats": {
+    "api_call_count": 68,
+    "api_failures": 0,
+    "failure_rate": 0.0
+  },
+  "raw_results": [
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 10,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 8,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 10,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 6,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 3,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 4,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 8,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 4,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 4,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 10,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 2,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 4,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 6,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 4,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 12,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 12,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "copA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 4,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 4,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 8,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 4,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 14,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 4,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 4,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 2,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 4,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 2,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 14,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 10,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 12,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 8,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 8,
+      "success": true,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 0,
+      "success": false,
+      "features": []
+    },
+    {
+      "search_term": "sodA",
+      "search_type": "gene",
+      "track_name": "Safe_Parallel_Search",
+      "genomes_searched": 30,
+      "features_found": 10,
+      "success": true,
+      "features": []
+    }
+  ]
+}
